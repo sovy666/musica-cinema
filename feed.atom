@@ -2,139 +2,814 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/musica-cinema/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T14:43:40.942Z</updated>
+    <updated>2022-04-05T14:48:39.700Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/musica-cinema/index.html"/>
     <link rel="self" href="https://sovy666.github.io/musica-cinema/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles]]></title>
-        <id>https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/</id>
-        <link href="https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/"/>
-        <updated>2022-04-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.]]></summary>
+        <title type="html"><![CDATA[Machine Gun Kelly Plagiarized Paramore On New Song, Claims All That Remains Singer Phil Labonte [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/machine_gun_kelly_plagiarized_paramore_on_new_song_claims_all_that_remains_singer_phil_labonte.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/machine_gun_kelly_plagiarized_paramore_on_new_song_claims_all_that_remains_singer_phil_labonte.html"/>
+        <updated>2022-04-05T18:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "Maybe" has been recognized for its similarities to "Misery Business."]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
+            <name>News @ Ultimate-Guitar.Com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Package Manager – Complete Guide to NPM and Yarn]]></title>
-        <id>624b0547ac55f60686c2d2e1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/"/>
-        <updated>2022-04-05T00:08:08.000Z</updated>
-        <summary type="html"><![CDATA[A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development]]></summary>
+        <title type="html"><![CDATA[Max Cavalera Says This Sepultura Song Reminds Him Of Pantera's 'Walk', Reveals Favorites He Recorded With The Band [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/max_cavalera_says_this_sepultura_song_reminds_him_of_panteras_walk_reveals_favorites_he_recorded_with_the_band.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/max_cavalera_says_this_sepultura_song_reminds_him_of_panteras_walk_reveals_favorites_he_recorded_with_the_band.html"/>
+        <updated>2022-04-05T17:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "The riff is so simple, it's almost childish," explains Max.]]></summary>
         <author>
-            <name>Oluwatobi Sofela</name>
+            <name>News @ Ultimate-Guitar.Com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Beginner's Guide to Sass]]></title>
-        <id>6233c160cdcd57069ddfadb8</id>
-        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-sass/"/>
-        <updated>2022-04-04T23:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article]]></summary>
+        <title type="html"><![CDATA[10 Extreme Metal Supergroups That You Need To Check Out [News]]]></title>
+        <id>https://www.ultimate-guitar.com/articles/features/10_extreme_metal_supergroups_that_you_need_to_check_out-129721</id>
+        <link href="https://www.ultimate-guitar.com/articles/features/10_extreme_metal_supergroups_that_you_need_to_check_out-129721"/>
+        <updated>2022-04-05T17:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Features: Modern heavy bands consisting of famous musicians.]]></summary>
         <author>
-            <name>Israel Mitolu</name>
+            <name>News @ Ultimate-Guitar.Com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Types of Hard Drives – SATA, PATA, SCSI, and SSD]]></title>
-        <id>624ad0f4ac55f60686c2d118</id>
-        <link href="https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/"/>
-        <updated>2022-04-04T23:17:35.000Z</updated>
-        <summary type="html"><![CDATA[A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they]]></summary>
+        <title type="html"><![CDATA[Van Halen's Hometown to Name New Stage After the Band]]></title>
+        <id>https://loudwire.com/?p=505549</id>
+        <link href="https://loudwire.com/pasadena-names-stage-after-van-halen/"/>
+        <updated>2022-04-05T14:42:59.000Z</updated>
+        <summary type="html"><![CDATA[The stage will be part of a larger new park in the city of Pasadena. Continue reading…]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>Alicia Selin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make an Image Search App in React using the Unsplash API]]></title>
-        <id>6249d59dac55f60686c2ce11</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/"/>
-        <updated>2022-04-04T22:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development]]></summary>
+        <title type="html"><![CDATA[Hayley Williams Shares Paramore Throwback, but What Does It Mean?]]></title>
+        <id>https://loudwire.com/?p=505555</id>
+        <link href="https://loudwire.com/hayley-williams-paramore-throwback-photo-social-media-return/"/>
+        <updated>2022-04-05T14:42:21.000Z</updated>
+        <summary type="html"><![CDATA[You can feel the emo through the screen. Continue reading…]]></summary>
         <author>
-            <name>Ateev Duggal</name>
+            <name>Philip Trapp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Project – How to Build a Wordle Clone using Python and Rich]]></title>
-        <id>624a520eac55f60686c2cfa0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/"/>
-        <updated>2022-04-04T20:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to]]></summary>
+        <title type="html"><![CDATA[Barker + Kardashian Reportedly Married Right After Grammy Awards]]></title>
+        <id>https://loudwire.com/?p=505558</id>
+        <link href="https://loudwire.com/blink-182-travis-barker-kourtney-kardashian-reportedly-marry-after-grammys/"/>
+        <updated>2022-04-05T14:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Congrats! Continue reading…]]></summary>
         <author>
-            <name>Ashutosh Krishna</name>
+            <name>Joe DiVita</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker Mount Volume – How To Mount a Local Directory]]></title>
-        <id>62402130138a19064b0666c6</id>
-        <link href="https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/"/>
-        <updated>2022-04-04T20:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that]]></summary>
+        <title type="html"><![CDATA[Gallagher - Styles for Not Working as Hard as 'Real' Musicians]]></title>
+        <id>https://loudwire.com/?p=505546</id>
+        <link href="https://loudwire.com/noel-gallagher-calls-out-harry-styles-not-working-hard-real-musicians/"/>
+        <updated>2022-04-05T14:21:28.000Z</updated>
+        <summary type="html"><![CDATA[The former Oasis musician is not a fan of The X Factor talents. Continue reading…]]></summary>
         <author>
-            <name>Sebastian Sigl</name>
+            <name>Chad Childers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thunder Client – An Alternative Way to Test Restful APIs]]></title>
-        <id>623646bccdcd57069ddfb98f</id>
-        <link href="https://www.freecodecamp.org/news/thunder-client-for-vscode/"/>
-        <updated>2022-04-04T19:09:46.000Z</updated>
-        <summary type="html"><![CDATA[This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers]]></summary>
+        <title type="html"><![CDATA[Trailer per Titanic 666: la Asylum scatena la vendetta dei passeggeri annegati nel 1912]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284272</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-titanic-666-la-asylum-scatena-la-vendetta-dei-passeggeri/"/>
+        <updated>2022-04-05T14:21:11.000Z</updated>
+        <summary type="html"><![CDATA[C'è Annalynne McCord tra i protagonisti dell'horror low budget diretto da Nick Lyon
+L'articolo Trailer per Titanic 666: la Asylum scatena la vendetta dei passeggeri annegati nel 1912 proviene da Il Cineocchio.]]></summary>
         <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
+            <name>Redazione Il Cineocchio</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
-        <id>https://css-tricks.com/?p=364166</id>
-        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
-        <updated>2022-04-04T18:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
-Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Vince Neil Once Spoke to Late Hanoi Rocks Drummer Through Medium]]></title>
+        <id>https://loudwire.com/?p=505542</id>
+        <link href="https://loudwire.com/motley-crue-vince-neil-hanoi-rocks-drummer-razzle-medium/"/>
+        <updated>2022-04-05T14:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Spooky. Continue reading…]]></summary>
         <author>
-            <name>Adam Rackis</name>
+            <name>Lauryn Schaffner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientific Computing in Golang with the Gonum Package]]></title>
-        <id>624515df138a19064b068e7c</id>
-        <link href="https://www.freecodecamp.org/news/scientific-computing-in-golang-using-gonum/"/>
-        <updated>2022-04-04T15:49:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum]]></summary>
+        <title type="html"><![CDATA[Leaf Hound: Growers Of Mushroom - Album Of The Week Club review]]></title>
+        <id>https://www.loudersound.com/reviews/leaf-hound-growers-of-mushroom-album-of-the-week-club-review</id>
+        <link href="https://www.loudersound.com/reviews/leaf-hound-growers-of-mushroom-album-of-the-week-club-review"/>
+        <updated>2022-04-05T14:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Leaf Hound's cult classic Growers Of Mushroom was inspired by an anthology of horror stories and became an accidental template for stoner rock]]></summary>
         <author>
-            <name>Ukeje Chukwuemeriwo Goodness</name>
+            <name>Louder</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The freeCodeCamp World Translation Summit 2022 – Join the Translation Effort]]></title>
-        <id>6244b25c138a19064b0686d0</id>
-        <link href="https://www.freecodecamp.org/news/the-freecodecamp-world-translation-summit-2022-join-the-translation-effort/"/>
-        <updated>2022-04-04T14:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators]]></summary>
+        <title type="html"><![CDATA[Korn + Evanescence Announce Summer 2022 Tour]]></title>
+        <id>https://loudwire.com/?p=505536</id>
+        <link href="https://loudwire.com/korn-evanescence-announce-summer-2022-tour/"/>
+        <updated>2022-04-05T14:09:10.000Z</updated>
+        <summary type="html"><![CDATA[The last time they toured together was 2007. Continue reading…]]></summary>
         <author>
-            <name>Estefania Cassingena Navone</name>
+            <name>Joe DiVita</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ExamPro Cloud Developer Environment Certification — Pass the Exam with This 12 Hour Course]]></title>
-        <id>623f380c138a19064b06605b</id>
-        <link href="https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/"/>
-        <updated>2022-04-04T13:14:49.000Z</updated>
-        <summary type="html"><![CDATA[If you are a web-application developer looking to learn how to leverage the cloud or want to become a cloud developer, the ExamPro Cloud Development Environment (EXP-CDE-01) is the first step. What is a Cloud Developer Environment?  A Cloud Developer Environment (CDE) is a:  *  code editor]]></summary>
+        <title type="html"><![CDATA[Saturday Night Live share axed skit about goths and now we understand why it was dropped]]></title>
+        <id>https://www.loudersound.com/news/saturday-night-live-share-axed-skit-about-goths-and-now-we-understand-why-it-was-dropped</id>
+        <link href="https://www.loudersound.com/news/saturday-night-live-share-axed-skit-about-goths-and-now-we-understand-why-it-was-dropped"/>
+        <updated>2022-04-05T13:59:50.000Z</updated>
+        <summary type="html"><![CDATA[SNL's unused sketch Three Normal Goths contains plenty of eyeliner...but not a lot of laughs]]></summary>
         <author>
-            <name>Andrew Brown</name>
+            <name>Louder</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List]]></title>
-        <id>https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/</id>
-        <link href="https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.]]></summary>
+        <title type="html"><![CDATA[Report – Sepultura Drummer Posts, Deletes Statement on Tour Exit]]></title>
+        <id>https://loudwire.com/?p=505534</id>
+        <link href="https://loudwire.com/sepultura-drummer-posts-deletes-explanation-leaving-bands-tour/"/>
+        <updated>2022-04-05T13:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Is Eloy Casagrande no longer on the road with the band? Continue reading…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kompressor Experiment stream whole of new album Ebb & Flow]]></title>
+        <id>https://www.loudersound.com/news/the-kompressor-experiment-stream-whole-of-new-album-ebb-and-flow</id>
+        <link href="https://www.loudersound.com/news/the-kompressor-experiment-stream-whole-of-new-album-ebb-and-flow"/>
+        <updated>2022-04-05T13:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Swiss instrumental post-rockers The Kompressor Experiment will release Ebb & Flow in April]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurt Cobain +  Layne Staley Each Die on April 5 Eight Years Apart]]></title>
+        <id>https://loudwire.com/?p=232559</id>
+        <link href="https://loudwire.com/nirvana-kurt-cobain-alice-in-chains-layne-staley-death-anniversaries/"/>
+        <updated>2022-04-05T13:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Get the history behind these two tragedies. Continue reading…]]></summary>
+        <author>
+            <name>Jon Wiederhorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hammerfall's Joacim Cans: "The time to pass the torch was years ago"]]></title>
+        <id>https://www.loudersound.com/features/hammerfalls-joacim-cans-the-time-to-pass-the-torch-was-ages-ago</id>
+        <link href="https://www.loudersound.com/features/hammerfalls-joacim-cans-the-time-to-pass-the-torch-was-ages-ago"/>
+        <updated>2022-04-05T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Hammerfall helped keep heavy metal alive in the 90s, but new album Hammer Of Dawn shows their quest is far from over]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flea's Daughter Used RHCP's First Grammy Award as a Garden Shovel]]></title>
+        <id>https://loudwire.com/?p=505527</id>
+        <link href="https://loudwire.com/flea-daughter-red-hot-chili-peppers-grammy-garden-shovel/"/>
+        <updated>2022-04-05T12:32:18.000Z</updated>
+        <summary type="html"><![CDATA[It was a while before Flea even knew about it Continue reading…]]></summary>
+        <author>
+            <name>Joe DiVita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Prettier, Bigger, Harder!" Rammstein are teasing us with a new social media campaign, and we've found out why]]></title>
+        <id>https://www.loudersound.com/news/prettier-bigger-harder-rammstein-are-teasing-us-with-a-new-social-media-campaign-and-weve-found-out-why</id>
+        <link href="https://www.loudersound.com/news/prettier-bigger-harder-rammstein-are-teasing-us-with-a-new-social-media-campaign-and-weve-found-out-why"/>
+        <updated>2022-04-05T12:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Rammstein have posted a series of photos with the slogan "Schöner, größer, härter!" ("Prettier, Bigger, Harder!") and we're not sure if we're excited or scared]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Killswitch Engage’s My Last Serenade became metalcore’s first great anthem]]></title>
+        <id>https://www.loudersound.com/features/the-story-behind-the-song-my-last-serenade-by-killswitch-engage</id>
+        <link href="https://www.loudersound.com/features/the-story-behind-the-song-my-last-serenade-by-killswitch-engage"/>
+        <updated>2022-04-05T11:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Adam D talks us through the track that brought Killswitch Engage to the big stage]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cassyette's spellbinding cover of My Chemical Romance's I'm Not Okay (I Promise) will give you goosebumps]]></title>
+        <id>https://www.loudersound.com/news/cassyettes-spellbinding-cover-of-my-chemical-romances-im-not-okay-i-promise-will-give-you-goosebumps</id>
+        <link href="https://www.loudersound.com/news/cassyettes-spellbinding-cover-of-my-chemical-romances-im-not-okay-i-promise-will-give-you-goosebumps"/>
+        <updated>2022-04-05T11:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Cassyette has revamped MCR's iconic emo anthem I'm Not Okay (I Promise) into a soaring ballad and we absolutely cannot get enough]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warflower release video for epic new single I Am The Universe]]></title>
+        <id>https://www.loudersound.com/news/warflower-release-video-for-epic-new-single-i-am-the-universe</id>
+        <link href="https://www.loudersound.com/news/warflower-release-video-for-epic-new-single-i-am-the-universe"/>
+        <updated>2022-04-05T11:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Norwegian garage prog band Warflower release 13-minute new single I Am The Universe]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korn and Evanescence are up to something together, but what?]]></title>
+        <id>https://www.loudersound.com/news/korn-and-evanescence-share-social-media-posts-sparking-speculation-about-their-future-plans</id>
+        <link href="https://www.loudersound.com/news/korn-and-evanescence-share-social-media-posts-sparking-speculation-about-their-future-plans"/>
+        <updated>2022-04-05T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Korn and Evanescence have shared two cryptic social media posts, and we want to know what it is they're teasing]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clutch drop riotous new single Red Alert (Boss Metal Zone)]]></title>
+        <id>https://www.loudersound.com/news/clutch-drop-riotous-new-single-red-alert-boss-metal-zone</id>
+        <link href="https://www.loudersound.com/news/clutch-drop-riotous-new-single-red-alert-boss-metal-zone"/>
+        <updated>2022-04-05T11:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Maryland maulers Clutch return with new single Red Alert (Boss Metal Zone), previewing their upcoming thirteenth studio album]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La classifica delle 5 migliori interpretazioni nella carriera di Pedro Pascal]]></title>
+        <id>https://www.hallofseries.com/?p=549784</id>
+        <link href="https://www.hallofseries.com/serie-tv/pedro-pascal-le-sue-migliori-interpretazioni/"/>
+        <updated>2022-04-05T11:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Pascal è l’attore cileno più famoso di Hollywood. Questi merita un plauso per aver dimostrato un’ ammirevole disinvoltura nell’interpretare i ruoli più disparati con credibilità, versatilità e maestria. Cugino alla lontana della scrittrice Isabel Allende, Pedro Pascal è nato in Cile ma è stato costretto a espatriare con tutta la famiglia in Danimarca in seguito… Leggi tutto »La classifica delle 5 migliori interpretazioni nella carriera di Pedro Pascal
+The post La classifica delle 5 migliori interpretazioni nella carriera di Pedro Pascal appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Valeria Maria Pane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOL: Chi ride è fuori 2, la reunion del cast e l’assegnazione dei premi]]></title>
+        <id>https://www.hallofseries.com/?p=550634</id>
+        <link href="https://www.hallofseries.com/news/lol-chi-ride-e-fuori-2-reunion-cast/"/>
+        <updated>2022-04-05T11:03:11.000Z</updated>
+        <summary type="html"><![CDATA[LOL: Chi ride è fuori si è concluso con una seconda edizione che ha, per alcuni versi, bissato in positivo il successo della prima edizione: qui potete leggere la nostra recensione della seconda stagione del programma di Amazon Prime Video. Una seconda edizione che vede una unica nota negativa: la scarsa partecipazione di Tess Masazza… Leggi tutto »LOL: Chi ride è fuori 2, la reunion del cast e l’assegnazione dei premi
+The post LOL: Chi ride è fuori 2, la reunion del cast e l’assegnazione dei premi appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Giulia Vanda Zennaro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nino Frassica ha rischiato di morire sul set di Don Matteo: «Terence Hill mi ha salvato la vita»]]></title>
+        <id>https://www.hallofseries.com/?p=550629</id>
+        <link href="https://www.hallofseries.com/news/nino-frassica-don-matteo-rischiato-morire/"/>
+        <updated>2022-04-05T10:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Nino Frassica e Terence Hill hanno dichiarato in più di un’occasione di essere legati da un’amicizia indissolubile, sincera, pulita e lontana da qualsiasi tipo di invidia o doppio fine. Il loro bel rapporto è nato e si è sviluppato proprio grazie a Don Matteo, serie nata nell’ormai lontano anno 2000 e che vede entrambi protagonisti… Leggi tutto »Nino Frassica ha rischiato di morire sul set di Don Matteo: «Terence Hill mi ha salvato la vita»
+The post Nino Frassica ha rischiato di morire sul set di Don Matteo: «Terence Hill mi ha salvato la vita» appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Palma Vasta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carpenter Brut: 10 albums that changed my life]]></title>
+        <id>https://www.loudersound.com/features/carpenter-brut-10-albums-that-changed-my-life</id>
+        <link href="https://www.loudersound.com/features/carpenter-brut-10-albums-that-changed-my-life"/>
+        <updated>2022-04-05T09:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Metallica, Meshuggah, Megadeth, Type O Negative, Tiamat – synthwave kingpin Carpenter Brut‘s record collection is metal all the way]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Island Records founder Chris Blackwell to publish autobiography]]></title>
+        <id>https://www.loudersound.com/news/island-records-founder-chris-blackwell-to-publish-autobiography</id>
+        <link href="https://www.loudersound.com/news/island-records-founder-chris-blackwell-to-publish-autobiography"/>
+        <updated>2022-04-05T09:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Man who signed King Crimson, ELP, Jethro Tull, Traffic, Free and more will publish autobiography in June]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drôle – Comici a Parigi: la Recensione dell’impertinente comedy francese di Netflix]]></title>
+        <id>https://www.hallofseries.com/?p=549997</id>
+        <link href="https://www.hallofseries.com/recensioni/drole-comici-a-parigi-recensione/"/>
+        <updated>2022-04-05T08:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Ideata da Fanny Herrero, l’autrice della serie tv Dix pour cent (più nota in Italia come Chiami il mio agente), Drôle – Comici a Parigi è la nuova dramedy disponibile su Netflix sulla stand-up comedy parigina. Sei episodi da circa 50 minuti ciascuno che raccontano il dietro le quinte di quell’opera tragicomica che per comodità… Leggi tutto »Drôle – Comici a Parigi: la Recensione dell’impertinente comedy francese di Netflix
+The post Drôle – Comici a Parigi: la Recensione dell’impertinente comedy francese di Netflix appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Sara Crecco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bel-Air è più di un semplice reboot: la Recensione di un esperimento riuscito]]></title>
+        <id>https://www.hallofseries.com/?p=549592</id>
+        <link href="https://www.hallofseries.com/bel-air/bel-air-recensione-reboot-riuscito/"/>
+        <updated>2022-04-05T08:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Attenzione: evitate la lettura se non volete imbattervi in spoiler sulla prima stagione di Bel-Air Bel-Air è probabilmente una delle serie tv più attese dell’inverno, per lo meno per tutti quelli che erano bambini negli anni novanta e non si sono persi una puntata di Willy, il Principe di Bel-Air. La vecchia sitcom è diventata… Leggi tutto »Bel-Air è più di un semplice reboot: la Recensione di un esperimento riuscito
+The post Bel-Air è più di un semplice reboot: la Recensione di un esperimento riuscito appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Valentina Castro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il delicato e tenero rapporto tra Fleabag e suo padre]]></title>
+        <id>https://www.hallofseries.com/?p=546118</id>
+        <link href="https://www.hallofseries.com/fleabag/fleabag-rapporto-con-suo-padre/"/>
+        <updated>2022-04-05T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Ogni famiglia ha il classico personaggio di rottura, quell’elemento dissonante che rompe gli equilibri, dice sempre quello che pensa e di solito rovina tutti i momenti più importanti con veritieri e altamente non richiesti commenti. In questa famiglia in particolare è Fleabag. La protagonista. In realtà è molto raro avere una serie tv dove il… Leggi tutto »Il delicato e tenero rapporto tra Fleabag e suo padre
+The post Il delicato e tenero rapporto tra Fleabag e suo padre appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Concetta Sorvillo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotaro abita da solo, impara e ci insegna a vivere per davvero]]></title>
+        <id>https://www.hallofseries.com/?p=547022</id>
+        <link href="https://www.hallofseries.com/serie-tv/kotaro-abita-da-solo-anime-commovente/"/>
+        <updated>2022-04-05T07:38:19.000Z</updated>
+        <summary type="html"><![CDATA[NON sono presenti, in questo articolo, spoiler della prima stagione di Kotaro abita da solo! Avete presente quando iniziate una nuova serie (o anime) senza alcuna aspettativa ma siete completamente rapiti da quello che state guardando e siete lì a chiedervi: ma per quale motivo ho ignorato questa cosa bellissima fino a questo momento della… Leggi tutto »Kotaro abita da solo, impara e ci insegna a vivere per davvero
+The post Kotaro abita da solo, impara e ci insegna a vivere per davvero appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Concetta Moschetta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attack on Titan 4 (Parte 2), la Recensione: meglio di così non poteva andare… forse]]></title>
+        <id>https://www.hallofseries.com/?p=550352</id>
+        <link href="https://www.hallofseries.com/recensioni/attack-on-titan-4-recensione-netflix/"/>
+        <updated>2022-04-05T07:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Attack on Titan 4 parte 2 si è conclusa domenica 3 aprile lasciando il pubblico sul bordo di un precipizio con il fiato sospeso e in trepidante attesa per la terza parte, che arriverà nel 2023 pronta a narrare la battaglia finale. La scelta di dividere ulteriormente la quarta stagione non spaventa i fan della… Leggi tutto »Attack on Titan 4 (Parte 2), la Recensione: meglio di così non poteva andare… forse
+The post Attack on Titan 4 (Parte 2), la Recensione: meglio di così non poteva andare… forse appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Anastasia Gervasi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancora guai per Will Smith: possibili nuovi stop in arrivo]]></title>
+        <id>https://www.hallofseries.com/?p=550180</id>
+        <link href="https://www.hallofseries.com/news/will-smith-stop-sony-netflix/"/>
+        <updated>2022-04-05T07:16:26.000Z</updated>
+        <summary type="html"><![CDATA[A quanto pare, ci sono altri guai in vista per l’attore Will Smith. Per chi se lo fosse perso, Smith è finito nell’occhio del ciclone a causa del gesto compiuto durante la 94esima edizione dei Premi Oscar, ovvero lo schiaffo all’attore comico Chris Rock, il quale aveva fatto una infelice battuta sulla malattia di sua… Leggi tutto »Ancora guai per Will Smith: possibili nuovi stop in arrivo
+The post Ancora guai per Will Smith: possibili nuovi stop in arrivo appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Silvia Brighi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La mia prima volta con Lost]]></title>
+        <id>https://www.hallofseries.com/?p=546865</id>
+        <link href="https://www.hallofseries.com/lost/lost-la-mia-prima-volta/"/>
+        <updated>2022-04-05T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Chiariamoci subito, così via il dente e via il dolore: io Lost l’ho vista solo molto dopo che la Lostmania era finita. Anzi, a essere precisi, ho evitato di vederla proprio perché c’era la Lostmania in corso. Per una qualche forma di patologia, tendo a evitare tutte le serie tv nel momento in cui esplodono,… Leggi tutto »La mia prima volta con Lost
+The post La mia prima volta con Lost appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Concetta Sorvillo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbourne Announce 2022 North American Tour [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/airbourne_announce_2022_north_american_tour.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/airbourne_announce_2022_north_american_tour.html"/>
+        <updated>2022-04-05T04:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The band will be on the road during this Summer and Fall.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch: 'The Conjuring' Actress Vera Farmiga Covers Iron Maiden's 'The Trooper' Live [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_the_conjuring_actress_vera_farmiga_covers_iron_maidens_the_trooper_live.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_the_conjuring_actress_vera_farmiga_covers_iron_maidens_the_trooper_live.html"/>
+        <updated>2022-04-05T04:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The actress took on the song with a little help from Anthrax's Scott Ian.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Stone Cherry Release New Music Video [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/black_stone_cherry_release_new_music_video.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/black_stone_cherry_release_new_music_video.html"/>
+        <updated>2022-04-05T04:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The band premiered a clip for the single "Ringin' In My Head."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richie Faulkner Explains How He Would Have Approached Playing Judas Priest Shows As The Only Guitar Player [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/richie_faulkner_explains_how_he_would_have_approached_playing_judas_priest_shows_as_the_only_guitar_player.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/richie_faulkner_explains_how_he_would_have_approached_playing_judas_priest_shows_as_the_only_guitar_player.html"/>
+        <updated>2022-04-05T03:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "It was a definite thing that we weren't going to run tape, there'd be no point..."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clutch Tease New Song 'Red Alert (Boss Metal Zone)' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/clutch_tease_new_song_red_alert_boss_metal_zone.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/clutch_tease_new_song_red_alert_boss_metal_zone.html"/>
+        <updated>2022-04-05T02:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The band has been playing the song live for a few months.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Portnoy Congratulates Dream Theater On Their First-Ever Grammy Win [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/mike_portnoy_congratulates_dream_theater_on_their_first-ever_grammy_win.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/mike_portnoy_congratulates_dream_theater_on_their_first-ever_grammy_win.html"/>
+        <updated>2022-04-05T01:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The former drummer of the band shared a message on his social media.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Country Artist C.W. McCall Has Died [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/country_artist_cw_mccall_has_died.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/country_artist_cw_mccall_has_died.html"/>
+        <updated>2022-04-05T01:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The musician was 93 years old.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Jericho Says 'Everybody' Uses Pre-recorded Backing Tracks, Names Guns N' Roses, Queen, And Def Leppard As Examples [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/chris_jericho_says_everybody_uses_pre-recorded_backing_tracks_names_guns_n_roses_queen_and_def_leppard_as_examples.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/chris_jericho_says_everybody_uses_pre-recorded_backing_tracks_names_guns_n_roses_queen_and_def_leppard_as_examples.html"/>
+        <updated>2022-04-05T00:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "It's just kind of the way that bands are. It doesn't make you any less of a band."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limp Bizkit's Wes Borland Will Join Composer Danny Elfman's Live Band [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/limp_bizkits_wes_borland_will_join_composer_danny_elfmans_live_band.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/limp_bizkits_wes_borland_will_join_composer_danny_elfmans_live_band.html"/>
+        <updated>2022-04-05T00:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The musician will perform with Elfman at Coachella.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dave Lombardo Recalls What Standing In For Lars Ulrich Minutes Before Metallica's Set Was Like [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/dave_lombardo_recalls_what_standing_in_for_lars_ulrich_minutes_before_metallicas_set_was_like.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/dave_lombardo_recalls_what_standing_in_for_lars_ulrich_minutes_before_metallicas_set_was_like.html"/>
+        <updated>2022-04-04T23:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Back in '04, Dave Lombardo and Joey Jordison came to the rescue after Lars Ulrich was taken to hospital minutes before the show.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radiohead's Side-Project The Smile Release New Song [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/radioheads_side-project_the_smile_release_new_song.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/radioheads_side-project_the_smile_release_new_song.html"/>
+        <updated>2022-04-04T22:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "Pana-vision" was included in the finale of "Peaky Blinders."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AFI's Davey Havok Poses With Rat for PETA Ad]]></title>
+        <id>https://loudwire.com/?p=505486</id>
+        <link href="https://loudwire.com/afis-davey-havok-poses-with-rat-for-peta-video/"/>
+        <updated>2022-04-04T21:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Nice bow tie! Continue reading…]]></summary>
+        <author>
+            <name>Todd Fooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meshuggah Tomas Haake Explains Why It Took 6 Years To Release The New Album, Answers How Frederik Thordendal's Absence Affected The Band [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/meshuggah_tomas_haake_explains_why_it_took_6_years_to_release_the_new_album_answers_how_frederik_thordendals_absence_affected_the_band.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/meshuggah_tomas_haake_explains_why_it_took_6_years_to_release_the_new_album_answers_how_frederik_thordendals_absence_affected_the_band.html"/>
+        <updated>2022-04-04T21:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Although Thordendal returned to Meshuggah last March, he made little contributions to the writing process behind "Immutable"]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer e data di uscita per Undone, stagione 2: Rosa Salazar scava ancora nel passato]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=tv&amp;p=284406</id>
+        <link href="https://www.ilcineocchio.it/tv/trailer-e-data-di-uscita-per-undone-stagione-2-rosa-salazar/"/>
+        <updated>2022-04-04T21:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Dopo un'attesa di tre anni, lo show di Kate Purdy e Raphael Bob-Waksberg torna su Prime
+L'articolo Trailer e data di uscita per Undone, stagione 2: Rosa Salazar scava ancora nel passato proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musician Writes And Records Ghost Song In Under 5 Minutes, This Is What It Sounds Like [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/musician_writes_and_records_ghost_song_in_under_5_minutes_this_is_what_it_sounds_like.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/musician_writes_and_records_ghost_song_in_under_5_minutes_this_is_what_it_sounds_like.html"/>
+        <updated>2022-04-04T19:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Yes, including lyrics and vocals.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Petrucci Comments On Dream Theater Song In 17/8 Time Signature Winning Grammy Award [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/john_petrucci_comments_on_dream_theater_song_in_178_time_signature_winning_grammy_award.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/john_petrucci_comments_on_dream_theater_song_in_178_time_signature_winning_grammy_award.html"/>
+        <updated>2022-04-04T18:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "Try to tap your foot to it."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Lifeson Explains 'Limitations' Of Fender Stratocaster, Talks How He Ended Up Putting Floyd Rose On Gibson Les Paul [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/interviews/alex_lifeson_explains_limitations_of_fender_stratocaster_talks_how_he_ended_up_putting_floyd_rose_on_gibson_les_paul.html</id>
+        <link href="https://www.ultimate-guitar.com/news/interviews/alex_lifeson_explains_limitations_of_fender_stratocaster_talks_how_he_ended_up_putting_floyd_rose_on_gibson_les_paul.html"/>
+        <updated>2022-04-04T18:44:46.000Z</updated>
+        <summary type="html"><![CDATA[Interviews: "Fenders are very, very useful, single-coils are very, very useful, and I've always had them."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve Hackett Reveals How He Started Tapping On Guitar Years Before Eddie Van Halen, Discusses Difficult Genesis Songs To Perform Live [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/steve_hackett_reveals_how_he_started_tapping_on_guitar_years_before_eddie_van_halen_discusses_difficult_genesis_songs_to_perform_live.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/steve_hackett_reveals_how_he_started_tapping_on_guitar_years_before_eddie_van_halen_discusses_difficult_genesis_songs_to_perform_live.html"/>
+        <updated>2022-04-04T18:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "I got frustrated with the fretboard limitations and decided to go at it."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metal Fans React To Grammys Omitting Slipknot's Joey Jordison From The 'In Memoriam' Segment [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/metal_fans_react_to_grammys_omitting_slipknots_joey_jordison_from_the_in_memoriam_segment.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/metal_fans_react_to_grammys_omitting_slipknots_joey_jordison_from_the_in_memoriam_segment.html"/>
+        <updated>2022-04-04T17:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The ceremony took place on April 3.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kontinuum release video for another new track, Hafið Logar]]></title>
+        <id>https://www.loudersound.com/news/kontinuum-release-video-for-another-new-track-hafid-logar</id>
+        <link href="https://www.loudersound.com/news/kontinuum-release-video-for-another-new-track-hafid-logar"/>
+        <updated>2022-04-04T16:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Another new song from Icelandic ambient prog rockers Kontinuum, but still no word on a new album]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen to Catwoman sing Alice In Chains and Misfits classics]]></title>
+        <id>https://www.loudersound.com/features/listen-to-catwoman-sing-alice-in-chains-and-misfits-classics</id>
+        <link href="https://www.loudersound.com/features/listen-to-catwoman-sing-alice-in-chains-and-misfits-classics"/>
+        <updated>2022-04-04T15:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Remember when Catwoman actress Zoe Kravitz fronted Californication rock band Queens of Dogtown and sang grunge and punk classics? Good times]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are You A Sloppy Player Or Are You Playing With Feel? [News]]]></title>
+        <id>https://www.ultimate-guitar.com/articles/features/are_you_a_sloppy_player_or_are_you_playing_with_feel-129739</id>
+        <link href="https://www.ultimate-guitar.com/articles/features/are_you_a_sloppy_player_or_are_you_playing_with_feel-129739"/>
+        <updated>2022-04-04T15:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Features: Is it even possible to answer the question?]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch The Conjuring actress Vera Farmiga smash a cover of Iron Maiden's The Trooper]]></title>
+        <id>https://www.loudersound.com/news/watch-the-conjuring-actress-vera-farmiga-smash-a-cover-of-iron-maidens-the-trooper</id>
+        <link href="https://www.loudersound.com/news/watch-the-conjuring-actress-vera-farmiga-smash-a-cover-of-iron-maidens-the-trooper"/>
+        <updated>2022-04-04T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[The video also features bonus Scott Ian from Anthrax. Which is nice.]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch: Anthrax's Scott Ian And Son Pay Tribute To Taylor Hawkins [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_anthraxs_scott_ian_and_son_pay_tribute_to_taylor_hawkins.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_anthraxs_scott_ian_and_son_pay_tribute_to_taylor_hawkins.html"/>
+        <updated>2022-04-04T14:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The musician shared new video through social media.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full trailer per Star Trek: Strange New Worlds (serie Paramount+): l’Enterprise prende il largo con Pike]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=tv&amp;p=284392</id>
+        <link href="https://www.ilcineocchio.it/tv/full-trailer-per-star-trek-strange-new-worlds-serie-paramount/"/>
+        <updated>2022-04-04T14:17:52.000Z</updated>
+        <summary type="html"><![CDATA[Sono Anson Mount e Rebecca Romijn i protagonisti dello spin-off ambientato prima dell'arrivo del Capitano Kirk
+L'articolo Full trailer per Star Trek: Strange New Worlds (serie Paramount+): l’Enterprise prende il largo con Pike proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Stone Cherry launch new video for Ringin' In My Head]]></title>
+        <id>https://www.loudersound.com/news/black-stone-cherry-launch-video-for-ringin-in-my-head</id>
+        <link href="https://www.loudersound.com/news/black-stone-cherry-launch-video-for-ringin-in-my-head"/>
+        <updated>2022-04-04T14:05:20.000Z</updated>
+        <summary type="html"><![CDATA[The new video for Black Stone Cherry's Ringin' In My Head was shot in a barn with musical history]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Anthrax's Scott Ian and his son pay tribute to Taylor Hawkins with three Foo Fighters covers]]></title>
+        <id>https://www.loudersound.com/news/watch-anthraxs-scott-ian-and-his-son-pay-tribute-to-taylor-hawkins-with-three-foo-fighters-covers</id>
+        <link href="https://www.loudersound.com/news/watch-anthraxs-scott-ian-and-his-son-pay-tribute-to-taylor-hawkins-with-three-foo-fighters-covers"/>
+        <updated>2022-04-04T13:50:35.000Z</updated>
+        <summary type="html"><![CDATA[The Ian family cover Low, Stacked Actors and Run in a tribute to late Foo Fighters drummer Taylor Hawkins]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Corsa contro il tempo: Naomi Watts deve uscire velocemente dalla foresta per salvare il figlio]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284387</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-corsa-contro-il-tempo-naomi-watts-deve-uscire/"/>
+        <updated>2022-04-04T13:49:40.000Z</updated>
+        <summary type="html"><![CDATA[C'è Phillip Noyce in cabina di regia del thriller
+L'articolo Trailer per Corsa contro il tempo: Naomi Watts deve uscire velocemente dalla foresta per salvare il figlio proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Placebo album ranked from worst to best]]></title>
+        <id>https://www.loudersound.com/features/every-placebo-album-ranked-from-worst-to-best</id>
+        <link href="https://www.loudersound.com/features/every-placebo-album-ranked-from-worst-to-best"/>
+        <updated>2022-04-04T13:43:46.000Z</updated>
+        <summary type="html"><![CDATA[Brian Molko's band have always been proudly out of step with music trends: here is Placebo's catalogue ranked]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Samurai Rabbit: The Usagi Chronicles, serie animata Netflix ispirata al personaggio di Sakai]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=tv&amp;p=284383</id>
+        <link href="https://www.ilcineocchio.it/tv/trailer-per-samurai-rabbit-the-usagi-chronicles-serie-animata-netflix/"/>
+        <updated>2022-04-04T13:30:07.000Z</updated>
+        <summary type="html"><![CDATA[C'è James Wan tra i produttori esecutivi
+L'articolo Trailer per Samurai Rabbit: The Usagi Chronicles, serie animata Netflix ispirata al personaggio di Sakai proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch: King Crimson's Robert Fripp And Wife Toyah Willcox Cover Red Hot Chili Peppers' 'Can't Stop' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_king_crimsons_robert_fripp_and_wife_toyah_willcox_cover_red_hot_chili_peppers_cant_stop.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_king_crimsons_robert_fripp_and_wife_toyah_willcox_cover_red_hot_chili_peppers_cant_stop.html"/>
+        <updated>2022-04-04T13:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The couple shared another edition of their "Sunday Lunch" series.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Emerald Dawn announce live show of fourth album To Touch the Sky]]></title>
+        <id>https://www.loudersound.com/news/the-emerald-dawn-announce-live-show-of-fourth-album-to-touch-the-sky</id>
+        <link href="https://www.loudersound.com/news/the-emerald-dawn-announce-live-show-of-fourth-album-to-touch-the-sky"/>
+        <updated>2022-04-04T12:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Cornish based proggers The Emerald Dawn celebrate the release of To Touch The Sky in vinyl with special live show in April]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dossier: RoboCop di José Padilha, un reboot impossibile ma non privo di spunti]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284367</id>
+        <link href="https://www.ilcineocchio.it/cinema/dossier-robocop-di-jose-padilha/"/>
+        <updated>2022-04-04T12:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Nel 2014, Joel Kinnaman e Gary Oldman erano i protagonisti di un film che provava, con alterne fortune, a tenere testa al classico del 1987
+L'articolo Dossier: RoboCop di José Padilha, un reboot impossibile ma non privo di spunti proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Marco Tedesco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Babymetal team up with a digital fashion label for release of virtual NFT sneakers]]></title>
+        <id>https://www.loudersound.com/news/babymetal-team-up-with-a-digital-fashion-label-for-release-of-virtual-nft-sneakers</id>
+        <link href="https://www.loudersound.com/news/babymetal-team-up-with-a-digital-fashion-label-for-release-of-virtual-nft-sneakers"/>
+        <updated>2022-04-04T11:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Babymetal have collaborated with digital fashion label 1BLOCK for the release of virtual NFT sneakers that you can wear in the "Metalverse"]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lamb Of God's Randy Blythe wants blessing of deceased fan's family before playing in the Czech Republic again]]></title>
+        <id>https://www.loudersound.com/news/lamb-of-gods-randy-blythe-wants-blessing-of-deceased-fans-family-before-playing-in-the-czech-republic-again</id>
+        <link href="https://www.loudersound.com/news/lamb-of-gods-randy-blythe-wants-blessing-of-deceased-fans-family-before-playing-in-the-czech-republic-again"/>
+        <updated>2022-04-04T11:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Lamb Of God's Randy Blythe says he "wouldn't mind" returning to play in the Czech Republic – the country where he was tried (and found not guilty) for the manslaughter of a fan]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheap vinyl records in April 2022: The best vinyl records on sale in rock, metal, prog and more]]></title>
+        <id>https://www.loudersound.com/features/cheap-vinyl-records-deals-and-buying-advice</id>
+        <link href="https://www.loudersound.com/features/cheap-vinyl-records-deals-and-buying-advice"/>
+        <updated>2022-04-04T11:51:26.000Z</updated>
+        <summary type="html"><![CDATA[We've got the best cheap vinyl deals all in one place - along with essential buying advice and much more]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klaus Schulze will release new album Deus Arrakis in June]]></title>
+        <id>https://www.loudersound.com/news/klaus-schulze-will-release-new-album-deus-arrakis-in-june</id>
+        <link href="https://www.loudersound.com/news/klaus-schulze-will-release-new-album-deus-arrakis-in-june"/>
+        <updated>2022-04-04T11:46:53.000Z</updated>
+        <summary type="html"><![CDATA[German electronic pioneer Klaus Schulze will release his first new music for four years in June]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sex, satanism and Scooby Doo: Ghost's mythos explored in new mockumentary]]></title>
+        <id>https://www.loudersound.com/news/sex-satanism-and-scooby-doo-ghosts-mythos-explored-in-new-mockumentary</id>
+        <link href="https://www.loudersound.com/news/sex-satanism-and-scooby-doo-ghosts-mythos-explored-in-new-mockumentary"/>
+        <updated>2022-04-04T11:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Ghost's YouTube mockumentary Metal Myths Part 2 explores the 'histories and mysteries' surrounding the band]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crow reboot is finally underway]]></title>
+        <id>https://www.loudersound.com/news/crow-reboot-bill-skarsgard-brandon-lee</id>
+        <link href="https://www.loudersound.com/news/crow-reboot-bill-skarsgard-brandon-lee"/>
+        <updated>2022-04-04T11:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Stephen King's It actor Bill Skarsgård is to star in the reimagining of cult horror/comic film The Crow]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comedian Bill Bailey really wants to join Wardruna, because of course he does]]></title>
+        <id>https://www.loudersound.com/news/bill-bailey-warduna-interview</id>
+        <link href="https://www.loudersound.com/news/bill-bailey-warduna-interview"/>
+        <updated>2022-04-04T11:11:36.000Z</updated>
+        <summary type="html"><![CDATA[“If you ever need a drummer or tagelharpa player, just give me a call”: Bill Bailey really loves pagan folk mystics Wardruna]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foo Fighters sweep Grammys, Dream Theater, St Vincent also win awards]]></title>
+        <id>https://www.loudersound.com/news/foo-fighters-sweep-grammys-dream-theater-st-vincent-also-win-awards</id>
+        <link href="https://www.loudersound.com/news/foo-fighters-sweep-grammys-dream-theater-st-vincent-also-win-awards"/>
+        <updated>2022-04-04T10:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Foo Fighters won three awards at last night's Grammys, which also honoured drummer Taylor Hawkins]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crow: the tragic story behind the ultimate cult goth comic book movie]]></title>
+        <id>https://www.loudersound.com/features/1994-when-a-surprise-movie-hit-unleashed-a-gothic-vision-that-endures-today</id>
+        <link href="https://www.loudersound.com/features/1994-when-a-surprise-movie-hit-unleashed-a-gothic-vision-that-endures-today"/>
+        <updated>2022-04-04T10:12:39.000Z</updated>
+        <summary type="html"><![CDATA[The Crow is one of the great comic book movie adaptations of the 90s. But it was overshadowed by the death of its star Brandon Lee]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Grammys ignored Joey Jordison in their In Memoriam tribute]]></title>
+        <id>https://www.loudersound.com/news/grammys-joey-jordison-in-memoriam-dream-theater</id>
+        <link href="https://www.loudersound.com/news/grammys-joey-jordison-in-memoriam-dream-theater"/>
+        <updated>2022-04-04T09:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Late Slipknot drummer Joey Jordison was left out of the In Memoriam section at this year’s Grammys]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billie Eilish leads tributes to Foo Fighters' Taylor Hawkins at the Grammys]]></title>
+        <id>https://www.loudersound.com/news/billie-eilish-leads-tributes-to-foo-fighters-taylor-hawkins-at-the-grammys</id>
+        <link href="https://www.loudersound.com/news/billie-eilish-leads-tributes-to-foo-fighters-taylor-hawkins-at-the-grammys"/>
+        <updated>2022-04-04T09:47:35.000Z</updated>
+        <summary type="html"><![CDATA[The pop star subtly paid tribute to Hawkins, while the Grammys themselves also honoured the Foos drummer]]></summary>
+        <author>
+            <name>Louder</name>
         </author>
     </entry>
 </feed>
