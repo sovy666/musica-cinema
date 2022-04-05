@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/musica-cinema/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T15:18:09.198Z</updated>
+    <updated>2022-04-05T15:22:54.255Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/musica-cinema/index.html"/>
     <link rel="self" href="https://sovy666.github.io/musica-cinema/feed.atom"/>
@@ -34,6 +34,17 @@
         <summary type="html"><![CDATA[Features: Modern heavy bands consisting of famous musicians.]]></summary>
         <author>
             <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robert Eggers, online Hansel & Gretel, il suo primo cortometraggio del 2006]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284417</id>
+        <link href="https://www.ilcineocchio.it/cinema/robert-eggers-online-hansel-gretel-il-suo-primo-cortometraggio/"/>
+        <updated>2022-04-05T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Uno sguardo alla tecnica del regista prima di The Witch e The Lighthouse 
+L'articolo Robert Eggers, online Hansel & Gretel, il suo primo cortometraggio del 2006 proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
         </author>
     </entry>
     <entry>
@@ -148,7 +159,7 @@ L'articolo Trailer per Titanic 666: la Asylum scatena la vendetta dei passeggeri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Report – Sepultura Drummer Posts, Deletes Statement on Tour Exit]]></title>
+        <title type="html"><![CDATA[Report - Sepultura Drummer Posts, Deletes Statement on Tour Exit]]></title>
         <id>https://loudwire.com/?p=505534</id>
         <link href="https://loudwire.com/sepultura-drummer-posts-deletes-explanation-leaving-bands-tour/"/>
         <updated>2022-04-05T13:21:39.000Z</updated>
@@ -808,26 +819,6 @@ L'articolo Dossier: RoboCop di José Padilha, un reboot impossibile ma non privo
         <link href="https://www.loudersound.com/features/1994-when-a-surprise-movie-hit-unleashed-a-gothic-vision-that-endures-today"/>
         <updated>2022-04-04T10:12:39.000Z</updated>
         <summary type="html"><![CDATA[The Crow is one of the great comic book movie adaptations of the 90s. But it was overshadowed by the death of its star Brandon Lee]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Grammys ignored Joey Jordison in their In Memoriam tribute]]></title>
-        <id>https://www.loudersound.com/news/grammys-joey-jordison-in-memoriam-dream-theater</id>
-        <link href="https://www.loudersound.com/news/grammys-joey-jordison-in-memoriam-dream-theater"/>
-        <updated>2022-04-04T09:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Late Slipknot drummer Joey Jordison was left out of the In Memoriam section at this year’s Grammys]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billie Eilish leads tributes to Foo Fighters' Taylor Hawkins at the Grammys]]></title>
-        <id>https://www.loudersound.com/news/billie-eilish-leads-tributes-to-foo-fighters-taylor-hawkins-at-the-grammys</id>
-        <link href="https://www.loudersound.com/news/billie-eilish-leads-tributes-to-foo-fighters-taylor-hawkins-at-the-grammys"/>
-        <updated>2022-04-04T09:47:35.000Z</updated>
-        <summary type="html"><![CDATA[The pop star subtly paid tribute to Hawkins, while the Grammys themselves also honoured the Foos drummer]]></summary>
         <author>
             <name>Louder</name>
         </author>
