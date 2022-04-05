@@ -524,6 +524,36 @@
       "siteUrl": "https://www.loudersound.com/feeds/all",
       "articles": [
         {
+          "id": "https://www.loudersound.com/features/here-we-are-now-entertain-us-the-inside-story-of-nirvanas-smells-like-teen-spirit-video",
+          "author": null,
+          "description": "When Nirvana shot a video for Smells Like Teen Spirit in the summer of 1990 they had no idea it would change their lives forever. On the 28th anniversary of Kurt Cobain's death, this is the story of the shoot, from those who were there",
+          "link": "https://www.loudersound.com/features/here-we-are-now-entertain-us-the-inside-story-of-nirvanas-smells-like-teen-spirit-video",
+          "publishedOn": "2022-04-05T15:08:35.000Z",
+          "wordCount": 1621,
+          "title": "'Here we are now, entertain us': the inside story of Nirvana's Smells Like Teen Spirit video",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/rgwyfwq7vTYf4y8i5D8pD7.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/rgwyfwq7vTYf4y8i5D8pD7.png"
+        },
+        {
+          "id": "https://www.loudersound.com/news/new-official-barney-bubbles-online-store-to-open",
+          "author": null,
+          "description": "Official Barney Bubbles estate backed online store now open for business",
+          "link": "https://www.loudersound.com/news/new-official-barney-bubbles-online-store-to-open",
+          "publishedOn": "2022-04-05T14:58:34.000Z",
+          "wordCount": 778,
+          "title": "New official Barney Bubbles online store opens",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/3PnEmw3vwZmYwF3FyWJqZm.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/3PnEmw3vwZmYwF3FyWJqZm.png"
+        },
+        {
           "id": "https://www.loudersound.com/reviews/leaf-hound-growers-of-mushroom-album-of-the-week-club-review",
           "author": null,
           "description": "Leaf Hound's cult classic Growers Of Mushroom was inspired by an anthology of horror stories and became an accidental template for stoner rock",

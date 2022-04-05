@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/musica-cinema/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T15:00:39.414Z</updated>
+    <updated>2022-04-05T15:18:09.198Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/musica-cinema/index.html"/>
     <link rel="self" href="https://sovy666.github.io/musica-cinema/feed.atom"/>
@@ -34,6 +34,26 @@
         <summary type="html"><![CDATA[Features: Modern heavy bands consisting of famous musicians.]]></summary>
         <author>
             <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Here we are now, entertain us': the inside story of Nirvana's Smells Like Teen Spirit video]]></title>
+        <id>https://www.loudersound.com/features/here-we-are-now-entertain-us-the-inside-story-of-nirvanas-smells-like-teen-spirit-video</id>
+        <link href="https://www.loudersound.com/features/here-we-are-now-entertain-us-the-inside-story-of-nirvanas-smells-like-teen-spirit-video"/>
+        <updated>2022-04-05T15:08:35.000Z</updated>
+        <summary type="html"><![CDATA[When Nirvana shot a video for Smells Like Teen Spirit in the summer of 1990 they had no idea it would change their lives forever. On the 28th anniversary of Kurt Cobain's death, this is the story of the shoot, from those who were there]]></summary>
+        <author>
+            <name>Louder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New official Barney Bubbles online store opens]]></title>
+        <id>https://www.loudersound.com/news/new-official-barney-bubbles-online-store-to-open</id>
+        <link href="https://www.loudersound.com/news/new-official-barney-bubbles-online-store-to-open"/>
+        <updated>2022-04-05T14:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Official Barney Bubbles estate backed online store now open for business]]></summary>
+        <author>
+            <name>Louder</name>
         </author>
     </entry>
     <entry>
