@@ -6,7 +6,11 @@
 cacheUrl: https://sovy666.github.io/musica-cinema/cache.json
 cacheMaxDays: 2
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.ultimate-guitar.com/modules/rss/news.xml.php
+  - href: https://loudwire.com/feed/
+  - href: https://www.hallofseries.com/feed/
+  - href: https://www.ilcineocchio.it/feed/
+  - href: https://www.loudersound.com/feeds/all
+  - href: https://blog.discogs.com/feed/
+  
+  
