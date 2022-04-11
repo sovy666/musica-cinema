@@ -6,6 +6,76 @@
       "siteUrl": "https://www.ultimate-guitar.com/modules/rss/news.xml.php",
       "articles": [
         {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/disturbed_finished_recording_new_album.html",
+          "author": null,
+          "description": "Music News: Frontman David Draiman shared a photo of the band's progress on social media.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/disturbed_finished_recording_new_album.html",
+          "publishedOn": "2022-04-11T03:51:30.000Z",
+          "wordCount": 22,
+          "title": "Disturbed Finished Recording New Album [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/130111_0_wide_ver1649634691.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/ozzy_osbourne_finished_recording_his_new_album.html",
+          "author": null,
+          "description": "Music News: This will be the Metal legend's follow-up to 2020's \"Ordinary Man.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/ozzy_osbourne_finished_recording_his_new_album.html",
+          "publishedOn": "2022-04-11T00:48:45.000Z",
+          "wordCount": 24,
+          "title": "Ozzy Osbourne Finished Recording His New Album [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/6/130096_0_wide_ver1649623745.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/alex_lifeson_someone_might_have_a_preconceived_idea_of_what_alex_lifeson_from_rush_is_but_thats_not_the_only_music_i_have_in_my_head.html",
+          "author": null,
+          "description": "Music News: The iconic guitarist discussed how his years with Rush don't necessarily have to reflect in his work with Envy of None.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/alex_lifeson_someone_might_have_a_preconceived_idea_of_what_alex_lifeson_from_rush_is_but_thats_not_the_only_music_i_have_in_my_head.html",
+          "publishedOn": "2022-04-10T21:53:46.000Z",
+          "wordCount": 43,
+          "title": "Alex Lifeson: 'Someone Might Have A Preconceived Idea Of What Alex Lifeson From Rush Is, But That's Not The Only Music I Have In My Head' [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/7/130087_0_meta_ver1649613226.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/articles/features/4_great_punk_rock_riffs_and_the_gear_behind_them-130090",
+          "author": null,
+          "description": "Features: UG's Matt Dunn highlights the guitars, pedals, and players behind 4 simple but undeniably great riffs.",
+          "link": "https://www.ultimate-guitar.com/articles/features/4_great_punk_rock_riffs_and_the_gear_behind_them-130090",
+          "publishedOn": "2022-04-10T19:53:08.000Z",
+          "wordCount": 26,
+          "title": "4 Great Punk Rock Riffs And The Gear Behind Them [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/0/130090_0_wide_ver1649606019.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/metallicas_some_kind_of_monster_performance_coach_talks_what_lars_ulrich_and_dave_mustaine_were_like_during_conversation.html",
+          "author": null,
+          "description": "Music News: \"The Mustaine session itself was pivotal for Lars and Dave, but it wasn't complete for Dave.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/metallicas_some_kind_of_monster_performance_coach_talks_what_lars_ulrich_and_dave_mustaine_were_like_during_conversation.html",
+          "publishedOn": "2022-04-10T15:24:11.000Z",
+          "wordCount": 35,
+          "title": "Metallica's 'Some Kind Of Monster' Performance Coach Talks What Lars Ulrich And Dave Mustaine Were Like During Conversation [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/5/130105_0_meta_ver1649590806.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/articles/features/8_poignant_judas_priest_ballads_that_showcase_an_oft-overlooked_aspect_of_the_band-130093",
+          "author": null,
+          "description": "Features: Judas Priest writes ballads like nobody's busines, but we don't talk about them nearly often enough.",
+          "link": "https://www.ultimate-guitar.com/articles/features/8_poignant_judas_priest_ballads_that_showcase_an_oft-overlooked_aspect_of_the_band-130093",
+          "publishedOn": "2022-04-10T14:53:04.000Z",
+          "wordCount": 29,
+          "title": "8 Poignant Judas Priest Ballads That Showcase An Oft-Overlooked Aspect Of The Band [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/3/130093_0_meta_ver1649589217.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/articles/features/10_great_bands_to_listen_to_if_you_love_gorillaz-129724",
+          "author": null,
+          "description": "Features: What we recommend listening to after the discography of the animated universe",
+          "link": "https://www.ultimate-guitar.com/articles/features/10_great_bands_to_listen_to_if_you_love_gorillaz-129724",
+          "publishedOn": "2022-04-10T13:59:19.000Z",
+          "wordCount": 26,
+          "title": "10 Great Bands To Listen To If You Love Gorillaz [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/4/129724_0_wide_ver1649584770.jpg"
+        },
+        {
           "id": "https://www.ultimate-guitar.com/news/general_music_news/vivian_campbell_recalls_phil_lynott_coming_up_on_stage_to_play_with_his_first_band_describes_what_thin_lizzy_frontman_and_bassist_was_like_in_person.html",
           "author": null,
           "description": "Music News: \"He was so proud of being Irish. And he was very, very, very supportive of any Irish up-and-coming bands.\"",
@@ -94,196 +164,6 @@
           "wordCount": 31,
           "title": "Checking Out The Walrus Audio Canvas, A Stereo DI/Line Out Box For Your Pedalboard [News]",
           "imageUrl": "https://www.ultimate-guitar.com/static/article/news/3/130033_0_wide_ver1649502748.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/moonspell_announce_30th_anniversary_summer_tour.html",
-          "author": null,
-          "description": "Music News: The band will be supported by Swallow the Sun and Witherfall.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/moonspell_announce_30th_anniversary_summer_tour.html",
-          "publishedOn": "2022-04-09T07:00:01.000Z",
-          "wordCount": 23,
-          "title": "Moonspell Announce 30th Anniversary Summer Tour  [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/3/130003_0_wide_ver1649473201.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/harley_benton_reveal_new_punk_rock-inspired_mr-series_guitars.html",
-          "author": null,
-          "description": "Music News: The Mosrite-style guitars come in baritone and left-handed models as well.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/harley_benton_reveal_new_punk_rock-inspired_mr-series_guitars.html",
-          "publishedOn": "2022-04-09T06:00:01.000Z",
-          "wordCount": 25,
-          "title": "Harley Benton Reveal New Punk Rock-Inspired MR-Series Guitars [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/6/130006_0_wide_ver1649469601.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/kma_machines_reveals_the_queequeg_2_sub_generator_octaver.html",
-          "author": null,
-          "description": "Music News: The pedal company launched a new analog sub-octave pedal.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/kma_machines_reveals_the_queequeg_2_sub_generator_octaver.html",
-          "publishedOn": "2022-04-09T05:00:01.000Z",
-          "wordCount": 26,
-          "title": "KMA Machines Reveals The Queequeg 2 Sub Generator Octaver [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/9/130009_0_wide_ver1649466001.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/decapitated_release_new_song_hello_death_featuring_jinjers_tatiana_shmayluk.html",
-          "author": null,
-          "description": "Music News: The singer provides clean vocals to the track.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/decapitated_release_new_song_hello_death_featuring_jinjers_tatiana_shmayluk.html",
-          "publishedOn": "2022-04-09T04:18:10.000Z",
-          "wordCount": 27,
-          "title": "Decapitated Release New Song 'Hello Death' Featuring Jinjer's Tatiana Shmayluk [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/0/130030_0_wide_ver1649463491.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/tosin_abasi_says_he_took_some_blues_guitar_courses_discusses_idea_of_doing_a_blues_album_and_boomer_bends.html",
-          "author": null,
-          "description": "Music News: \"Bro, I'm bending on the album a little!\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/tosin_abasi_says_he_took_some_blues_guitar_courses_discusses_idea_of_doing_a_blues_album_and_boomer_bends.html",
-          "publishedOn": "2022-04-09T04:14:55.000Z",
-          "wordCount": 36,
-          "title": "Tosin Abasi Says He Took Some Blues Guitar Courses, Discusses Idea Of Doing A Blues Album And 'Boomer Bends' [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/8/130048_0_wide_ver1649463351.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/hims_ville_valo_releases_new_single_loveletting.html",
-          "author": null,
-          "description": "Music News: The musician shared the music video of the first single off the upcoming album \"Neon Noir.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/hims_ville_valo_releases_new_single_loveletting.html",
-          "publishedOn": "2022-04-09T03:27:18.000Z",
-          "wordCount": 24,
-          "title": "HIM's Ville Valo Releases New Single 'Loveletting' [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/7/130027_0_wide_ver1649460438.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/joe_satriani_remembers_what_his_student_kirk_hammett_was_like_when_he_joined_metallica_says_kirk_took_lessons_until_1988.html",
-          "author": null,
-          "description": "Music News: \"He was so motivated, he was such a good student.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/joe_satriani_remembers_what_his_student_kirk_hammett_was_like_when_he_joined_metallica_says_kirk_took_lessons_until_1988.html",
-          "publishedOn": "2022-04-09T03:25:34.000Z",
-          "wordCount": 37,
-          "title": "Joe Satriani Remembers What His Student Kirk Hammett Was Like When He Joined Metallica, Says Kirk Took Lessons Until 1988 [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/5/130045_0_wide_ver1649460334.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/tobias_forge_says_ghost_shouldnt_be_compared_to_bands_like_acdc_or_metallica_names_band_he_sees_as_guidepost_hes_working_towards.html",
-          "author": null,
-          "description": "Music News: \"But even talking about AC/DC, Metallica or Iron Maiden, it was a different time and age.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/tobias_forge_says_ghost_shouldnt_be_compared_to_bands_like_acdc_or_metallica_names_band_he_sees_as_guidepost_hes_working_towards.html",
-          "publishedOn": "2022-04-09T02:43:19.000Z",
-          "wordCount": 39,
-          "title": "Tobias Forge Says Ghost Shouldn't Be Compared To Bands Like AC/DC Or Metallica, Names Band He Sees As 'Guidepost' He's Working Towards [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/2/130042_0_meta_ver1649457799.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/fender_has_built_a_custom_shop_tele_and_strat_using_300-year-old_pinewood_from_torontos_legendary_club_el_mocambo.html",
-          "author": null,
-          "description": "Music News: The collection features a total of 25 guitars.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/fender_has_built_a_custom_shop_tele_and_strat_using_300-year-old_pinewood_from_torontos_legendary_club_el_mocambo.html",
-          "publishedOn": "2022-04-09T02:43:16.000Z",
-          "wordCount": 35,
-          "title": "Fender Has Built A Custom Shop Tele And Strat Using 300-Year-Old Pinewood From Toronto's Legendary Club El Mocambo [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/2/130012_0_wide_ver1649464323.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/michael_schenker_says_hes_glad_he_didnt_join_ozzy_osbournes_band_for_the_same_reasons_you_should_not_join_motorhead_or_deep_purple.html",
-          "author": null,
-          "description": "Music News: \"I hate copying, it would not be Michael Schenker expressing himself.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/michael_schenker_says_hes_glad_he_didnt_join_ozzy_osbournes_band_for_the_same_reasons_you_should_not_join_motorhead_or_deep_purple.html",
-          "publishedOn": "2022-04-09T00:33:29.000Z",
-          "wordCount": 40,
-          "title": "Michael Schenker Says He's Glad He Didn't Join Ozzy Osbourne's Band 'For The Same Reasons You Should Not Join Motorhead Or Deep Purple' [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/6/130036_0_meta_ver1649454413.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/john_frusciante_says_theres_over_30_unused_songs_from_unlimited_love_sessions_we_saved_some_of_the_best_stuff_for_the_potential_next_album.html",
-          "author": null,
-          "description": "Music News: \"We saved some of the best stuff for the potential next album, so I'm excited about putting that into a shape.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/john_frusciante_says_theres_over_30_unused_songs_from_unlimited_love_sessions_we_saved_some_of_the_best_stuff_for_the_potential_next_album.html",
-          "publishedOn": "2022-04-08T22:03:35.000Z",
-          "wordCount": 41,
-          "title": "John Frusciante Says There's Over 30 Unused Songs From 'Unlimited Love' Sessions: 'We Saved Some Of The Best Stuff For The Potential Next Album  [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/4/130024_0_meta_ver1649441042.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/bullet_for_my_valentine_share_new_single_omen.html",
-          "author": null,
-          "description": "Music News: The track comes off the band's expanded deluxe edition of their 2021 self-titled album.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/bullet_for_my_valentine_share_new_single_omen.html",
-          "publishedOn": "2022-04-08T21:44:10.000Z",
-          "wordCount": 25,
-          "title": "Bullet For My Valentine Share New Single 'Omen' [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/7/129997_0_wide_ver1649439851.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/pink_floyd_release_music_video_for_new_song_hey_hey_rise_up.html",
-          "author": null,
-          "description": "Music News: The song marks the first new original music by the band since 2014.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/pink_floyd_release_music_video_for_new_song_hey_hey_rise_up.html",
-          "publishedOn": "2022-04-08T21:13:59.000Z",
-          "wordCount": 29,
-          "title": "Pink Floyd Release Music Video For New Song 'Hey Hey Rise Up' [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/0/130000_0_wide_ver1649438039.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/grammy_producer_apologizes_for_failing_to_honor_slipknots_joey_jordison_and_others_in_this_years_in_memoriam_segment.html",
-          "author": null,
-          "description": "Music News: \"It's a really difficult one for us, but there is a process that doesn't involve the producers of the show.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/grammy_producer_apologizes_for_failing_to_honor_slipknots_joey_jordison_and_others_in_this_years_in_memoriam_segment.html",
-          "publishedOn": "2022-04-08T20:31:16.000Z",
-          "wordCount": 35,
-          "title": "Grammy Producer Apologizes For Failing To Honor Slipknot's Joey Jordison And Others In This Year's 'In Memoriam' Segment [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/130021_0_meta_ver1649435846.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/steve_hackett_explains_why_he_left_genesis_despite_being_greatest_band_in_the_world_talks_how_they_dealt_with_lack_of_radio_play.html",
-          "author": null,
-          "description": "Music News: \"I thought, 'No, my allegiance has to be to music.'\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/steve_hackett_explains_why_he_left_genesis_despite_being_greatest_band_in_the_world_talks_how_they_dealt_with_lack_of_radio_play.html",
-          "publishedOn": "2022-04-08T19:38:53.000Z",
-          "wordCount": 40,
-          "title": "Steve Hackett Explains Why He Left Genesis Despite Being 'Greatest Band In The World,' Talks How They Dealt With Lack Of Radio Play [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/8/130018_0_wide_ver1649432333.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/eric_johnson_releases_two_new_songs_from_two_upcoming_albums.html",
-          "author": null,
-          "description": "Music News: The musician will drop both records on July 29.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/eric_johnson_releases_two_new_songs_from_two_upcoming_albums.html",
-          "publishedOn": "2022-04-08T19:06:16.000Z",
-          "wordCount": 27,
-          "title": "Eric Johnson Releases Two New Songs From Two Upcoming Albums [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/5/130015_0_wide_ver1649430376.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/articles/features/friday_top_15_best_songs_for_morning_alarm-129991",
-          "author": null,
-          "description": "Features: As voted by the UG community.",
-          "link": "https://www.ultimate-guitar.com/articles/features/friday_top_15_best_songs_for_morning_alarm-129991",
-          "publishedOn": "2022-04-08T17:58:50.000Z",
-          "wordCount": 24,
-          "title": "Friday Top: 15 Best Songs For Morning Alarm [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/129991_0_wide_ver1649430536.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/interviews/papa_roach_guitarist_explains_why_he_stayed_loyal_to_schecter_guitars_shares_opinion_on_vintage_guitars.html",
-          "author": null,
-          "description": "Interviews: He's releasing a new album, titled \"Ego Trip,\" on April 8.",
-          "link": "https://www.ultimate-guitar.com/news/interviews/papa_roach_guitarist_explains_why_he_stayed_loyal_to_schecter_guitars_shares_opinion_on_vintage_guitars.html",
-          "publishedOn": "2022-04-08T17:22:52.000Z",
-          "wordCount": 33,
-          "title": "Papa Roach Guitarist Explains Why He Stayed Loyal To Schecter Guitars, Shares Opinion On Vintage Guitars [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/3/129913_0_wide_ver1649424172.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/listen_artificial_intelligence_generates_a_joe_bonamassa-style_blues_song.html",
-          "author": null,
-          "description": "Music News: The Jukebox neural net attempted to create a modern blues track.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/listen_artificial_intelligence_generates_a_joe_bonamassa-style_blues_song.html",
-          "publishedOn": "2022-04-08T13:31:18.000Z",
-          "wordCount": 26,
-          "title": "Listen: Artificial Intelligence Generates A Joe Bonamassa-Style Blues Song [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/4/129934_0_wide_ver1649410299.jpg"
         }
       ]
     },
@@ -292,6 +172,26 @@
       "feedUrl": "https://loudwire.com/feed/",
       "siteUrl": "https://loudwire.com",
       "articles": [
+        {
+          "id": "https://loudwire.com/?p=506211",
+          "author": "Taylor Linzinmeir",
+          "description": "Are Slipknot entering the metaverse?  Continue reading…",
+          "link": "https://loudwire.com/slipknot-teasing-knotverse-say-its-probably-nothing/",
+          "publishedOn": "2022-04-10T17:23:42.000Z",
+          "wordCount": 402,
+          "title": "Slipknot Teasing Something Called ‘Knotverse’",
+          "imageUrl": "https://townsquare.media/site/366/files/2021/12/attachment-attachment-slipknot-2021.jpg?w=1200"
+        },
+        {
+          "id": "https://loudwire.com/?p=506206",
+          "author": "Taylor Linzinmeir",
+          "description": "It's coming soon! Continue reading…",
+          "link": "https://loudwire.com/ozzy-osbourne-finished-new-album/",
+          "publishedOn": "2022-04-10T16:24:20.000Z",
+          "wordCount": 366,
+          "title": "Ozzy Osbourne Has Finished His New Album",
+          "imageUrl": "https://townsquare.media/site/366/files/2021/06/attachment-ozzy-osbourne.jpg?w=1200"
+        },
         {
           "id": "https://loudwire.com/?p=506202",
           "author": "Taylor Linzinmeir",
@@ -311,106 +211,6 @@
           "wordCount": 371,
           "title": "Jack White Gets Engaged + Married Onstage at Concert",
           "imageUrl": "https://townsquare.media/site/366/files/2021/12/attachment-Jack-White.jpg?w=1200"
-        },
-        {
-          "id": "https://loudwire.com/?p=506149",
-          "author": "Lauryn Schaffner",
-          "description": "Apples to oranges. Continue reading…",
-          "link": "https://loudwire.com/ghost-tobias-forge-rather-be-rammstein-than-pearl-jam/",
-          "publishedOn": "2022-04-08T20:06:02.000Z",
-          "wordCount": 437,
-          "title": "Ghost's Tobias Forge - I'd Rather Be Rammstein Than Pearl Jam",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-ghost-tobias-forge-rammstein-till-lindemann-pearl-jam-eddie-vedder.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=506146",
-          "author": "Philip Trapp",
-          "description": "That's some twang right there. Continue reading…",
-          "link": "https://loudwire.com/jack-white-stripes-tigers-baseball-national-anthem-video/",
-          "publishedOn": "2022-04-08T19:29:07.000Z",
-          "wordCount": 402,
-          "title": "Jack White Plays the National Anthem at Detroit Tigers Opener",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-jack_white_baseball_flames.jpg?w=1200"
-        },
-        {
-          "id": "https://loudwire.com/?p=505429",
-          "author": "Jordan Blum",
-          "description": "Big band behind, big things ahead! Continue reading…",
-          "link": "https://loudwire.com/best-albums-rock-metal-singers-left-big-bands/",
-          "publishedOn": "2022-04-08T17:27:17.000Z",
-          "wordCount": 257,
-          "title": "10 Best Albums By Singers Who Left Big Rock + Metal Bands",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-tarja_turunen_ozzy_osbourne_max_cavalera.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=506126",
-          "author": "Lauryn Schaffner",
-          "description": "Apparently everyone did. Continue reading…",
-          "link": "https://loudwire.com/jacoby-shaddix-hated-papa-roach-lumped-nu-metal/",
-          "publishedOn": "2022-04-08T17:00:19.000Z",
-          "wordCount": 558,
-          "title": "Jacoby Shaddix Hated That Papa Roach Were Lumped in With Nu-Metal",
-          "imageUrl": "https://townsquare.media/site/366/files/2020/05/GettyImages-1207630447.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=506108",
-          "author": "Joe DiVita",
-          "description": "Hear the second song off Kreator's forthcoming album. Continue reading…",
-          "link": "https://loudwire.com/kreator-strongest-of-the-strong-song-lyrics/",
-          "publishedOn": "2022-04-08T16:04:56.000Z",
-          "wordCount": 497,
-          "title": "Kreator Call Upon 'Strongest of the Strong' on New Song",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-kreator_2022.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=506079",
-          "author": "Alicia Selin",
-          "description": "Drink it baby, drink it baby. Continue reading…",
-          "link": "https://loudwire.com/rob-zombie-new-dragula-fuel-coffee/",
-          "publishedOn": "2022-04-08T15:35:33.000Z",
-          "wordCount": 389,
-          "title": "Rob Zombie's 'Dragula Fuel' May Perk You Up Enough to Dig Ditches",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-Untitled-design-2022-04-08T101320.643.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=506083",
-          "author": "Philip Trapp",
-          "description": "The segment also overlooked other rockers. Continue reading…",
-          "link": "https://loudwire.com/joey-jordison-left-out-2022-grammy-in-memoriam-segment-apology/",
-          "publishedOn": "2022-04-08T15:13:04.000Z",
-          "wordCount": 518,
-          "title": "Grammy Producer Apologizes for Tribute That Omitted Joey Jordison",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-joey_jordison_rip_slipknot_photo.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=506067",
-          "author": "Lauryn Schaffner",
-          "description": "The late, thunderous John Bonham. Continue reading…",
-          "link": "https://loudwire.com/taylor-hawkins-death-reminded-jason-bonham-father-death-john-bonham/",
-          "publishedOn": "2022-04-08T14:45:16.000Z",
-          "wordCount": 507,
-          "title": "Taylor Hawkins' Death Reminded Jason Bonham of His Dad's Death",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-foo-fighters-taylor-hawkins-jason-bonham-john-bonham.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=506063",
-          "author": "Philip Trapp",
-          "description": "Did you think they'd just give it away? Continue reading…",
-          "link": "https://loudwire.com/red-hot-chili-peppers-unlimited-love-best-stuff-new-album-john-frusciante/",
-          "publishedOn": "2022-04-08T14:11:16.000Z",
-          "wordCount": 494,
-          "title": "Frusciante Says RHCP Saved Some of Their Best Stuff for Future LP",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-red_hot_chili_peppers_press_photo_2022_warner.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=491094",
-          "author": "Loudwire Staff",
-          "description": "We keep track of all the rock and metal releases so you don't have to.  Continue reading…",
-          "link": "https://loudwire.com/2022-hard-rock-metal-album-release-calendar/",
-          "publishedOn": "2022-04-08T12:50:13.000Z",
-          "wordCount": 3648,
-          "title": "Here Are the New Rock + Metal Albums Out Today (April 8)",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/04/attachment-new_albums_april_8_2022.jpg?w=1200"
         }
       ]
     },
@@ -420,6 +220,106 @@
       "siteUrl": "https://www.hallofseries.com",
       "articles": [
         {
+          "id": "https://www.hallofseries.com/?p=551980",
+          "author": "Elena Di Stasio",
+          "description": "Vanessa Hudgens è ancora oggi, ai nostri occhi, la giovane e tenera Gabriella Montez di High School Musical. Ma negli ultimi anni l’attrice di casa Disney (che ha ancora degli ottimi rapporti con alcuni suoi colleghi, ve ne abbiamo parlato qui) ha fatto molto altro, anche se non sempre tutti i progetti in cui è… Leggi tutto »Vanessa Hudgens può parlare con i fantasmi: «È un dono»\nThe post Vanessa Hudgens può parlare con i fantasmi: «È un dono» appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/vanessa-hudgens-parlare-fantasmi/",
+          "publishedOn": "2022-04-10T20:15:36.000Z",
+          "wordCount": 3415,
+          "title": "Vanessa Hudgens può parlare con i fantasmi: «È un dono»",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Vanessa-Hudgens.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=416283",
+          "author": "Alice D'Arrigo",
+          "description": "The Vampire Diaries si è conclusa nel 2017 ma si è lasciata alle spalle una scia di momenti iconici e, bisogna pur dirlo, anche trash. Nelle 8 stagioni che sono state trasmesse a partire dal 1 settembre 2009 per The CW, ne sono successe davvero di tutti i colori: tra relazioni mutevoli, dinamiche contorte tra… Leggi tutto »30 disagi che solo un vero fan di The Vampire Diaries può capire\nThe post 30 disagi che solo un vero fan di The Vampire Diaries può capire appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/the-vampire-diaries/the-vampire-diaries-disagi-fan-capire/",
+          "publishedOn": "2022-04-10T11:17:00.000Z",
+          "wordCount": 3597,
+          "title": "30 disagi che solo un vero fan di The Vampire Diaries può capire",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2020/12/The-Vampire-Diaries.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=539600",
+          "author": "Serena Liggeri",
+          "description": "Regista e attore acclamato e talentoso, John Slattery è entrato nei nostri cuori grazie alla sua interpretazione di Roger Sterling, l’erede della Sterling Cooper in Mad Men, ma ha raggiunto il successo molto prima, comparendo in numerose produzioni cinematografiche e televisive. Tra le serie tv presenti nel suo curriculum troviamo diversi titoli importanti, come Will… Leggi tutto »7 curiosità su John Slattery, lo spavaldo Roger Sterling di Mad Men\nThe post 7 curiosità su John Slattery, lo spavaldo Roger Sterling di Mad Men appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/mad-men/john-slattery-curiosita-mad-men/",
+          "publishedOn": "2022-04-10T10:55:50.000Z",
+          "wordCount": 3927,
+          "title": "7 curiosità su John Slattery, lo spavaldo Roger Sterling di Mad Men",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/03/john-slattery.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=551717",
+          "author": "Serena Liggeri",
+          "description": "Dopo una deludente quarta stagione, Élite torna sulla scena con un nuovo capitolo, pronta a ricondurci nelle vite degli studenti di Las Encinas e preparandoci a un nuovo mistero e nuove svolte sentimentali. Le aspettative intorno alla quinta stagione non erano certamente delle migliori: l’addio di altri due membri del cast principale, avvenuto alla fine… Leggi tutto »Élite 5 – La Recensione: tra feste e festini, e la stagione ha finito per svegliarsi tardi\nThe post Élite 5 – La Recensione: tra feste e festini, e la stagione ha finito per svegliarsi tardi appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/elite/elite-5-recensione-feste-tardi/",
+          "publishedOn": "2022-04-10T10:49:58.000Z",
+          "wordCount": 4249,
+          "title": "Élite 5 – La Recensione: tra feste e festini, e la stagione ha finito per svegliarsi tardi",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Schermata-2022-04-09-alle-00.38.24.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=549890",
+          "author": "Benedetta Vanotti",
+          "description": "Sfacciata, a tratti cinica e davvero divertente: con il suo umorismo Malcolm in The Middle ai tempi ha rivoluzionato un genere: vediamo come!\nThe post L’umorismo controcorrente di Malcolm in the Middle appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/malcolm-in-the-middle/malcolm-in-the-middle-umorismo-serie-controcorrente/",
+          "publishedOn": "2022-04-10T06:47:00.000Z",
+          "wordCount": 4018,
+          "title": "L’umorismo controcorrente di Malcolm in the Middle",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2020/11/malcolm.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=550667",
+          "author": "Chiara Bresciani",
+          "description": "Il titolo italiano di Gilmore Girls, “Una mamma per amica”, è a dir poco fuorviante. Non soltanto infantilizza un prodotto che invece ha lasciato un’impronta profonda nel mondo delle serie tv, ma soprattutto esclude fin dal principio una delle tre ragazze Gilmore, spostando erroneamente il focus della serie sulla sola relazione tra Lorelai e sua… Leggi tutto »Lorelai ed Emily Gilmore: cane e gatto, ma lo stesso modo di camminare\nThe post Lorelai ed Emily Gilmore: cane e gatto, ma lo stesso modo di camminare appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/una-mamma-per-amica/gilmore-girls-lorelai-emily-rapporto/",
+          "publishedOn": "2022-04-10T06:44:20.000Z",
+          "wordCount": 3819,
+          "title": "Lorelai ed Emily Gilmore: cane e gatto, ma lo stesso modo di camminare",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/gilmore-girls.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=551648",
+          "author": "Ambra Pugnalini",
+          "description": "Bridgerton 2 è stato un enorme successo ma non tutte le scelte fatte dagli autori hanno soddisfatto i fan. Inoltre la testimonianza di Cole Sprouse sui danni causati alle baby star, le critiche di Gillian Anderson al set di X-Files e molto altro ancora tra le pessime notizie di questa settimana, raccolte per voi in… Leggi tutto »7 pessime notizie sulle Serie Tv\nThe post 7 pessime notizie sulle Serie Tv appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/bridgerton-2-pessime-notizie-sulle-serie-tv/",
+          "publishedOn": "2022-04-10T06:33:53.000Z",
+          "wordCount": 3955,
+          "title": "7 pessime notizie sulle Serie Tv",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Immagine-2022-04-10-083148.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=551564",
+          "author": "Maria Virginia Destefano",
+          "description": "Swiped, disponibile dal 7 Aprile su Sky Italia, è un docu-film firmato HBO che tenta – non riuscendoci a pieno – di indagare l’ambiguo ma interessantissimo mondo degli appuntamenti online. Seguendo le vicende di giovani ragazzi con esigenze e motivazioni differenti, Swiped ci guida in un viaggio visivo attraverso alcune delle app di dating più… Leggi tutto »Swiped: Hooking Up in the Digital Age – La Recensione del docu-film sul controverso tema del digitale\nThe post Swiped: Hooking Up in the Digital Age – La Recensione del docu-film sul controverso tema del digitale appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/documentario/swiped-hooking-up-in-the-digital-age-recensione/",
+          "publishedOn": "2022-04-10T04:24:58.000Z",
+          "wordCount": 3555,
+          "title": "Swiped: Hooking Up in the Digital Age – La Recensione del docu-film sul controverso tema del digitale",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/swiped-looking-up-e1649564690774.jpeg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=551271",
+          "author": "Silvia Nunnari",
+          "description": "Mindhunter, il thriller prodotto e distribuito dalla piattaforma Netflix, del creatore Joe Penhall e dello showrunner David Fincher, è stato presentato nel 2017 con il plauso della critica; la seconda stagione ha ottenuto una risposta ancora più entusiasta nel 2019. Tuttavia lo show è stato sospeso a tempo indeterminato, mettendo in dubbio una potenziale terza… Leggi tutto »Mindhunter – Jonathan Groff ha fornito un update sulla terza stagione\nThe post Mindhunter – Jonathan Groff ha fornito un update sulla terza stagione appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/mindhunter-jonathan-groff-update-terza/",
+          "publishedOn": "2022-04-10T04:04:07.000Z",
+          "wordCount": 3188,
+          "title": "Mindhunter – Jonathan Groff ha fornito un update sulla terza stagione",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/mindhunter-e1649563438998.jpeg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=550868",
+          "author": "Silvia Brighi",
+          "description": "Se pensiamo alla seconda stagione di Bridgerton, radicalmente diversa dalla prima e a tratti così emozionante da farci persino dimenticare l’assenza del duca, è difficile non prendere in considerazione personaggio della dolce Edwina Sharma, interpretata dall’attrice Charithra Chandran. Infatti, se questa volta i protagonisti indiscussi della serie Netflix sono stati Anthony Bridgerton (Jonathan Bailey) e… Leggi tutto »Bridgerton – Charithra Chandran: «I miei genitori non sono contenti della mia carriera»\nThe post Bridgerton – Charithra Chandran: «I miei genitori non sono contenti della mia carriera» appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/bridgerton-charithra-chandran-carriera/",
+          "publishedOn": "2022-04-10T03:45:43.000Z",
+          "wordCount": 3089,
+          "title": "Bridgerton – Charithra Chandran: «I miei genitori non sono contenti della mia carriera»",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Bridgerton-e1649562327787.png"
+        },
+        {
           "id": "https://www.hallofseries.com/?p=550674",
           "author": "Annalisa Gabriele",
           "description": "Alla voce monologo, il dizionario recita: Discorso continuato, soprattutto orale ma anche scritto, tenuto da una sola persona che si rivolge a sé stessa o ad altri, dai quali non attende o non ammette risposte o critiche, e con i quali non intende stabilire un dialogo. E’ chiaro: questa è una definizione oggettiva, reale. Ma… Leggi tutto »7 Monologhi delle Serie Tv comedy che ho assorbito come veri e propri Mantra\nThe post 7 Monologhi delle Serie Tv comedy che ho assorbito come veri e propri Mantra appeared first on Hall of Series.",
@@ -428,146 +328,6 @@
           "wordCount": 4637,
           "title": "7 Monologhi delle Serie Tv comedy che ho assorbito come veri e propri Mantra",
           "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Immagine-8.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551808",
-          "author": "Serena Verrecchia",
-          "description": "Attenzione: evitate la lettura se non volete imbattervi in spoiler su Il Re 1×07/1×08 Il Re ha chiuso il suo ciclo, con due puntate energiche e palpitanti. Un finale di stagione scoppiettante sul piano dell’azione, con tanta tensione emotiva concentrata tutta nell’ultimo episodio, il corollario giusto per un prodotto che si è dimostrato pienamente all’altezza… Leggi tutto »Il Re 1×07/1×08 – La Recensione finale del prison drama italiano\nThe post Il Re 1×07/1×08 – La Recensione finale del prison drama italiano appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/il-re/il-re-1x07-1x08-recensione-finale/",
-          "publishedOn": "2022-04-09T11:48:10.000Z",
-          "wordCount": 4042,
-          "title": "Il Re 1×07/1×08 – La Recensione finale del prison drama italiano",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Immagine-2022-04-09-134736.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=524965",
-          "author": "Fabiana Fanelli",
-          "description": "I cataloghi delle piattaforme di streaming sono sempre in continua evoluzione e spesso sono così pieni di prodotti che sceglierne uno può diventare difficile. Spesso al loro interno, tra la miriade di serie tv si nascondono dei gioiellini che confusisi nella mischia potrebbero passare inosservati. Per questo abbiamo scelto le 13 serie tv che a… Leggi tutto »Le 13 migliori Serie Tv presenti in questo momento sul catalogo di Amazon Prime Video\nThe post Le 13 migliori Serie Tv presenti in questo momento sul catalogo di Amazon Prime Video appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/serie-tv/amazon-prime-video-migliori-serie/",
-          "publishedOn": "2022-04-09T09:03:00.000Z",
-          "wordCount": 4625,
-          "title": "Le 13 migliori Serie Tv presenti in questo momento sul catalogo di Amazon Prime Video",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/01/amazon-prime-video.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=548075",
-          "author": "Samanta Carrea",
-          "description": "Perché avere un gatto o un cane in casa quando potreste avere un lemure, un maialino e dei rettili come animali da compagnia? Mike Tyson con le sue due tigri bianche, ad esempio, ci insegna come si fa a scoraggiare i malintenzionati o i vicini con la musica a palla. Chiaramente non è l’unica star… Leggi tutto »10 attori delle Serie Tv che hanno un animale domestico davvero particolare\nThe post 10 attori delle Serie Tv che hanno un animale domestico davvero particolare appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/serie-tv/leonardo-dicaprio-e-altri-attori-con-animale-domestico-particolare/",
-          "publishedOn": "2022-04-09T07:16:46.000Z",
-          "wordCount": 3950,
-          "title": "10 attori delle Serie Tv che hanno un animale domestico davvero particolare",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Immagine-2022-04-09-091309.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=549915",
-          "author": "Valentina Castro",
-          "description": "“Cogito ergo sum”. diceva Cartesio nel 1600. E il concetto sembra valere anche nel 2033. O almeno così sostengono gli angeli di Upload. Se la morte spaventa, potrebbe consolare sapere che, in un futuro non troppo lontano, quella coscienza, quella capacità di pensiero, il discernimento proprio dell’essere umano sarà ancora ciò che caratterizza un essere… Leggi tutto »Upload e la paradossale morte della vita, attraverso  l’eternità\nThe post Upload e la paradossale morte della vita, attraverso  l’eternità appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/upload/upload-e-la-paradossale-morte-della-vita-attraverso-l-eternita/",
-          "publishedOn": "2022-04-09T07:01:43.000Z",
-          "wordCount": 3910,
-          "title": "Upload e la paradossale morte della vita, attraverso  l’eternità",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Immagine-2022-04-09-085844.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551507",
-          "author": "Gianpaolo Torchio",
-          "description": "Prodotto tra gli altri da Amazon Studios e distribuito su Amazon Prime a partire da venerdì otto aprile 2022, La cena delle spie è una spy story decisamente atipica con una allure vintage che ricorda i film di spionaggio degli anni Settanta basati sui libri di John le Carré o Frederick Forsyth. A dire il… Leggi tutto »La Cena delle Spie, – Recensione del nuovo film disponibile su Amazon Prime Video\nThe post La Cena delle Spie, – Recensione del nuovo film disponibile su Amazon Prime Video appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/recensioni/la-cena-delle-spie-recensione-film-amazon-prime-video/",
-          "publishedOn": "2022-04-09T06:49:00.000Z",
-          "wordCount": 3828,
-          "title": "La Cena delle Spie, – Recensione del nuovo film disponibile su Amazon Prime Video",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/la-cena-delle-spie-copertina.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551722",
-          "author": "Marilisa Di Maio",
-          "description": "Bridgerton ci è riuscita di nuovo: la seconda stagione di questa serie tv è stata nuovamente capace di conquistare tutti gli abbonati a Netflix. I nuovi episodi di questo scandaloso period drama, prodotto da Shondaland, sono arrivati sulla piattaforma di streaming appena da qualche settimana eppure sui social non si parla altro che della chimica… Leggi tutto »L’attrice che interpreta Prudence in Bridgerton è figlia di due famosi attori inglesi\nThe post L’attrice che interpreta Prudence in Bridgerton è figlia di due famosi attori inglesi appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/bridgerton-attrice-prudence-figlia-due-attori-inglesi-famosi/",
-          "publishedOn": "2022-04-09T06:40:35.000Z",
-          "wordCount": 3236,
-          "title": "L’attrice che interpreta Prudence in Bridgerton è figlia di due famosi attori inglesi",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Screenshot_2022-04-09-02-05-39_resize_35.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551486",
-          "author": "Marilisa Di Maio",
-          "description": "Don Matteo da due settimane è tornato su Rai 1: ogni giovedì sera in prima serata stanno andando in onda infatti i nuovi episodi. La tredicesima stagione di Don Matteo regalerà al pubblico tante sorprese ed emozioni. La novità più grande sarà ovviamente l’arrivo di Raoul Bova che prenderà il posto di Terence Hill nelle… Leggi tutto »Flavio Insinna sul suo ritorno a Don Matteo 13: «È stato emozionante»\nThe post Flavio Insinna sul suo ritorno a Don Matteo 13: «È stato emozionante» appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/don-matteo-13-flavio-insinna-ritorno-emozione/",
-          "publishedOn": "2022-04-09T06:35:31.000Z",
-          "wordCount": 3456,
-          "title": "Flavio Insinna sul suo ritorno a Don Matteo 13: «È stato emozionante»",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Screenshot_2022-04-08-15-31-01_resize_18.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551751",
-          "author": "Marilisa Di Maio",
-          "description": "Studio Battaglia, la nuova fiction Rai di grande successo, si è conclusa il 5 aprile con la prima stagione che è stata molto apprezzata dal pubblico italiano. Prodotta da Palomar e Tempesta in collaborazione con Rai Fiction, questa fiction è l’adattamento di un legal drama inglese, The Split. Studio Battaglia è stata senza dubbio una bella scoperta e una… Leggi tutto »Studio Battaglia 2 si farà? Rispondono le protagoniste\nThe post Studio Battaglia 2 si farà? Rispondono le protagoniste appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/studio-battaglia-2-rispondono-protagoniste/",
-          "publishedOn": "2022-04-09T06:28:12.000Z",
-          "wordCount": 3207,
-          "title": "Studio Battaglia 2 si farà? Rispondono le protagoniste",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Screenshot_2022-04-09-02-08-48_resize_42.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=548500",
-          "author": "Roberta De Vita",
-          "description": "L’ascesa e il declino di Adam Neumann, il miliardario creatore del co-working, è ora disponibile su Apple Tv nella nuova serie WeCrashed, con Jared Leto e Anne Hathaway Scritta da Lee Eisenberg e Drew Crevello, WeCrashed è la nuova miniserie targata AppleTv che mostra la nascita della startup WeWork, la nota società fondata nel 2010 con l’intento… Leggi tutto »5 validi motivi per iniziare WeCrashed\nThe post 5 validi motivi per iniziare WeCrashed appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/wecrashed/wecrashed-5-motivi-iniziare/",
-          "publishedOn": "2022-04-09T05:24:17.000Z",
-          "wordCount": 3451,
-          "title": "5 validi motivi per iniziare WeCrashed",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/03/1606810199-wecrashed.webp"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551698",
-          "author": "Annalisa Gabriele",
-          "description": "Non c’è niente da fare: il gesto di Will Smith avvenuto durante la notte degli Oscar 2022 sta ancora facendo parlare. In questi giorni, in un modo o nell’altro, tutti hanno detto la loro schierandosi da una parte o dall’altra. Chris Rock ha anche espresso il suo punto di vista sul gesto subito, e qualche… Leggi tutto »Will Smith è stato bannato dagli Oscar per 10 anni\nThe post Will Smith è stato bannato dagli Oscar per 10 anni appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/oscar-2022-will-smith-bannato-10-anni/",
-          "publishedOn": "2022-04-08T20:23:38.000Z",
-          "wordCount": 3167,
-          "title": "Will Smith è stato bannato dagli Oscar per 10 anni",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/Immagine-20.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551359",
-          "author": "Clotilde Formica",
-          "description": "Viaggiatori, abbiamo lasciato la Turchia per avventurarci in Uzbekistan. Finalmente Pechino Express diventa piuttosto piccante, tra cibi locali e battibecchi vari. Per non parlare del fatto che la trasmissione ha temporaneamente perso il suo storico e stoico condottiero Costa. Al suo posto giunge solerte il buon Enzo Miccio, che ci ha allietato la serata con… Leggi tutto »Pechino Express – Le Pagelle del 5° episodio: Paride Savastano gradisce la pizza di Cracco; dietro Frù si nasconde il fuoco dei Targaryen\nThe post Pechino Express – Le Pagelle del 5° episodio: Paride Savastano gradisce la pizza di Cracco; dietro Frù si nasconde il fuoco dei Targaryen appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/pagelle/pechino-express-pagelle-5-episodio/",
-          "publishedOn": "2022-04-08T18:14:14.000Z",
-          "wordCount": 3769,
-          "title": "Pechino Express – Le Pagelle del 5° episodio: Paride Savastano gradisce la pizza di Cracco; dietro Frù si nasconde il fuoco dei Targaryen",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/pechino-express-e1649441601286.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551384",
-          "author": "Sara Crecco",
-          "description": "Oggi usciamo per un momento dal consueto ambito seriale per inoltrarci in quello cinematografico con dei suggerimenti: una lista di 10 film da vedere, di vario genere e più o meno recenti, tra cui molti presenti sulle piattaforme di streaming più note. Vi proponiamo 10 lungometraggi esteri che, sebbene abbiano un cast d’eccezione e tutte… Leggi tutto »10 film sottovalutatissimi che vi consigliamo caldamente\nThe post 10 film sottovalutatissimi che vi consigliamo caldamente appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/film/film-da-vedere-sottovalutati/",
-          "publishedOn": "2022-04-08T18:12:12.000Z",
-          "wordCount": 5214,
-          "title": "10 film sottovalutatissimi che vi consigliamo caldamente",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/film-da-vedere.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551529",
-          "author": "Vincenzo Galdieri",
-          "description": "Ormai è una delle leggende di MasterChef Italia. Arrivato nel noto programma televisivo italiano da ben 7 anni – era il 2015 quando Antonino fece il suo esordio nella serie Sky – Antonino Cannavacciuolo si è da subito imposto come uno degli chef più amati da tutti: pubblico, concorrenti, anche il vostro cane sebbene non… Leggi tutto »Cannavacciuolo sul suo possibile addio a MasterChef: «Avete capito malissimo, ora ve lo spiego io»\nThe post Cannavacciuolo sul suo possibile addio a MasterChef: «Avete capito malissimo, ora ve lo spiego io» appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/masterchef-cannavacciuolo-addio/",
-          "publishedOn": "2022-04-08T15:04:47.000Z",
-          "wordCount": 3104,
-          "title": "Cannavacciuolo sul suo possibile addio a MasterChef: «Avete capito malissimo, ora ve lo spiego io»",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2019/03/masterchef-8-decima-puntata-4-e1553344922882.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=551513",
-          "author": "Vincenzo Galdieri",
-          "description": "“Fai ottenzione a ciò che desideri, potresti ottenerlo” recita un celebre aforisma firmato Oscar Wilde. La cosa che più bramiamo e più temiamo allo stesso tempo potrebbe alla fine davvero realizzarsi, in Better Call Saul: ebbene sì. Siamo stati anni a desiderare che prima o poi i due grandi protagonisti di Breaking Bad apparissero nella… Leggi tutto »Vince Gilligan ci manda fuori di testa: «Sarebbe peccato se Better Call Saul finisse senza Walt e Jesse»\nThe post Vince Gilligan ci manda fuori di testa: «Sarebbe peccato se Better Call Saul finisse senza Walt e Jesse» appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/better-call-saul-walt-jesse-finale/",
-          "publishedOn": "2022-04-08T14:12:28.000Z",
-          "wordCount": 3140,
-          "title": "Vince Gilligan ci manda fuori di testa: «Sarebbe peccato se Better Call Saul finisse senza Walt e Jesse»",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/04/better-call-saul-e1649425877973.jpg"
         }
       ]
     },
@@ -583,214 +343,79 @@
       "siteUrl": "https://www.loudersound.com/feeds/all",
       "articles": [
         {
-          "id": "https://www.loudersound.com/features/bob-rock-metallica-black-album-load-interview",
+          "id": "https://www.loudersound.com/news/saints-singer-chris-bailey-has-died",
           "author": null,
-          "description": "An exclusive interview with Bob Rock – the producer who helped steer Metallica to superstardom",
-          "link": "https://www.loudersound.com/features/bob-rock-metallica-black-album-load-interview",
-          "publishedOn": "2022-04-09T07:39:40.000Z",
-          "wordCount": 1928,
-          "title": "“Metallica are not for wimps”: Bob Rock reveals the secrets of the Black Album and Load",
+          "description": "The death of Chris Bailey, frontman of Australian punk rock legends The Saints, has been confirmed by the band",
+          "link": "https://www.loudersound.com/news/saints-singer-chris-bailey-has-died",
+          "publishedOn": "2022-04-10T23:59:34.000Z",
+          "wordCount": 982,
+          "title": "Saints singer Chris Bailey dead at 65",
           "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/yXkkzx2D9rfspSaA8eLJzH.jpg",
+            "url": "http://cdn.mos.cms.futurecdn.net/KFH2NHbfJ9AHaTq4ga5geG.jpg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/yXkkzx2D9rfspSaA8eLJzH.jpg"
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/KFH2NHbfJ9AHaTq4ga5geG.jpg"
         },
         {
-          "id": "https://www.loudersound.com/features/10-movies-that-got-metal-completely-wrong",
+          "id": "https://www.loudersound.com/news/toyah-brandishes-plastic-gun-as-britains-liveliest-couple-revisit-a-classic",
           "author": null,
-          "description": "Netflix’s new Metal Lords movie gets metal spot on. Here are 10 cinematic turkeys that absolutely screw it up when it comes the music, the bands and the fans",
-          "link": "https://www.loudersound.com/features/10-movies-that-got-metal-completely-wrong",
-          "publishedOn": "2022-04-09T06:30:23.000Z",
-          "wordCount": 1240,
-          "title": "10 movies that get metal completely wrong",
+          "description": "Toyah Willcox and Robert Fripp play Living Colour's Cult Of Personality a mere 41 days after performing it for the first time",
+          "link": "https://www.loudersound.com/news/toyah-brandishes-plastic-gun-as-britains-liveliest-couple-revisit-a-classic",
+          "publishedOn": "2022-04-10T22:43:00.000Z",
+          "wordCount": 931,
+          "title": "Toyah brandishes plastic gun as Britain's liveliest couple revisit a classic",
           "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/nQuskS7WfxM9gaHJv8ZJNR.jpg",
+            "url": "http://cdn.mos.cms.futurecdn.net/ehcPU2yYTJfsZtxAN7BX9c.jpg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/nQuskS7WfxM9gaHJv8ZJNR.jpg"
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ehcPU2yYTJfsZtxAN7BX9c.jpg"
         },
         {
-          "id": "https://www.loudersound.com/features/introducing-meer-the-norwegian-pop-proggers-you-need-to-hear",
+          "id": "https://www.loudersound.com/reviews/cancer-bats-psychic-jailbreak-album-review",
           "author": null,
-          "description": "Norwegian chamber prog octet Meer make a quantum leap with their second album, The Playing House",
-          "link": "https://www.loudersound.com/features/introducing-meer-the-norwegian-pop-proggers-you-need-to-hear",
-          "publishedOn": "2022-04-08T18:39:56.000Z",
-          "wordCount": 1039,
-          "title": "Introducing Meer: the Norwegian pop-proggers you need to hear",
+          "description": "Album review: they may be down a member, but Cancer Bats haven’t let up the pace on new album Psychic Jailbreak",
+          "link": "https://www.loudersound.com/reviews/cancer-bats-psychic-jailbreak-album-review",
+          "publishedOn": "2022-04-10T17:27:36.000Z",
+          "wordCount": 808,
+          "title": "Cancer Bats’ Psychic Jailbreak: hardcore kingpins as reliably awesome as ever",
           "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/irXCSXsAjgg89Fao7HUsM9.jpg",
+            "url": "http://cdn.mos.cms.futurecdn.net/NK492QzFTFy42zTJMP5K5Q.jpg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/irXCSXsAjgg89Fao7HUsM9.jpg"
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/NK492QzFTFy42zTJMP5K5Q.jpg"
         },
         {
-          "id": "https://www.loudersound.com/news/the-tangent-reveal-new-mega-prog-album-songs-from-the-hard-shoulder",
+          "id": "https://www.loudersound.com/reviews/health-disco4-part-ii-album-review",
           "author": null,
-          "description": "The Tangent mark their 20th anniversary with their 12th studio album -  listen to a single edit of lead track The Changes",
-          "link": "https://www.loudersound.com/news/the-tangent-reveal-new-mega-prog-album-songs-from-the-hard-shoulder",
-          "publishedOn": "2022-04-08T18:19:54.000Z",
-          "wordCount": 1104,
-          "title": "The Tangent reveal new \"mega prog\" album Songs From The Hard Shoulder",
+          "description": "Album review: Health team up with Trent Reznor, Poppy and Lamb Of God on new album Disco4 :: Part II with stellar results",
+          "link": "https://www.loudersound.com/reviews/health-disco4-part-ii-album-review",
+          "publishedOn": "2022-04-10T17:05:09.000Z",
+          "wordCount": 748,
+          "title": "Health’s Disco4 :: Part II: future-metal visionaries continue to taunt the gatekeepers on all-star sequel",
           "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/HZCqueqhWF2XwdWhQN84nH.jpg",
+            "url": "http://cdn.mos.cms.futurecdn.net/4oQZN4X42oNsSVU9zfnpi3.jpg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/HZCqueqhWF2XwdWhQN84nH.jpg"
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/4oQZN4X42oNsSVU9zfnpi3.jpg"
         },
         {
-          "id": "https://www.loudersound.com/news/the-flower-kings-begin-reissue-campaign-in-2022",
+          "id": "https://www.loudersound.com/features/10-movies-that-get-metal-absolutely-right",
           "author": null,
-          "description": "The Flower Kings to re-release their back catalogue starting with Back In The World Of Adventures and Retropolis",
-          "link": "https://www.loudersound.com/news/the-flower-kings-begin-reissue-campaign-in-2022",
-          "publishedOn": "2022-04-08T17:14:50.000Z",
-          "wordCount": 953,
-          "title": "The Flower Kings begin 2022 reissue campaign with 90s albums",
+          "description": "Netflix’s Metal Lords is one of the few movies that get metal right. Here are some of the others",
+          "link": "https://www.loudersound.com/features/10-movies-that-get-metal-absolutely-right",
+          "publishedOn": "2022-04-10T06:30:47.000Z",
+          "wordCount": 1242,
+          "title": "10 movies that get metal absolutely right",
           "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/fFgMzBLZLJjsbfeQtZMySh.jpg",
+            "url": "http://cdn.mos.cms.futurecdn.net/PE2LB72Tw5GKwtFHeo59V7.jpg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/fFgMzBLZLJjsbfeQtZMySh.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/news/envy-of-none-announce-7-single-of-enemyyoull-be-sorry-to-raise-money-for-ukrainian-refugees",
-          "author": null,
-          "description": "Alex Lifeson's Envy Of None to release split 7-inch of Enemy/You'll Be Sorry on Ukrainian flag-coloured vinyl with all proceeds donated Ukraine emergency response",
-          "link": "https://www.loudersound.com/news/envy-of-none-announce-7-single-of-enemyyoull-be-sorry-to-raise-money-for-ukrainian-refugees",
-          "publishedOn": "2022-04-08T16:48:34.000Z",
-          "wordCount": 924,
-          "title": "Alex Lifeson's Envy Of None announce 7\" single to raise money for Ukrainian refugees",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/NqkYQBzTxv7CX26WZYJ4xN.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/NqkYQBzTxv7CX26WZYJ4xN.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/features/dracula-mike-oldfield-and-moogs-magenta-visit-the-dark-side-on-masters-of-illusion",
-          "author": null,
-          "description": "Welsh proggers Magenta have returned to their signature sound on Masters Of Illusion. Robert Reed discusses marrying his pop background with prog, horror actors and the perils of social media",
-          "link": "https://www.loudersound.com/features/dracula-mike-oldfield-and-moogs-magenta-visit-the-dark-side-on-masters-of-illusion",
-          "publishedOn": "2022-04-08T16:04:53.000Z",
-          "wordCount": 2307,
-          "title": "Dracula, Mike Oldfield and Moogs: Magenta visit the dark side on Masters Of Illusion",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/D53eudpBGsBWz4FzHXSR5P.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/D53eudpBGsBWz4FzHXSR5P.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/news/hakens-charlie-griffiths-announces-the-worlds-first-palaeontology-based-progressive-metal-album",
-          "author": null,
-          "description": "Listen to Charlie Griffiths' new single Arctic Cemetery,  featuring Between The Buried And Me singer Tommy Rogers",
-          "link": "https://www.loudersound.com/news/hakens-charlie-griffiths-announces-the-worlds-first-palaeontology-based-progressive-metal-album",
-          "publishedOn": "2022-04-08T15:34:27.000Z",
-          "wordCount": 1019,
-          "title": "Haken's Charlie Griffiths announces Tiktaalika – \"the world’s first palaeontology-based progressive metal album!\"",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/Hztw5Gu5zQkCNKLYUai7Cj.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Hztw5Gu5zQkCNKLYUai7Cj.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/news/ville-valo-loveletting-video-new-song",
-          "author": null,
-          "description": "Former HIM frontman Ville Valo is bringing 80s MOR-goth back with help from a black sheep in the video for new VV single Loveletting",
-          "link": "https://www.loudersound.com/news/ville-valo-loveletting-video-new-song",
-          "publishedOn": "2022-04-08T15:18:49.000Z",
-          "wordCount": 1254,
-          "title": "Watch Ville Valo romancing a sheep in the video for new single Loveletting",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/MavHYqXRbxU2LuhYu4F5A7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/MavHYqXRbxU2LuhYu4F5A7.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/features/yes-guitarist-steve-howe-on-cruises-close-to-the-edge-and-the-secrets-behind-relayers-sound",
-          "author": null,
-          "description": "Now in their sixth decade, Yes show no signs of slowing down. In 2022, they'll be revisiting Close To The Edge with a fresh batch of dates. Long-serving guitarist Steve Howe looks ahead to a busy future",
-          "link": "https://www.loudersound.com/features/yes-guitarist-steve-howe-on-cruises-close-to-the-edge-and-the-secrets-behind-relayers-sound",
-          "publishedOn": "2022-04-08T15:10:34.000Z",
-          "wordCount": 1463,
-          "title": "Yes guitarist Steve Howe on cruises, Close To The Edge and the secrets behind Relayer's sound",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/cqtqoN7bJDM5EygGswXQMW.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/cqtqoN7bJDM5EygGswXQMW.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/features/this-clip-of-alexi-laihos-final-gig-shows-why-he-was-a-guitar-hero-til-the-end",
-          "author": null,
-          "description": "The Children Of Bodom legend would have turned 43 today",
-          "link": "https://www.loudersound.com/features/this-clip-of-alexi-laihos-final-gig-shows-why-he-was-a-guitar-hero-til-the-end",
-          "publishedOn": "2022-04-08T15:00:11.000Z",
-          "wordCount": 930,
-          "title": "This clip of Alexi Laiho's final gig shows why he was a guitar hero 'til the end",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/vRzMDiK4SQPbgbuvu4MkW4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/vRzMDiK4SQPbgbuvu4MkW4.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/news/tesseract-release-prog-metal-charity-single-to-raise-funds-for-ukraine",
-          "author": null,
-          "description": "TesseracT's Regrowth supports the work carried by DEC (Disasters Emergency Committee) in Ukraine and other war zones",
-          "link": "https://www.loudersound.com/news/tesseract-release-prog-metal-charity-single-to-raise-funds-for-ukraine",
-          "publishedOn": "2022-04-08T14:37:53.000Z",
-          "wordCount": 846,
-          "title": "TesseracT release prog metal charity single to raise funds for Ukraine",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/vuRQKBU6WXcsYZZJWVQ4k4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/vuRQKBU6WXcsYZZJWVQ4k4.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/news/clannad-team-up-with-journeys-steve-perry-for-new-version-of-white-fool-stream-it-here",
-          "author": null,
-          "description": "Clannad's reimagining of the socially challenging White Fool appears on In A Lifetime (The Immersive Collection), out now",
-          "link": "https://www.loudersound.com/news/clannad-team-up-with-journeys-steve-perry-for-new-version-of-white-fool-stream-it-here",
-          "publishedOn": "2022-04-08T12:56:47.000Z",
-          "wordCount": 872,
-          "title": "Clannad team up with Journey's Steve Perry for new version of White Fool – stream it here!",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/NpSipErH8MGHhQ6E3MeYwF.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/NpSipErH8MGHhQ6E3MeYwF.jpg"
-        },
-        {
-          "id": "https://www.loudersound.com/features/enter-sandman-metallica-story-behind-song",
-          "author": null,
-          "description": "Their fans were worried about Metallica going “Bon Jovi”. But Enter Sandman would become one of metal’s greatest ever songs",
-          "link": "https://www.loudersound.com/features/enter-sandman-metallica-story-behind-song",
-          "publishedOn": "2022-04-08T12:41:26.000Z",
-          "wordCount": 1510,
-          "title": "The Story Behind The Song: Metallica’s Enter Sandman",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/7HSw6f933i465oT6mRD5J3.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7HSw6f933i465oT6mRD5J3.jpg"
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/PE2LB72Tw5GKwtFHeo59V7.jpg"
         }
       ]
     },
