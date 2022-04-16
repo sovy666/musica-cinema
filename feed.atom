@@ -2,10 +2,330 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/musica-cinema/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T14:02:30.197Z</updated>
+    <updated>2022-04-16T00:39:13.438Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/musica-cinema/index.html"/>
     <link rel="self" href="https://sovy666.github.io/musica-cinema/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phoebe Bridgers Releases New Song 'Sidelines' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/phoebe_bridgers_releases_new_song_sidelines.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/phoebe_bridgers_releases_new_song_sidelines.html"/>
+        <updated>2022-04-16T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The single will be a part of the streaming series "Conversations With Friends."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[While She Sleeps Release New Single 'Eye To Eye' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/while_she_sleeps_release_new_single_eye_to_eye.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/while_she_sleeps_release_new_single_eye_to_eye.html"/>
+        <updated>2022-04-16T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The song arrives with an accompanying short film.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taylor Hawkins's Cover Of Johnny Winter Song Marks The Foo Fighters Drummer's First Posthumous Recording [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/taylor_hawkinss_cover_of_johnny_winter_song_marks_the_foo_fighters_drummers_first_posthumous_recording.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/taylor_hawkinss_cover_of_johnny_winter_song_marks_the_foo_fighters_drummers_first_posthumous_recording.html"/>
+        <updated>2022-04-16T03:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Hawkins's cover of "Guess I'll Go Away" is featured on "Brother Johnny", an all-star tribute album to Johnny Winter.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fender Celebrates 60th Anniversary Of The Jaguar With Two New Versions [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/fender_celebrates_60th_anniversary_of_the_jaguar_with_two_new_versions.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/fender_celebrates_60th_anniversary_of_the_jaguar_with_two_new_versions.html"/>
+        <updated>2022-04-16T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Both models get some modern tweaks added to their iconic build.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corey Taylor Collaborates With Rap Rock Artist Hyro The Hero On 'Kids Against The Monsters' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/corey_taylor_collaborates_with_rap_rock_artist_hyro_the_hero_on_kids_against_the_monsters.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/corey_taylor_collaborates_with_rap_rock_artist_hyro_the_hero_on_kids_against_the_monsters.html"/>
+        <updated>2022-04-16T02:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The tune is a re-imagined version of the original song from last year.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noise Gate Vs. Noise Suppressor: What's The Difference? [News]]]></title>
+        <id>https://www.ultimate-guitar.com/articles/features/noise_gate_vs_noise_suppressor_whats_the_difference-130372</id>
+        <link href="https://www.ultimate-guitar.com/articles/features/noise_gate_vs_noise_suppressor_whats_the_difference-130372"/>
+        <updated>2022-04-16T01:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Features: Getting rid of unwanted noise.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wes Borland Hints At Potential New Limp Bizkit Album, Reveals Details Behind 'Most Amazing Instrument I've Ever Played' Guitar-Bass Hybrid Made By PRS [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/wes_borland_hints_at_potential_new_limp_bizkit_album_reveals_details_behind_most_amazing_instrument_ive_ever_played_guitar-bass_hybrid_made_by_prs.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/wes_borland_hints_at_potential_new_limp_bizkit_album_reveals_details_behind_most_amazing_instrument_ive_ever_played_guitar-bass_hybrid_made_by_prs.html"/>
+        <updated>2022-04-16T01:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "Anything is possible."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arch Enemy's Alissa White-Gluz Is 'Concerned' About What Will Happen To Metal Once 'The Masters' Start Retiring, Explains Why [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/arch_enemys_alissa_white-gluz_is_concerned_about_what_will_happen_to_metal_once_the_masters_start_retiring_explains_why.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/arch_enemys_alissa_white-gluz_is_concerned_about_what_will_happen_to_metal_once_the_masters_start_retiring_explains_why.html"/>
+        <updated>2022-04-16T00:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "I'm a little worried that the era of bands might actually come to a close."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metallica's Kirk Hammett Releases New Single 'High Plains Drifter' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/metallicas_kirk_hammett_releases_new_single_high_plains_drifter.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/metallicas_kirk_hammett_releases_new_single_high_plains_drifter.html"/>
+        <updated>2022-04-16T00:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The song is lifted off the guitarist's debut solo EP "Portals."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Scofield Says He Wanted To Be A Rock Player But His Parents Weren't Up For It, Explains How He Ended Up Playing Jazz [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/john_scofield_says_he_wanted_to_be_a_rock_player_but_his_parents_werent_up_for_it_explains_how_he_ended_up_playing_jazz.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/john_scofield_says_he_wanted_to_be_a_rock_player_but_his_parents_werent_up_for_it_explains_how_he_ended_up_playing_jazz.html"/>
+        <updated>2022-04-16T00:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The jazz guitar master also discusses guitar players who inspired him.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zakk Wylde Recalls How He Got To Join Ozzy Osbourne's Band, Describes What Ozzy And Lemmy Were Like Together [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/zakk_wylde_recalls_how_he_got_to_join_ozzy_osbournes_band_describes_what_ozzy_and_lemmy_were_like_together.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/zakk_wylde_recalls_how_he_got_to_join_ozzy_osbournes_band_describes_what_ozzy_and_lemmy_were_like_together.html"/>
+        <updated>2022-04-15T22:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Contrary to popular belief, Zakk Wylde wasn't originally Ozzy Osbourne's steroid dealer.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamie Dornan è contrario ai pregiudizi dopo l’annuncio di un casting: “Lo trovo rivoltante”]]></title>
+        <id>https://www.cinematographe.it/?p=880400</id>
+        <link href="https://www.cinematographe.it/news/jamie-dornan-contro-pregiudizi-casting/"/>
+        <updated>2022-04-15T21:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Jamie Dornan, uno dei nomi più controversi riguardo la scelta dei ruoli interpretati conosciuti ad Hollywood, non ha opinioni neutre come il “grigio” per cui…
+L'articolo Jamie Dornan è contrario ai pregiudizi dopo l’annuncio di un casting: “Lo trovo rivoltante” proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer for Band Contest Show Starring Alice Cooper, Lzzy Hale]]></title>
+        <id>https://loudwire.com/?p=507038</id>
+        <link href="https://loudwire.com/rock-band-contest-show-no-cover-alice-cooper-lzzy-hale-trailer/"/>
+        <updated>2022-04-15T21:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Who will they deem the best unsigned band? Continue reading…]]></summary>
+        <author>
+            <name>Lauryn Schaffner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liz Sheridan è morta: addio alla leggendaria attrice di Seinfeld e ALF]]></title>
+        <id>https://www.cinematographe.it/?p=880386</id>
+        <link href="https://www.cinematographe.it/news/liz-sheridan-causa-morte/"/>
+        <updated>2022-04-15T21:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Liz Sheridan, un nome ed un volto indimenticabili per i fan della TV iconica e leggendaria. Chi non conosce ed ama capolavori del piccolo schermo…
+L'articolo Liz Sheridan è morta: addio alla leggendaria attrice di Seinfeld e ALF proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max Cavalera Recalls One Studio Incident Involving Deftones' Chino Moreno, Remembers What Slayer's Tom Araya Was Like To Work With [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/max_cavalera_recalls_one_studio_incident_involving_deftones_chino_moreno_remembers_what_slayers_tom_araya_was_like_to_work_with.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/max_cavalera_recalls_one_studio_incident_involving_deftones_chino_moreno_remembers_what_slayers_tom_araya_was_like_to_work_with.html"/>
+        <updated>2022-04-15T20:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "There's blood in his face, and it's like an amazing scene."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor Strange nel Multiverso della Follia: Visione apparirà? La risposta di Paul Bettany]]></title>
+        <id>https://www.cinematographe.it/?p=880377</id>
+        <link href="https://www.cinematographe.it/news/doctor-strange-nel-multiverso-della-follia-cameo-visione/"/>
+        <updated>2022-04-15T20:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Doctor Strange nel Multiverso della Follia: il toto cameo continua senza sosta mentre i fan non stanno più nella pelle! L’uscita italiana nelle sale cinematografiche…
+L'articolo Doctor Strange nel Multiverso della Follia: Visione apparirà? La risposta di Paul Bettany proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Attori delle Serie Tv che hanno o hanno avuto relazioni aperte o poliamorose]]></title>
+        <id>https://www.hallofseries.com/?p=553283</id>
+        <link href="https://www.hallofseries.com/serie-tv/will-smith-attori-poliamorosi/"/>
+        <updated>2022-04-15T20:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Quando si tratta di amore non siamo mai tutti d’accordo. Inevitabile. Un argomento del genere, si sa, viene affrontato da ognuno di noi in modo totalmente differente. Se da una parte, infatti, come abbiamo visto anche qui, molti attori scelgono di non dedicarsi alla famiglia per favorire una vita individuale e professionale senza distrazioni, dall’altra… Leggi tutto »5 Attori delle Serie Tv che hanno o hanno avuto relazioni aperte o poliamorose
+The post 5 Attori delle Serie Tv che hanno o hanno avuto relazioni aperte o poliamorose appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Annalisa Gabriele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jim Carrey Recalls Meeting Pantera On The Same Day He Discovered Its Music, Names Favorite 'Overshadowed' Nirvana Piece [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/jim_carrey_recalls_meeting_pantera_on_the_same_day_he_discovered_its_music_names_favorite_overshadowed_nirvana_piece.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/jim_carrey_recalls_meeting_pantera_on_the_same_day_he_discovered_its_music_names_favorite_overshadowed_nirvana_piece.html"/>
+        <updated>2022-04-15T20:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "And it hit me on such a level of, like, extreme stimulation that I just started laughing uncontrollably for the entire track."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTTTO (Trujillo's Son) + Bastardane (Hetfield's Son) Book Tour]]></title>
+        <id>https://loudwire.com/?p=507024</id>
+        <link href="https://loudwire.com/ottto-bastardane-tour-2022-metallica-rob-trujillo-james-hetfield-sons/"/>
+        <updated>2022-04-15T19:57:55.000Z</updated>
+        <summary type="html"><![CDATA[This should be a fun run to catch! Continue reading…]]></summary>
+        <author>
+            <name>Joe DiVita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaley Cuoco e la dolorosa confessione: “Ho pianto quando ho perso questo ruolo”]]></title>
+        <id>https://www.cinematographe.it/?p=880367</id>
+        <link href="https://www.cinematographe.it/news/kaley-cuoco-la-dolorosa-confessione-ho-pianto-quando-ho-perso-questo-ruolo/"/>
+        <updated>2022-04-15T19:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Kaley Cuoco, indimenticabile Penny di The Big Bang Theory e attualmente sugli schermi con la serie TV L’assistente di volo, è in vena di confessioni…
+L'articolo Kaley Cuoco e la dolorosa confessione: “Ho pianto quando ho perso questo ruolo” proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Serie Tv che dovrebbero chiudere immediatamente]]></title>
+        <id>https://www.hallofseries.com/?p=552698</id>
+        <link href="https://www.hallofseries.com/serie-tv/elite-serie-tv-da-chiudere/"/>
+        <updated>2022-04-15T19:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Sapersi fermare al momento giusto è una abilità sempre più rara nella serialità. Ci sono serie tv inizialmente pensate per durare meno (e sarebbe stato meglio) che hanno proseguito per cavalcare l’onda del successo, spesso, inaspettato. Ci sono quelle che, invece, vanno avanti ai limiti del ridicolo, come Beautiful, un titolo che ormai è diventato… Leggi tutto »8 Serie Tv che dovrebbero chiudere immediatamente
+The post 8 Serie Tv che dovrebbero chiudere immediatamente appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Sara Crecco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Scams Old Woman, Buys 11 Guitars + Amps With Her Credit Cards]]></title>
+        <id>https://loudwire.com/?p=507022</id>
+        <link href="https://loudwire.com/man-scams-old-woman-buys-11-gibson-guitars-credit-card/"/>
+        <updated>2022-04-15T19:34:56.000Z</updated>
+        <summary type="html"><![CDATA[He's wanted for fraud and theft charges. Continue reading…]]></summary>
+        <author>
+            <name>Lauryn Schaffner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oppenheimer, nel cast del film anche Olivia Thirlby]]></title>
+        <id>https://www.cinematographe.it/?p=880347</id>
+        <link href="https://www.cinematographe.it/news/oppenheimer-film-christopher-nolan-cast/"/>
+        <updated>2022-04-15T19:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Oppenheimer, il cast del film diretto dal leggendario regista Christopher Nolan diventa sempre più ampio e ambizioso nella sua scelta di una vasta e variegata…
+L'articolo Oppenheimer, nel cast del film anche Olivia Thirlby proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday Top: 20 Songs Where Guest Musicians Stole The Show [News]]]></title>
+        <id>https://www.ultimate-guitar.com/articles/features/friday_top_20_songs_where_guest_musicians_stole_the_show-130366</id>
+        <link href="https://www.ultimate-guitar.com/articles/features/friday_top_20_songs_where_guest_musicians_stole_the_show-130366"/>
+        <updated>2022-04-15T18:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Features: As voted by the UG community.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rob Zombie Casts Original 'Munsters' Series Actress in His Update]]></title>
+        <id>https://loudwire.com/?p=507018</id>
+        <link href="https://loudwire.com/rob-zombie-casts-original-munsters-series-pat-priest-new-munsters-film/"/>
+        <updated>2022-04-15T18:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Who's set to spend more time on Mockingbird Lane? Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Bonamassa Reveals Signature Fender '48 Dual Professional Amplifier [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/joe_bonamassa_reveals_signature_fender_48_dual_professional_amplifier.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/joe_bonamassa_reveals_signature_fender_48_dual_professional_amplifier.html"/>
+        <updated>2022-04-15T18:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The JB Edition combo will arrive soon.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chi è Luca Bastianello? Biografia, carriera e vita privata dell’affascinante attore padovano]]></title>
+        <id>https://www.cinematographe.it/?p=880204</id>
+        <link href="https://www.cinematographe.it/news/luca-bastianello-chi-e/"/>
+        <updated>2022-04-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Da Vivere a Centovetrine, fino al Paradiso delle Signore, Luca Bastianello ha accumulato diverse esperienze sul set, soprattutto nei generi fiction e soap opera. Nato…
+L'articolo Chi è Luca Bastianello? Biografia, carriera e vita privata dell’affascinante attore padovano  proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Manuel Magarini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per The Last Victim: Ron Perlman è sulle tracce di alcuni banditi]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284569</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-the-last-victim-ron-perlman/"/>
+        <updated>2022-04-15T17:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Ci sono anche Ralph Ineson e Ali Larter nel cast del neo western
+L'articolo Trailer per The Last Victim: Ron Perlman è sulle tracce di alcuni banditi proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corey Taylor Sings on Hyro the Hero's 'Kids Against the Monsters']]></title>
+        <id>https://loudwire.com/?p=506999</id>
+        <link href="https://loudwire.com/hyro-the-hero-corey-taylor-kids-against-the-monsters-slipknot/"/>
+        <updated>2022-04-15T16:56:47.000Z</updated>
+        <summary type="html"><![CDATA[It's a totally new version of the Hyro the Hero cut. Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rob Halford Christens Litter of Kittens for Kitten Rescue]]></title>
+        <id>https://loudwire.com/?p=506990</id>
+        <link href="https://loudwire.com/rob-halford-christens-litter-kittens-kitten-rescue-organization/"/>
+        <updated>2022-04-15T16:52:57.000Z</updated>
+        <summary type="html"><![CDATA[See what names he gave the newborns. Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barry Keoghan: l’attore è stato arrestato a Dublino per disturbo della quiete pubblica!]]></title>
+        <id>https://www.cinematographe.it/?p=880331</id>
+        <link href="https://www.cinematographe.it/news/barry-keognan-arrestato-per-disturbo-quiete-pubblica/"/>
+        <updated>2022-04-15T16:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Barry Keoghan, apparso di recente in The Batman e Eternals, è stato arrestato a Dublino per un incidente di ordine pubblico lo scorso fine settimana.…
+L'articolo Barry Keoghan: l’attore è stato arrestato a Dublino per disturbo della quiete pubblica! proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Danilo Gargano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deftones Hire Ex-Marilyn Manson Bassist Fred Sablan [News]]]></title>
         <id>https://www.ultimate-guitar.com/news/general_music_news/deftones_hire_ex-marilyn_manson_bassist_fred_sablan.html</id>
@@ -14,6 +334,145 @@
         <summary type="html"><![CDATA[Music News: The musician was hired as a touring member to replace Sergio Vega.]]></summary>
         <author>
             <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 disagi che solo un vero fan di Romanzo Criminale può capire]]></title>
+        <id>https://www.hallofseries.com/?p=484125</id>
+        <link href="https://www.hallofseries.com/romanzo-criminale/romanzo-criminale-30-disagi/"/>
+        <updated>2022-04-15T16:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Romanzo Criminale è senza ombra di dubbio una delle serie tv più amate del panorama seriale italiano. Azione, erotismo, ambientazioni e fatti storici, personaggi connotati psicologicamente ed accattivanti, eventi drammatici raccontati in modo coinvolgente e senza mai rinunciare a quella linea comica tipica della romanità di un tempo. Insomma, il mix perfetto affinché questa serie… Leggi tutto »30 disagi che solo un vero fan di Romanzo Criminale può capire
+The post 30 disagi che solo un vero fan di Romanzo Criminale può capire appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Luca Fenu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slash Doesn't Mind Being Recognized as 'That Guy From' GN'R]]></title>
+        <id>https://loudwire.com/?p=506987</id>
+        <link href="https://loudwire.com/slash-doesnt-mind-recognized-that-guy-from-guns-n-roses/"/>
+        <updated>2022-04-15T16:00:19.000Z</updated>
+        <summary type="html"><![CDATA[He still considers GN'R his main gig despite his solo career. Continue reading…]]></summary>
+        <author>
+            <name>Lauryn Schaffner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sadness: la recensione del film horror taiwanese di Robert Jabbaz]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284613</id>
+        <link href="https://www.ilcineocchio.it/cinema/the-sadness-la-recensione-del-film-horror-taiwanese-di-robert-jabbaz/"/>
+        <updated>2022-04-15T15:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Il regista esordisce con un'opera che guarda apertamente a Crossed di Garth Ennis, guidandoci in un brutale viaggio nel cuore oscuro dell'umanità
+L'articolo The Sadness: la recensione del film horror taiwanese di Robert Jabbaz proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>William Maga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jada Pinkett Smith, spunta un video: «Non volevo sposare Will Smith. Piangevo, ma non per la commozione»]]></title>
+        <id>https://www.hallofseries.com/?p=553349</id>
+        <link href="https://www.hallofseries.com/news/will-smith-jada-pinkett-smith-non-sposarlo/"/>
+        <updated>2022-04-15T15:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Fino a poche settimane fa i coniugi Smith proseguivano la loro vita nel modo più tranquillo. Per tutti noi erano solo dei grandi attori hollywoodiani. Niente sembrava, dunque, poter mettere fine alla loro tranquillità. Eppure per far arrivare la tempesta è bastata una sola notte, e non una qualunque: quella degli Oscar. E’ stato proprio… Leggi tutto »Jada Pinkett Smith, spunta un video: «Non volevo sposare Will Smith. Piangevo, ma non per la commozione»
+The post Jada Pinkett Smith, spunta un video: «Non volevo sposare Will Smith. Piangevo, ma non per la commozione» appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Annalisa Gabriele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liam Gallagher Apologizes After Making Death Threat to Athlete]]></title>
+        <id>https://loudwire.com/?p=506970</id>
+        <link href="https://loudwire.com/liam-gallagher-soccer-play-death-threat-apology-oasis/"/>
+        <updated>2022-04-15T15:26:55.000Z</updated>
+        <summary type="html"><![CDATA[The seeming joke against footballer Stefan Savic was a bit much. Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Zakk Wylde’s Audition Tape Made Its Way to Ozzy Osbourne]]></title>
+        <id>https://loudwire.com/?p=506951</id>
+        <link href="https://loudwire.com/zakk-wylde-audition-tape-ozzy-osbourne/"/>
+        <updated>2022-04-15T15:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Thirty-five years ago Zakk Wylde got a call while pumping gas to join Ozzy Osbourne's band. Continue reading…]]></summary>
+        <author>
+            <name>Alicia Selin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’avete riconosciuto? Uno strano coniglio ha avviato la sua carriera, ha litigato con James Franco e ha ammesso di fare uso di marijuana]]></title>
+        <id>https://www.cinematographe.it/?p=880176</id>
+        <link href="https://www.cinematographe.it/news/seth-rogen-bambino/"/>
+        <updated>2022-04-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Correva il 2008, quando agli MTV Movie Awards, salì sul palco con James Franco, fumando uno spinello. Il casino che ne scoppiò fu enorme, tanto…
+L'articolo L’avete riconosciuto? Uno strano coniglio ha avviato la sua carriera, ha litigato con James Franco e ha ammesso di fare uso di marijuana proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Manuel Magarini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Warehouse Employees Banned From Blasting System of a Down]]></title>
+        <id>https://loudwire.com/?p=506992</id>
+        <link href="https://loudwire.com/amazon-warehouse-employees-banned-blasting-system-of-a-down/"/>
+        <updated>2022-04-15T14:57:32.000Z</updated>
+        <summary type="html"><![CDATA[The warehouse instead changed the music to Harry Styles. Continue reading…]]></summary>
+        <author>
+            <name>Jacklyn Krol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pasqua 2022: 9 parchi divertimento in cui andare in Italia e all’estero?]]></title>
+        <id>https://www.cinematographe.it/?p=880165</id>
+        <link href="https://www.cinematographe.it/rubriche-cinema/cinematografood/pasqua-e-pasquetta-2022-cosa-fare-e-dove-andare/"/>
+        <updated>2022-04-15T14:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Cosa fare a Pasqua e a pasquetta 2022? E il 25 aprile? Questa domanda comincia sicuramente a ronzarvi nella testa o vi è già stata…
+L'articolo Pasqua 2022: 9 parchi divertimento in cui andare in Italia e all’estero? proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Luca Celoria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaley Cuoco è stufa e annuncia: «Non mi sposerò mai più»]]></title>
+        <id>https://www.hallofseries.com/?p=553285</id>
+        <link href="https://www.hallofseries.com/news/kaley-cuoco-annuncia-non-mi-sposo/"/>
+        <updated>2022-04-15T14:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Il detto ‘Non c’è due senza tre’ stavolta, a quanto pare, non farà centro. Kaley Cuoco ha detto ufficialmente basta con i matrimoni, e vuole urlarlo ad alta voce: “Potete metterlo in copertina” dice durante la sua ultima intervista per la copertina della famosa rivista internazionale Glamour. Del resto non si può dire che l’attrice… Leggi tutto »Kaley Cuoco è stufa e annuncia: «Non mi sposerò mai più»
+The post Kaley Cuoco è stufa e annuncia: «Non mi sposerò mai più» appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Vincenzo Galdieri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choose or Die: la recensione del film horror di Toby Meakins (su Netflix)]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284605</id>
+        <link href="https://www.ilcineocchio.it/cinema/choose-or-die-la-recensione-del-film-horror/"/>
+        <updated>2022-04-15T14:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Asa Butterfield e Iola Evans sono i protagonisti di un prodotto da streaming dall'intrigante premessa ma dallo sviluppo troppo affrettato 
+L'articolo Choose or Die: la recensione del film horror di Toby Meakins (su Netflix) proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>William Maga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Britney Spears in dolce attesa: “il sesso in gravidanza è il migliore”]]></title>
+        <id>https://www.cinematographe.it/?p=880273</id>
+        <link href="https://www.cinematographe.it/news/britney-spears-in-dolce-attesa-il-sesso-in-gravidanza-e-il-migliore/"/>
+        <updated>2022-04-15T14:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Britney Spears è davvero entusiasta della sua nuova vita amorosa! La superstar, che ha recentemente annunciato di essere in attesa del suo primo figlio dal…
+L'articolo Britney Spears in dolce attesa: “il sesso in gravidanza è il migliore” proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Martina Volonté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 interessanti documentari che potete vedere gratuitamente su Rai Play]]></title>
+        <id>https://www.hallofseries.com/?p=550892</id>
+        <link href="https://www.hallofseries.com/raiplay/rai-play-4-interessanti-documentari/"/>
+        <updated>2022-04-15T14:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Rai Play è la piattaforma streaming di Mamma Rai che dal 2016 ci dà la possibilità di accedere a una quantità enorme di contenuti di ogni tipo: dalle fiction made in Italy ai programmi che hanno fatto la storia della nostra tv, senza escludere film e serie tv straniere. Nella piattaforma Rai Play è possibile… Leggi tutto »4 interessanti documentari che potete vedere gratuitamente su Rai Play
+The post 4 interessanti documentari che potete vedere gratuitamente su Rai Play appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Valeria Maria Pane</name>
         </author>
     </entry>
     <entry>
@@ -797,225 +1256,6 @@ L'articolo Full trailer per Crimes of the future: Cronenberg trascina Seydoux e 
         <link href="https://www.loudersound.com/news/the-samsung-galaxy-buds-live-are-on-sale-right-now-with-up-to-62-off-the-rrp"/>
         <updated>2022-04-14T13:38:41.000Z</updated>
         <summary type="html"><![CDATA[Amazon have slashed the price of the Samsung Galaxy Buds Live in-ear headphones on both sides of the Atlantic]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Steele: the life and death of the Godfather Of Goth Metal]]></title>
-        <id>https://www.loudersound.com/features/peter-steele-type-o-negative-life-and-death-tribute</id>
-        <link href="https://www.loudersound.com/features/peter-steele-type-o-negative-life-and-death-tribute"/>
-        <updated>2022-04-14T12:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Type O Negative frontman Peter Steele lived a life like no one else. This is the story of a giant of the 90s metal scene]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mogwai's Stuart Braithwaite to release memoir]]></title>
-        <id>https://www.loudersound.com/news/mogwais-stuart-braithwaite-to-release-memoir</id>
-        <link href="https://www.loudersound.com/news/mogwais-stuart-braithwaite-to-release-memoir"/>
-        <updated>2022-04-14T11:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Stuart Braithwaite's Spaceships Over Glasgow will be published in September]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jabra Move Style Edition review]]></title>
-        <id>https://www.loudersound.com/reviews/jabra-move-style-edition-review</id>
-        <link href="https://www.loudersound.com/reviews/jabra-move-style-edition-review"/>
-        <updated>2022-04-14T11:35:23.000Z</updated>
-        <summary type="html"><![CDATA[We put the Jabra Move Style Edition on-ear headphones through their paces to find out how they stack up against the competition]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La classifica dei 5 momenti più commoventi di How to Get Away with Murder]]></title>
-        <id>https://www.hallofseries.com/?p=544747</id>
-        <link href="https://www.hallofseries.com/how-to-get-away-with-murder/how-to-get-away-with-murder-scene-commoventi-classifica/"/>
-        <updated>2022-04-14T10:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Poche serie sono capaci di intrigarci ed emozionarci in ogni singola puntata con così tanta potenza come ha fatto How to Get Away with Murder, lo show di Shonda Rhimes che per ben 6 anni ci ha tenuti incollati allo schermo. Grazie a un ritmo sempre incalzante, all’eccellente recitazione degli attori, e al sapiente bilanciamento… Leggi tutto »La classifica dei 5 momenti più commoventi di How to Get Away with Murder
-The post La classifica dei 5 momenti più commoventi di How to Get Away with Murder appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Serena Liggeri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad Vegan è un Inventing Anna che ha fatto sul serio]]></title>
-        <id>https://www.hallofseries.com/?p=546588</id>
-        <link href="https://www.hallofseries.com/docuserie/bad-vegan-inventing-anna-serio/"/>
-        <updated>2022-04-14T10:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Vi ricordate quella volta che avete rifiutato di uscire con Alec Baldwin e siete andati in bancarotta cercando di ottenere l’immortalità del vostro cane? Non sono storie di tutti i giorni, ma, a quanto pare dalle ultime produzioni Netflix, più soldi hanno in tasca i membri dell’alta società newyorkese, più sono propensi a farseli fregare.… Leggi tutto »Bad Vegan è un Inventing Anna che ha fatto sul serio
-The post Bad Vegan è un Inventing Anna che ha fatto sul serio appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Giada Giamborino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La classifica dei personaggi di Doc – Nelle tue mani, dal peggiore al migliore]]></title>
-        <id>https://www.hallofseries.com/?p=549176</id>
-        <link href="https://www.hallofseries.com/doc-nelle-tue-mani/doc-nelle-tue-mani-classifica-personaggi-rai/"/>
-        <updated>2022-04-14T10:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Doc – Nelle tue mani 2 è terminata da poco sconvolgendo il pubblico, che nell’arco di sedici episodi ha dovuto dire addio a due personaggi molto importanti che sembrava avrebbero ricoperto un ruolo importante anche nelle stagioni successive. Nonostante il grande dispiacere per la loro uscita di scena, possiamo dire di aver provato molte emozioni… Leggi tutto »La classifica dei personaggi di Doc – Nelle tue mani, dal peggiore al migliore
-The post La classifica dei personaggi di Doc – Nelle tue mani, dal peggiore al migliore appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Anastasia Gervasi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poll: vote for the best Linkin Park album]]></title>
-        <id>https://www.loudersound.com/features/linkin-park-vote-best-album-poll</id>
-        <link href="https://www.loudersound.com/features/linkin-park-vote-best-album-poll"/>
-        <updated>2022-04-14T10:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Hybrid Theory? Meteora? Collision Course? A Thousand Suns? Which Linkin Park album comes out on top]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C’mon C’mon è un film che cura le ferite sparse]]></title>
-        <id>https://www.hallofseries.com/?p=552320</id>
-        <link href="https://www.hallofseries.com/recensioni/cmon-cmon-recensione-film-phoenix/"/>
-        <updated>2022-04-14T09:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Quando ti siedi sulla poltrona del cinema non sai cosa vedrai, è tutto ancora da scrivere. Il modo in cui poggi il sedere su quella sedia prima di vedere un film non è lo stesso con cui, poi, lo rialzi per andare via. Tra il momento dell’inizio e quello della fine succedono una marea di… Leggi tutto »C’mon C’mon è un film che cura le ferite sparse
-The post C’mon C’mon è un film che cura le ferite sparse appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Annalisa Gabriele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 tipi poco raccomandabili delle Serie Tv per cui quasi chiunque si è preso una cotta]]></title>
-        <id>https://www.hallofseries.com/?p=502606</id>
-        <link href="https://www.hallofseries.com/serie-tv/peaky-blinders-personaggi-poco-raccomandabili/"/>
-        <updated>2022-04-14T09:18:00.000Z</updated>
-        <summary type="html"><![CDATA[La fruizione dei prodotti di intrattenimento è presieduta da un assunto che a volte viene perso di vista: realtà e fantasia sono due dimensioni distinte e separate alle quali ci si rapporta in maniera differente. Questo fondamentale presupposto spiega il motivo per cui persone da cui nella vita ci terremmo ben alla larga diventano, dentro… Leggi tutto »8 tipi poco raccomandabili delle Serie Tv per cui quasi chiunque si è preso una cotta
-The post 8 tipi poco raccomandabili delle Serie Tv per cui quasi chiunque si è preso una cotta appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Gabriella Cretella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volevo fare la rockstar – Una serie Rai che non sembra una serie Rai]]></title>
-        <id>https://www.hallofseries.com/?p=552761</id>
-        <link href="https://www.hallofseries.com/recensioni/volevo-fare-la-rockstar/"/>
-        <updated>2022-04-14T08:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Carichi di curiosità, e con qualche inevitabile pregiudizio, ci siamo avvicinati con sospetto a Volevo fare la rockstar, una serie tv italiana del 2019 trasmessa in prima serata su Rai 2. Dopo una prima stagione passata colpevolmente inosservata, la serie tv diretta da Matteo Oleotto (Zoran, il mio nipote scemo) è ritornata il 23 marzo… Leggi tutto »Volevo fare la rockstar – Una serie Rai che non sembra una serie Rai
-The post Volevo fare la rockstar – Una serie Rai che non sembra una serie Rai appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Sara Crecco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riflessione: Warcraft – L’Inizio di Duncan Jones, uno sword and sorcery dalla scarsa personalità]]></title>
-        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=284558</id>
-        <link href="https://www.ilcineocchio.it/cinema/riflessione-warcraft-linizio-di-duncan-jones-uno-sword-and-sorcery/"/>
-        <updated>2022-04-14T08:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Nel 2016 il regista portava sul grande schermo la popolare saga fantasy di videogiochi, un'operazione tanto ambiziosa quanto poco riuscita
-L'articolo Riflessione: Warcraft – L’Inizio di Duncan Jones, uno sword and sorcery dalla scarsa personalità proviene da Il Cineocchio.]]></summary>
-        <author>
-            <name>William Maga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logan Roy si rifiuta di morire]]></title>
-        <id>https://www.hallofseries.com/?p=546788</id>
-        <link href="https://www.hallofseries.com/succession/logan-roy-succession-si-rifiuta-di-morire/"/>
-        <updated>2022-04-14T07:04:35.000Z</updated>
-        <summary type="html"><![CDATA[“Tutto quello che ho fatto nella mia vita, l’ho fatto per i miei figli”. Quante volte abbiamo sentito Logan Roy di quel capolavoro di Succession pronunciare queste parole in pubblico? E quante volte, con le dovute varianti, le abbiamo sentite pronunciare a Tony Soprano ne I Soprano o a Walter White in Breaking Bad? Questo… Leggi tutto »Logan Roy si rifiuta di morire
-The post Logan Roy si rifiuta di morire appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Concetta Sorvillo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tyrion e Cersei Lannister: riuscire a convivere, nonostante tutto]]></title>
-        <id>https://www.hallofseries.com/?p=550625</id>
-        <link href="https://www.hallofseries.com/game-of-thrones/game-of-thrones-rapporto-complesso-tyrion-e-cersei-lannister/"/>
-        <updated>2022-04-14T06:26:31.000Z</updated>
-        <summary type="html"><![CDATA[ATTENZIONE: l’articolo contiene spoiler su Game of Thrones. Game of Thrones è prima di tutto una storia di uomini. Delle qualità che ci contraddistinguono, così come dei legami che ci uniscono, che lo vogliamo o meno. A tal proposito, non possiamo non citare la relazione fra Tyrion e Cersei Lannister, due delle figure più interessanti… Leggi tutto »Tyrion e Cersei Lannister: riuscire a convivere, nonostante tutto
-The post Tyrion e Cersei Lannister: riuscire a convivere, nonostante tutto appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Ambra Verzucoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ernie Ball Music Man Expands Its Vault Collection With Updated Albert Lee And John Myung Signature Models [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/ernie_ball_music_man_expands_its_vault_collection_with_updated_albert_lee_and_john_myung_signature_models.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/ernie_ball_music_man_expands_its_vault_collection_with_updated_albert_lee_and_john_myung_signature_models.html"/>
-        <updated>2022-04-14T04:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Music News: Two electric guitars and one 6-string bass join the brand's Artist Series.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rudolf Schenker On Michael Schenker: 'Sooner Or Later, We'll Be Friends Again' [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/rudolf_schenker_on_michael_schenker_sooner_or_later_well_be_friends_again.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/rudolf_schenker_on_michael_schenker_sooner_or_later_well_be_friends_again.html"/>
-        <updated>2022-04-14T04:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "I tell you one thing: I love my brother. He can say whatever he wants to say."]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The tantalising story of Baby Face, the supergroup that almost was]]></title>
-        <id>https://www.loudersound.com/features/the-story-of-baby-face-the-supergroup-that-almost-was</id>
-        <link href="https://www.loudersound.com/features/the-story-of-baby-face-the-supergroup-that-almost-was"/>
-        <updated>2022-04-14T04:33:54.000Z</updated>
-        <summary type="html"><![CDATA["Phil’s voice was staggering, wonderful. But he couldn’t play" - the story of the Thin Lizzy-Deep Purple supergroup that could have been]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Schenker On Rudolf Schenker: 'My Brother Is A Bully And I Don't Trust Him' [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/michael_schenker_on_rudolf_schenker_my_brother_is_a_bully_and_i_dont_trust_him.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/michael_schenker_on_rudolf_schenker_my_brother_is_a_bully_and_i_dont_trust_him.html"/>
-        <updated>2022-04-14T03:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "Just simply, I don't trust him. That's it."]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A piano to a knife fight: the unlikely journey of the Sex Pistols' God Save The Queen]]></title>
-        <id>https://www.loudersound.com/features/a-piano-to-a-knife-fight-the-unlikely-journey-of-the-sex-pistols-god-save-the-queen</id>
-        <link href="https://www.loudersound.com/features/a-piano-to-a-knife-fight-the-unlikely-journey-of-the-sex-pistols-god-save-the-queen"/>
-        <updated>2022-04-14T03:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Upon its release in 1977, God Save The Queen become punk’s most provocative statement, one that led to the band being violently attacked in the street]]></summary>
-        <author>
-            <name>Louder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thin Lizzy Guitarist Talks Filling In For Gary Rossington In Lynyrd Skynyrd, Explains What It's Like To Work With Judas Priest's Richie Faulkner [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/thin_lizzy_guitarist_talks_filling_in_for_gary_rossington_in_lynyrd_skynyrd_explains_what_its_like_to_work_with_judas_priests_richie_faulkner.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/thin_lizzy_guitarist_talks_filling_in_for_gary_rossington_in_lynyrd_skynyrd_explains_what_its_like_to_work_with_judas_priests_richie_faulkner.html"/>
-        <updated>2022-04-14T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "That guy is a monster talent," explains Damon Johnson.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gene Simmons Still Claims Rock Is Dead, Says 'People That Killed It Are The Fans' [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/gene_simmons_still_claims_rock_is_dead_says_people_that_killed_it_are_the_fans.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/gene_simmons_still_claims_rock_is_dead_says_people_that_killed_it_are_the_fans.html"/>
-        <updated>2022-04-14T02:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "Rock is dead. And the fans are to blame. You all hurt the one you love. Sad but true."]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rosalie Cunningham: The Soundtrack Of My Life]]></title>
-        <id>https://www.loudersound.com/features/rosalie-cunningham-the-soundtrack-of-my-life</id>
-        <link href="https://www.loudersound.com/features/rosalie-cunningham-the-soundtrack-of-my-life"/>
-        <updated>2022-04-14T02:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Singer-songwriter Rosalie Cunningham picks her records, artists and gigs of lasting significance, and reveals why Stackridge might be better than Genesis]]></summary>
         <author>
             <name>Louder</name>
         </author>
