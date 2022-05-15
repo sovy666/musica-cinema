@@ -7,6 +7,7 @@ cacheUrl: https://sovy666.github.io/musica-cinema/cache.json
 cacheMaxDays: 2
 sources:
   - href: https://www.ultimate-guitar.com/modules/rss/news.xml.php
+  - href: https://ultimateclassicrock.com//feed
   - href: https://loudwire.com/feed/
   - href: https://www.hallofseries.com/feed/
   - href: https://www.ilcineocchio.it/feed/
