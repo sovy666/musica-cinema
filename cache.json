@@ -6,6 +6,246 @@
       "siteUrl": "https://www.ultimate-guitar.com/modules/rss/news.xml.php",
       "articles": [
         {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/will_there_ever_be_new_music_from_the_eagles_timothy_b_schmit_answers.html",
+          "author": null,
+          "description": "Music News: \"What's very cool is there are a lot of younger people coming to shows now too.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/will_there_ever_be_new_music_from_the_eagles_timothy_b_schmit_answers.html",
+          "publishedOn": "2022-06-01T04:00:01.000Z",
+          "wordCount": 30,
+          "title": "Will There Ever Be New Music From The Eagles? Timothy B. Schmit Answers [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/0/132820_0_wide_ver1654041601.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/alexisonfire_announce_uk_and_european_tour_with_boston_manor.html",
+          "author": null,
+          "description": "Music News: Their album \"Otherness\" comes out on June 24.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/alexisonfire_announce_uk_and_european_tour_with_boston_manor.html",
+          "publishedOn": "2022-06-01T03:31:19.000Z",
+          "wordCount": 26,
+          "title": "Alexisonfire Announce UK And European Tour With Boston Manor [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/132811_0_wide_ver1654039879.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/community_feed/musicians_who_nearly_joined_other_bands.html",
+          "author": null,
+          "description": "Community Feed:",
+          "link": "https://www.ultimate-guitar.com/news/community_feed/musicians_who_nearly_joined_other_bands.html",
+          "publishedOn": "2022-06-01T03:30:21.000Z",
+          "wordCount": 23,
+          "title": "Musicians Who Nearly Joined Other Bands [News]",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/community_feed/what_covid_has_done_with_metal.html",
+          "author": null,
+          "description": "Community Feed:",
+          "link": "https://www.ultimate-guitar.com/news/community_feed/what_covid_has_done_with_metal.html",
+          "publishedOn": "2022-06-01T03:30:16.000Z",
+          "wordCount": 23,
+          "title": "What COVID Has Done With Metal  [News]",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/megadeth_announce_david_ellefsons_permanet_replacement.html",
+          "author": null,
+          "description": "Music News: We've been expecting it, but Dave Mustaine & Co. have made it official!",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/megadeth_announce_david_ellefsons_permanet_replacement.html",
+          "publishedOn": "2022-06-01T02:09:28.000Z",
+          "wordCount": 23,
+          "title": "Megadeth Announce David Ellefson's Permanet Replacement [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/4/132874_0_meta_ver1654035736.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/hanoi_rocks_frontman_recalls_recording_piece_of_crap_album_that_steve_stevens_and_producer_ruined_it_ended_up_costing_700000.html",
+          "author": null,
+          "description": "Music News: \"That was the worst time in my life\".",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/hanoi_rocks_frontman_recalls_recording_piece_of_crap_album_that_steve_stevens_and_producer_ruined_it_ended_up_costing_700000.html",
+          "publishedOn": "2022-06-01T01:52:25.000Z",
+          "wordCount": 37,
+          "title": "Hanoi Rocks Frontman Recalls Recording 'Piece Of Crap' Album That Steve Stevens And Producer Ruined: 'It Ended Up Costing $700,000' [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/132871_0_wide_ver1654039186.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/bad_religion_guitarist_explains_why_malcolm_young_is_the_real_gem_of_acdc_reveals_only_van_halen_album_he_likes.html",
+          "author": null,
+          "description": "Music News: \"At the time it was incredibly influential\".",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/bad_religion_guitarist_explains_why_malcolm_young_is_the_real_gem_of_acdc_reveals_only_van_halen_album_he_likes.html",
+          "publishedOn": "2022-05-31T22:00:01.000Z",
+          "wordCount": 37,
+          "title": "Bad Religion Guitarist Explains Why Malcolm Young Is The 'Real Gem' Of AC/DC, Reveals Only Van Halen Album He Likes [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/5/132865_0_wide_ver1654020001.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/liam_gallagher_explains_why_hes_more_successful_than_noel_admits_hed_give_a_kidney_to_his_brother_if_he_needed_one.html",
+          "author": null,
+          "description": "Music News: \"And I'm not pretentious\".",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/liam_gallagher_explains_why_hes_more_successful_than_noel_admits_hed_give_a_kidney_to_his_brother_if_he_needed_one.html",
+          "publishedOn": "2022-05-31T21:04:51.000Z",
+          "wordCount": 38,
+          "title": "Liam Gallagher Explains Why He's 'More Successful' Than Noel, Admits He'd Give A Kidney To His Brother If He Needed One [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/2/132862_0_wide_ver1654040164.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/lzzy_hale_reveals_new_hybrid_gibson_explorerbird_signature.html",
+          "author": null,
+          "description": "Music News: The Halestorm musician scores her third signature model with the brand.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/lzzy_hale_reveals_new_hybrid_gibson_explorerbird_signature.html",
+          "publishedOn": "2022-05-31T20:42:30.000Z",
+          "wordCount": 25,
+          "title": "Lzzy Hale Reveals New Hybrid Gibson Explorerbird Signature [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/9/132859_0_wide_ver1654015878.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/frank_zappas_guitarist_was_terrified_of_him_as_a_kid_describes_what_the_iconic_musician_was_actually_like_to_work_with.html",
+          "author": null,
+          "description": "Music News: \"There was something about the combination of his face and his name that I found very unsettling - and completely fascinating.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/frank_zappas_guitarist_was_terrified_of_him_as_a_kid_describes_what_the_iconic_musician_was_actually_like_to_work_with.html",
+          "publishedOn": "2022-05-31T20:25:10.000Z",
+          "wordCount": 38,
+          "title": "Frank Zappa's Guitarist Was 'Terrified' Of Him As A Kid, Describes What The Iconic Musician Was Actually Like To Work With [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/6/132856_0_meta_ver1654017044.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/vinnie_pauls_house_has_been_demolished_3_months_after_purchase.html",
+          "author": null,
+          "description": "Music News: The Arlington estate had been sold to an anonymous buyer in February.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/vinnie_pauls_house_has_been_demolished_3_months_after_purchase.html",
+          "publishedOn": "2022-05-31T20:00:02.000Z",
+          "wordCount": 27,
+          "title": "Vinnie Paul's House Has Been Demolished 3 Months After Purchase [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/3/132853_0_wide_ver1654039664.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/opening_band_calls_out_rapper_after_last-minute_us_headlining_tour_drop-out.html",
+          "author": null,
+          "description": "Music News: Nu Metal Dropout Kings didn't take Lil Xan's cancellation too kindly.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/opening_band_calls_out_rapper_after_last-minute_us_headlining_tour_drop-out.html",
+          "publishedOn": "2022-05-31T19:03:19.000Z",
+          "wordCount": 28,
+          "title": "Opening Band Calls Out Rapper After Last-Minute US Headlining Tour Drop-Out [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/0/132850_0_wide_ver1654009399.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/photo_tools_adam_jones_shows_off_his_new_custom_double-neck_silverburst_gibson.html",
+          "author": null,
+          "description": "Music News: Not the kind of a guitar you see every day.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/photo_tools_adam_jones_shows_off_his_new_custom_double-neck_silverburst_gibson.html",
+          "publishedOn": "2022-05-31T18:00:02.000Z",
+          "wordCount": 29,
+          "title": "Photo: Tool's Adam Jones Shows Off His New Custom Double-Neck Silverburst Gibson  [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/7/132847_0_wide_ver1654006344.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/watch_johnny_depp_joins_jeff_beck_live_onstage_for_the_second_time_in_a_row_at_londons_royal_albert_hall.html",
+          "author": null,
+          "description": "Music News: The actor jammed with Beck for the first time in Sheffield.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/watch_johnny_depp_joins_jeff_beck_live_onstage_for_the_second_time_in_a_row_at_londons_royal_albert_hall.html",
+          "publishedOn": "2022-05-31T17:44:52.000Z",
+          "wordCount": 37,
+          "title": "Watch: Johnny Depp Joins Jeff Beck Live Onstage For The Second Time In A Row At London's Royal Albert Hall [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/4/132844_0_wide_ver1654004709.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/articles/features/music_industry_mysteries_the_tragic_rise_and_fall_of_paul_williams-132655",
+          "author": null,
+          "description": "Features: Could the Temptations singer have been murdered?",
+          "link": "https://www.ultimate-guitar.com/articles/features/music_industry_mysteries_the_tragic_rise_and_fall_of_paul_williams-132655",
+          "publishedOn": "2022-05-31T17:10:10.000Z",
+          "wordCount": 27,
+          "title": "Music Industry Mysteries: The Tragic Rise And Fall Of Paul Williams [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/5/132655_0_wide_ver1654002617.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/articles/features/5_great_guitar_moments_from_modern_punk_rock-132796",
+          "author": null,
+          "description": "Features: Punk is very much alive, especially when these 6 bands plugged their guitars and basses into half stacks.",
+          "link": "https://www.ultimate-guitar.com/articles/features/5_great_guitar_moments_from_modern_punk_rock-132796",
+          "publishedOn": "2022-05-31T16:08:18.000Z",
+          "wordCount": 24,
+          "title": "5 Great Guitar Moments From Modern Punk Rock [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/6/132796_0_wide_ver1653998941.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/watch_can_you_tell_the_difference_between_the_sound_of_real_vs_digital_amplifier.html",
+          "author": null,
+          "description": "Music News: Marty Schwartz and Bobby Huff try to spot the differences.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/watch_can_you_tell_the_difference_between_the_sound_of_real_vs_digital_amplifier.html",
+          "publishedOn": "2022-05-31T14:00:01.000Z",
+          "wordCount": 31,
+          "title": "Watch: Can You Tell The Difference Between The Sound Of Real Vs Digital Amplifier? [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/5/132835_0_wide_ver1653994759.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/vivian_campbell_says_the_success_of_his_first_solo_with_dio_made_him_overlook_one_important_aspect_of_soloing_heres_why.html",
+          "author": null,
+          "description": "Music News: \"It instilled in me this false sense that that was how I should record guitar solos.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/vivian_campbell_says_the_success_of_his_first_solo_with_dio_made_him_overlook_one_important_aspect_of_soloing_heres_why.html",
+          "publishedOn": "2022-05-31T13:51:19.000Z",
+          "wordCount": 38,
+          "title": "Vivian Campbell Says The Success Of His First Solo With Dio Made Him Overlook One Important Aspect Of Soloing, Here's Why [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/8/132838_0_meta_ver1653993854.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/ex-cannibal_corpses_pat_obrien_performs_live_with_exhorder.html",
+          "author": null,
+          "description": "Music News: The guitarist replaced Marzi Montazeri at the Maryland Deathfest.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/ex-cannibal_corpses_pat_obrien_performs_live_with_exhorder.html",
+          "publishedOn": "2022-05-31T12:54:55.000Z",
+          "wordCount": 25,
+          "title": "Ex-Cannibal Corpse's Pat O'Brien Performs Live With Exhorder [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/2/132832_0_wide_ver1653994654.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/nita_straus_reveals_the_wholesome_story_behind_her_floral_pattern_steve_vai_signature_ibanez_jem.html",
+          "author": null,
+          "description": "Music News: As Nita recalls, the guitar she now calls \"Faith\" came to her completely by surprise.",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/nita_straus_reveals_the_wholesome_story_behind_her_floral_pattern_steve_vai_signature_ibanez_jem.html",
+          "publishedOn": "2022-05-31T10:38:19.000Z",
+          "wordCount": 32,
+          "title": "Nita Straus Reveals The Wholesome Story Behind Her Floral Pattern Steve Vai Signature Ibanez JEM [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/9/132829_0_meta_ver1653979367.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/def_leppards_phil_collen_names_mick_jagger_as_his_personal_rock_god_describes_how_he_first_met_the_rolling_stones_frontman.html",
+          "author": null,
+          "description": "Music News: \"You're always scared to meet your idols in case they disappoint, but he really didn't.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/def_leppards_phil_collen_names_mick_jagger_as_his_personal_rock_god_describes_how_he_first_met_the_rolling_stones_frontman.html",
+          "publishedOn": "2022-05-31T09:28:28.000Z",
+          "wordCount": 38,
+          "title": "Def Leppard's Phil Collen Names Mick Jagger As His Personal 'Rock God', Describes How He First Met The Rolling Stones Frontman [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/6/132826_0_meta_ver1653974908.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/josh_klinghoffer_describes_what_touring_with_pearl_jam_was_like_so_far_explains_how_eddie_vedder_helped_him_overcome_performance_anxiety.html",
+          "author": null,
+          "description": "Music News: \"I'm sure that helped enormously for me to just walk on and feel okay to be me, and just play some songs.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/josh_klinghoffer_describes_what_touring_with_pearl_jam_was_like_so_far_explains_how_eddie_vedder_helped_him_overcome_performance_anxiety.html",
+          "publishedOn": "2022-05-31T09:00:37.000Z",
+          "wordCount": 38,
+          "title": "Josh Klinghoffer Describes What Touring With Pearl Jam Was Like So Far, Explains How Eddie Vedder Helped Him Overcome Performance Anxiety [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/3/132823_0_meta_ver1653973286.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/sex_pistols_steve_jones_recalls_stealing_david_bowies_gear_after_iconic_gig_describes_bowies_reaction_after_telling_him.html",
+          "author": null,
+          "description": "Music News: \"I went and got a minivan, came back, and decided to help myself to what was on stage.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/sex_pistols_steve_jones_recalls_stealing_david_bowies_gear_after_iconic_gig_describes_bowies_reaction_after_telling_him.html",
+          "publishedOn": "2022-05-31T05:45:38.000Z",
+          "wordCount": 35,
+          "title": "Sex Pistols' Steve Jones Recalls Stealing David Bowie's Gear After Iconic Gig, Describes Bowie's Reaction After Telling Him [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/8/132808_0_meta_ver1653961695.jpg"
+        },
+        {
+          "id": "https://www.ultimate-guitar.com/news/general_music_news/dave_navarro_reveals_hes_been_battling_covid_for_almost_six_months.html",
+          "author": null,
+          "description": "Music News: \"Been sick since December and supposedly will be back to my old self in… nobody knows how long.\"",
+          "link": "https://www.ultimate-guitar.com/news/general_music_news/dave_navarro_reveals_hes_been_battling_covid_for_almost_six_months.html",
+          "publishedOn": "2022-05-31T05:17:24.000Z",
+          "wordCount": 28,
+          "title": "Dave Navarro Reveals He's Been Battling COVID For Almost Six Months [News]",
+          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/5/132805_0_wide_ver1653959844.jpg"
+        },
+        {
           "id": "https://www.ultimate-guitar.com/news/general_music_news/wolfsbane_to_release_new_album_on_sunday.html",
           "author": null,
           "description": "Music News: First Wolfsbane album since 2012.",
@@ -144,96 +384,6 @@
           "wordCount": 26,
           "title": "Ronnie Hawkins, Mentor Of The Band, Died At 87 [News]",
           "imageUrl": "https://www.ultimate-guitar.com/static/article/news/9/132769_0_wide_ver1653904181.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/the_national_debut_three_new_songs_live_on_first_show_since_2019.html",
-          "author": null,
-          "description": "Music News: The band played a gig in Pamplona, Spain.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/the_national_debut_three_new_songs_live_on_first_show_since_2019.html",
-          "publishedOn": "2022-05-30T08:00:01.000Z",
-          "wordCount": 29,
-          "title": "The National Debut Three New Songs Live On First Show Since 2019 [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/0/132760_0_wide_ver1653883201.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/watch_former_kiss_guitarists_play_band_classics_together_live.html",
-          "author": null,
-          "description": "Music News: Ace Frehley, Vinnie Vincent and Bruce Kulick joined forces in Nashville.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/watch_former_kiss_guitarists_play_band_classics_together_live.html",
-          "publishedOn": "2022-05-30T05:00:01.000Z",
-          "wordCount": 26,
-          "title": "Watch: Former Kiss Guitarists Play Band Classics Together Live [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/7/132757_0_wide_ver1653872401.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/watch_kirk_hammett_and_robert_trujillo_perform_classic_rock_covers_with_side_project_the_wedding_band.html",
-          "author": null,
-          "description": "Music News: The musicians played a gig in Napa, California.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/watch_kirk_hammett_and_robert_trujillo_perform_classic_rock_covers_with_side_project_the_wedding_band.html",
-          "publishedOn": "2022-05-30T03:00:01.000Z",
-          "wordCount": 33,
-          "title": "Watch: Kirk Hammett And Robert Trujillo Perform Classic Rock Covers With Side Project The Wedding Band [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/4/132754_0_wide_ver1653865201.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/matt_sorum_describes_how_steve_vai_auditioned_him_for_david_lee_roth_says_it_was_probably_the_craziest_audition_i_ever_did.html",
-          "author": null,
-          "description": "Music News: \"No one knew [the audition] was for David Lee Roth. We all got called by Steve Vai.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/matt_sorum_describes_how_steve_vai_auditioned_him_for_david_lee_roth_says_it_was_probably_the_craziest_audition_i_ever_did.html",
-          "publishedOn": "2022-05-30T02:54:35.000Z",
-          "wordCount": 39,
-          "title": "Matt Sorum Describes How Steve Vai Auditioned Him For David Lee Roth, Says It Was 'Probably The Craziest Audition I Ever Did' [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/6/132766_0_meta_ver1653864875.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/watch_this_is_what_nirvanas_something_in_the_way_sounds_like_as_a_sludge_song.html",
-          "author": null,
-          "description": "Music News: The tune is originally off the band's hit record \"Nevermind\".",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/watch_this_is_what_nirvanas_something_in_the_way_sounds_like_as_a_sludge_song.html",
-          "publishedOn": "2022-05-30T02:00:01.000Z",
-          "wordCount": 32,
-          "title": "Watch: This Is What Nirvana's 'Something In The Way' Sounds Like As A Sludge Song [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/132751_0_wide_ver1653899879.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/watch_this_is_how_nirvanas_something_in_the_way_sounds_like_as_a_sludge_song.html",
-          "author": null,
-          "description": "Music News: The tune is originally off the band's hit record \"Nevermind\".",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/watch_this_is_how_nirvanas_something_in_the_way_sounds_like_as_a_sludge_song.html",
-          "publishedOn": "2022-05-30T02:00:01.000Z",
-          "wordCount": 32,
-          "title": "Watch: This Is How Nirvana's 'Something In The Way' Sounds Like As A Sludge Song [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/132751_0_wide_ver1653861601.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/articles/features/top_7_iconic_albums_that_showcase_britpop_in_all_its_quirky_glory-132763",
-          "author": null,
-          "description": "Features: Although Britpop is now known as the movement which gave birth to Oasis, it was so much more than that.",
-          "link": "https://www.ultimate-guitar.com/articles/features/top_7_iconic_albums_that_showcase_britpop_in_all_its_quirky_glory-132763",
-          "publishedOn": "2022-05-30T01:56:01.000Z",
-          "wordCount": 28,
-          "title": "Top 7 Iconic Albums That Showcase Britpop In All Its Quirky Glory  [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/3/132763_0_meta_ver1653861361.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/king_gizzard_and_the_lizard_wizard_cancel_festival_appearance_following_covid-19_case_in_the_band.html",
-          "author": null,
-          "description": "Music News: The band has an European tour coming up.",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/king_gizzard_and_the_lizard_wizard_cancel_festival_appearance_following_covid-19_case_in_the_band.html",
-          "publishedOn": "2022-05-30T01:20:46.000Z",
-          "wordCount": 32,
-          "title": "King Gizzard And The Lizard Wizard Cancel Festival Appearance Following COVID-19 Case In The Band [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/8/132748_0_wide_ver1653859246.jpg"
-        },
-        {
-          "id": "https://www.ultimate-guitar.com/news/general_music_news/mneskin_nobody_is_keeping_rock_alive_because_its_impossible_to_kill.html",
-          "author": null,
-          "description": "Music News: According to Damiano David, the idea that rock music needs saving is \"a very old-fashioned way to see it.\"",
-          "link": "https://www.ultimate-guitar.com/news/general_music_news/mneskin_nobody_is_keeping_rock_alive_because_its_impossible_to_kill.html",
-          "publishedOn": "2022-05-30T00:10:15.000Z",
-          "wordCount": 28,
-          "title": "Måneskin: 'Nobody Is Keeping Rock Alive Because It's Impossible To Kill' [News]",
-          "imageUrl": "https://www.ultimate-guitar.com/static/article/news/2/132742_0_meta_ver1653862176.jpg"
         }
       ]
     },
@@ -243,6 +393,96 @@
       "siteUrl": "https://ultimateclassicrock.com",
       "articles": [
         {
+          "id": "https://ultimateclassicrock.com/?p=519224",
+          "author": "Corey Irwin",
+          "description": "Guitarist tells UCR he \"didn’t really want to carry on\" with the band at the time. Continue reading…",
+          "link": "https://ultimateclassicrock.com/phil-collen-def-leppard-steve-clark/",
+          "publishedOn": "2022-05-31T23:10:45.000Z",
+          "wordCount": 465,
+          "title": "Phil Collen Wanted to Quit Def Leppard After Steve Clark’s Death",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-Phil-Collen-2.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=518492",
+          "author": "Marah Eakin",
+          "description": "Sitcom ended its nine-year run in 1992.  Continue reading…",
+          "link": "https://ultimateclassicrock.com/night-court-tv-show/",
+          "publishedOn": "2022-05-31T16:57:29.000Z",
+          "wordCount": 995,
+          "title": "30 Years Ago: 'Night Court' Gets 'Screwed' With Ninth Season",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-GettyImages-3202292.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=519177",
+          "author": "Ryan Reed",
+          "description": "Monthlong trek, with backing band featuring teenage members of Paul Green Rock Academy, celebrates 1972 Yes LP.  Continue reading…",
+          "link": "https://ultimateclassicrock.com/jon-anderson-close-to-the-edge-50th-anniversary-tour/",
+          "publishedOn": "2022-05-31T16:26:42.000Z",
+          "wordCount": 446,
+          "title": "Jon Anderson Announces 'Close to the Edge' 50th Anniversary Tour",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-anderson-2.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=518245",
+          "author": "Bryan Rolli",
+          "description": "Rock's greatest shapeshifters knew how to bring the heat. Continue reading…",
+          "link": "https://ultimateclassicrock.com/heaviest-beatles-songs/",
+          "publishedOn": "2022-05-31T15:53:03.000Z",
+          "wordCount": 1578,
+          "title": "The 10 Heaviest Beatles Songs",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-GettyImages-1095167170.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=518135",
+          "author": "Gary Graff",
+          "description": "\"I felt like it was really in a groove,\" frontman says of productive late-'70s period.  Continue reading…",
+          "link": "https://ultimateclassicrock.com/steve-miller-band-book-of-dreams/",
+          "publishedOn": "2022-05-31T15:06:05.000Z",
+          "wordCount": 992,
+          "title": "When Steve Miller Band Reached a New Peak With 'Book of Dreams'",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-MillerBookofDreams.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=519094",
+          "author": "Jen Austin",
+          "description": "LP with Allan Mayes features newly recorded songs from 1972.\r\n Continue reading…",
+          "link": "https://ultimateclassicrock.com/elvis-costello-rusty-the-resurrection-of-rust-album/",
+          "publishedOn": "2022-05-31T13:49:54.000Z",
+          "wordCount": 616,
+          "title": "Elvis Costello Reunites With First Band for New Album 'Rusty'",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-rusty.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=513026",
+          "author": "Ultimate Classic Rock Staff",
+          "description": "Exclusive book excerpt offers look at an important moment in her career. Continue reading…",
+          "link": "https://ultimateclassicrock.com/patti-smith-saturday-night-live/",
+          "publishedOn": "2022-05-31T13:38:59.000Z",
+          "wordCount": 1155,
+          "title": "The Night Patti Smith Performed on 'Saturday Night Live'",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-pattismith2.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=513631",
+          "author": "Michael Gallucci",
+          "description": "Band sidelines political commentary for a nostalgic look back at its roots on 14th album. Continue reading…",
+          "link": "https://ultimateclassicrock.com/drive-by-truckers-welcome-2-club-xiii-album-review/",
+          "publishedOn": "2022-05-31T13:13:41.000Z",
+          "wordCount": 608,
+          "title": "Drive-By Truckers, 'Welcome 2 Club XIII': Album Review",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/04/attachment-ATO-RECORDS.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=519005",
+          "author": "Martin Kielty",
+          "description": "Guitarist name-checks David Bowie, Rod Stewart and Slade, and discusses how they bled into 'Never Mind the Bollocks.' Continue reading…",
+          "link": "https://ultimateclassicrock.com/steve-jones-sex-pistols-glam-rock/",
+          "publishedOn": "2022-05-31T12:34:06.000Z",
+          "wordCount": 521,
+          "title": "Steve Jones on Sex Pistols’ Glam-Rock Roots",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-jones1.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
           "id": "https://ultimateclassicrock.com/?p=519051",
           "author": "Corey Irwin",
           "description": "Drummer tried out for the singer's solo band in 1985. Continue reading…",
@@ -251,116 +491,6 @@
           "wordCount": 490,
           "title": "Matt Sorum Says His 'Craziest Audition' Was for David Lee Roth",
           "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-Sorum-Roth.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=515882",
-          "author": "Bryan Rolli",
-          "description": "That Little Ol' Band From Texas had to go through a few changes before establishing their winning lineup. Continue reading…",
-          "link": "https://ultimateclassicrock.com/zz-top-lineup-changes/",
-          "publishedOn": "2022-05-30T12:23:42.000Z",
-          "wordCount": 386,
-          "title": "ZZ Top Lineup Changes: A Complete Guide",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-Untitled-1.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=518120",
-          "author": "Marah Eakin",
-          "description": "Secret agent saga came to a close 30 years ago.  Continue reading…",
-          "link": "https://ultimateclassicrock.com/fonz-henry-winkler-macgyver/",
-          "publishedOn": "2022-05-30T11:26:30.000Z",
-          "wordCount": 846,
-          "title": "Without the Fonz, There’d Be No ‘Macgyver'",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-Fonz-MacGyver.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519066",
-          "author": "Martin Kielty",
-          "description": "Thomas Brodie-Sangster believes punk manager he plays was a “genius” but also an “arsehole.” Continue reading…",
-          "link": "https://ultimateclassicrock.com/pistol-malcolm-mclaren/",
-          "publishedOn": "2022-05-30T07:35:43.000Z",
-          "wordCount": 461,
-          "title": "‘Pistol’ Star Would Ask Malcolm McLaren ‘Where’s the Money?’",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-fxjohnminhangettyimages.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519065",
-          "author": "Martin Kielty",
-          "description": "Actor takes break from court drama to guest with guitar icon in England. Continue reading…",
-          "link": "https://ultimateclassicrock.com/johnny-depp-jeff-beck/",
-          "publishedOn": "2022-05-30T07:28:30.000Z",
-          "wordCount": 412,
-          "title": "Watch Johnny Depp Jam with Jeff Beck in England",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-depp.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519064",
-          "author": "Martin Kielty",
-          "description": "Singer wonders what 1998’s ‘Walking Into Clarksdale’ means to guitarist. Continue reading…",
-          "link": "https://ultimateclassicrock.com/robert-plant-jimmy-page-studio-album-bemused/",
-          "publishedOn": "2022-05-30T07:21:30.000Z",
-          "wordCount": 462,
-          "title": "Robert Plant Still Bemused by Studio Reunion with Jimmy Page",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-pageplanbt.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=518972",
-          "author": "Martin Kielty",
-          "description": "Stars take bow after pioneering avatar performance with live band. Continue reading…",
-          "link": "https://ultimateclassicrock.com/abbas-voyage-show-opens-in-london-set-list/",
-          "publishedOn": "2022-05-30T06:19:17.000Z",
-          "wordCount": 497,
-          "title": "ABBA’s ‘Voyage’ Show Opens in London: Set List",
-          "imageUrl": "https://townsquare.media/site/295/files/2021/09/attachment-Abba.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519056",
-          "author": "Corey Irwin",
-          "description": "Jane's Addiction guitarist took to social media to reveal what he's been going through.  Continue reading…",
-          "link": "https://ultimateclassicrock.com/dave-navarro-covid/",
-          "publishedOn": "2022-05-30T01:16:06.000Z",
-          "wordCount": 406,
-          "title": "Dave Navarro Has Been 'Sick Since December' With Long COVID",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-Navarro.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519006",
-          "author": "Martin Kielty",
-          "description": "The Darkness frontman says experience made him “vomit in my mouth – in a really good way.” Continue reading…",
-          "link": "https://ultimateclassicrock.com/justin-hawkins-david-coverdale/",
-          "publishedOn": "2022-05-29T23:29:03.000Z",
-          "wordCount": 532,
-          "title": "Justin Hawkins Recalls Seeing David Coverdale Flirt with His Mom",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-orkins.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519007",
-          "author": "Martin Kielty",
-          "description": "Beatles drummer opens North American All-Starr tour with Steve Lukather, Edgar Winter and others. Continue reading…",
-          "link": "https://ultimateclassicrock.com/watch-ringo-starrs-band-play-octopuss-garden-for-first-time/",
-          "publishedOn": "2022-05-29T22:48:08.000Z",
-          "wordCount": 464,
-          "title": "Watch Ringo Starr’s Band Play ‘Octopus’s Garden’ for First Time",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-starr.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519038",
-          "author": "Corey Irwin",
-          "description": "He released 20 albums across his influential career.  Continue reading…",
-          "link": "https://ultimateclassicrock.com/ronnie-hawkins-dead/",
-          "publishedOn": "2022-05-29T22:22:26.000Z",
-          "wordCount": 652,
-          "title": "Ronnie Hawkins, Rockabilly Star Who Mentored the Band, Dead at 87",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-Ronnie-Hawkins.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=519019",
-          "author": "Matt Wake",
-          "description": "The former Kiss guitarists teamed up on stage for the first time ever.  Continue reading…",
-          "link": "https://ultimateclassicrock.com/vinnie-vincent-ace-frehley-bruce-kulick-together/",
-          "publishedOn": "2022-05-29T15:14:58.000Z",
-          "wordCount": 1280,
-          "title": "Vinnie Vincent, Ace Frehley and Bruce Kulick Played Live Together",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/05/attachment-Trio.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
         }
       ]
     },
@@ -369,6 +499,106 @@
       "feedUrl": "https://loudwire.com/feed/",
       "siteUrl": "https://loudwire.com",
       "articles": [
+        {
+          "id": "https://loudwire.com/?p=512584",
+          "author": "Chad Childers",
+          "description": "No in-ears, no problem. Continue reading…",
+          "link": "https://loudwire.com/watch-polyphia-drummer-expertly-overcome-musicians-worst-nightmare-festival/",
+          "publishedOn": "2022-05-31T21:11:58.000Z",
+          "wordCount": 386,
+          "title": "Polyphia Drummer Expertly Overcomes Musician’s Worst Nightmare",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-Polyphia-Drum-Save.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=512577",
+          "author": "Chad Childers",
+          "description": "Get the Lo down. Continue reading…",
+          "link": "https://loudwire.com/megadeth-james-lomenzo-permanent-replacement-for-david-ellefson/",
+          "publishedOn": "2022-05-31T20:20:03.000Z",
+          "wordCount": 558,
+          "title": "Megadeth Announce Permanent Replacement for David Ellefson",
+          "imageUrl": "https://townsquare.media/site/366/files/2021/08/attachment-megadeth_live_with_lomenzo_august_2021.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=512563",
+          "author": "Chad Childers",
+          "description": "Though a new member, he has a history with the band. Continue reading…",
+          "link": "https://loudwire.com/bad-wolves-announce-new-guitarist-max-karon/",
+          "publishedOn": "2022-05-31T18:42:58.000Z",
+          "wordCount": 474,
+          "title": "Bad Wolves Officially Announce Familiar New Guitar Player",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-Bad-Wolves-2022.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=512551",
+          "author": "Joe DiVita",
+          "description": "Tom Morello's mom gave Rage Against the Machine the BEST introduction ever! Continue reading…",
+          "link": "https://loudwire.com/rockers-bring-parents-onstage/",
+          "publishedOn": "2022-05-31T18:08:04.000Z",
+          "wordCount": 316,
+          "title": "When Rockers Brought Their Parents Onstage",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-foo_fighters_dave_grohl_mom.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=512544",
+          "author": "Lauryn Schaffner",
+          "description": "They've put out 14 so far. Continue reading…",
+          "link": "https://loudwire.com/best-korn-album/",
+          "publishedOn": "2022-05-31T17:54:18.000Z",
+          "wordCount": 460,
+          "title": "Poll: What's the Best Korn Album? - Vote Now",
+          "imageUrl": "https://townsquare.media/site/366/files/2019/11/GettyImages-76652165.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=463747",
+          "author": "Lauryn Schaffner",
+          "description": "The one and only Bonzo. Continue reading…",
+          "link": "https://loudwire.com/23-rock-metal-drummers-influenced-by-john-bonham/",
+          "publishedOn": "2022-05-31T17:51:57.000Z",
+          "wordCount": 455,
+          "title": "23 Rock + Metal Drummers Influenced by John Bonham",
+          "imageUrl": "https://townsquare.media/site/366/files/2021/05/dave-grohl-john-bonham-lars-ulrich.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=512527",
+          "author": "Todd Fooks",
+          "description": "He's the horror host with the most.  Continue reading…",
+          "link": "https://loudwire.com/rob-zombie-zombo-munsters-movie/",
+          "publishedOn": "2022-05-31T17:48:17.000Z",
+          "wordCount": 337,
+          "title": "Rob Zombie Revives 'Zombo' After 56 Years for 'The Munsters' Film",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-zombo.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=512526",
+          "author": "Chad Childers",
+          "description": "The singer says he's recently faced 'new and overwhelming challenges.' Continue reading…",
+          "link": "https://loudwire.com/the-used-bert-mccracken-miss-immediate-shows-address-mental-health/",
+          "publishedOn": "2022-05-31T17:34:58.000Z",
+          "wordCount": 533,
+          "title": "Bert McCracken Will Miss Immediate Shows to Address Mental Health",
+          "imageUrl": "https://townsquare.media/site/366/files/2021/07/attachment-bert-mccracken-the-used-live.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=512529",
+          "author": "Philip Trapp",
+          "description": "Frozen Soul moved moshers to get their pump on. Continue reading…",
+          "link": "https://loudwire.com/mosh-pit-push-ups-death-metal-show-frozen-soul-tour-video/",
+          "publishedOn": "2022-05-31T17:22:15.000Z",
+          "wordCount": 426,
+          "title": "Watch Crowd Do Push-Ups in the Mosh Pit at Death Metal Show",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-push_ups_death_metal_show.jpg?w=1200"
+        },
+        {
+          "id": "https://loudwire.com/?p=512385",
+          "author": "Loudwire",
+          "description": "Three bands, each featuring sons of Metallica members, also performed. Continue reading…",
+          "link": "https://loudwire.com/bottlerock-festival-2022-photos/",
+          "publishedOn": "2022-05-31T17:12:33.000Z",
+          "wordCount": 381,
+          "title": "Photos - BottleRock Festival 2022 ft. Metallica + Many More",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-bottlerock_2022_photos.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
         {
           "id": "https://loudwire.com/?p=511171",
           "author": "Tim Coffman",
@@ -398,46 +628,6 @@
           "wordCount": 516,
           "title": "When Nirvana Intentionally Ruined 'Smells Like Teen Spirit' on TV",
           "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-nirvana_kurt_cobain.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=512339",
-          "author": "Chad Childers",
-          "description": "Watch the metal musicians showcase their punk fandom. Continue reading…",
-          "link": "https://loudwire.com/kirk-hammett-robert-trujillo-more-punk-covers-wedding-band-all-star-jam/",
-          "publishedOn": "2022-05-29T15:06:46.000Z",
-          "wordCount": 414,
-          "title": "Hammett, Trujillo + More Rock Punk Covers for Wedding Band Jam",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-Mark-Osegueda-Kirk-Hammett-The-Wedding-Band-2022.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=512335",
-          "author": "Chad Childers",
-          "description": "The guitarist speaks about his long-running ailment. Continue reading…",
-          "link": "https://loudwire.com/dave-navarro-sick-since-december-long-haul-covid/",
-          "publishedOn": "2022-05-29T14:33:10.000Z",
-          "wordCount": 560,
-          "title": "Dave Navarro Has Been 'Sick Since December' With Long Haul COVID",
-          "imageUrl": "https://townsquare.media/site/366/files/2021/05/dave-navarro-2018.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=512330",
-          "author": "Chad Childers",
-          "description": "'What a difference a year makes,' proclaimed Kelly. Continue reading…",
-          "link": "https://loudwire.com/kelly-osbourne-celebrates-one-year-sobriety-2022/",
-          "publishedOn": "2022-05-29T13:51:43.000Z",
-          "wordCount": 594,
-          "title": "Kelly Osbourne Celebrates One Year of Sobriety",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-Kelly-Osbourne-2019.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=512323",
-          "author": "Chad Childers",
-          "description": "Maryland Deathfest is going out with a bang. Continue reading…",
-          "link": "https://loudwire.com/nsfw-couple-oral-sex-during-autopsy-maryland-deathfest-set/",
-          "publishedOn": "2022-05-29T13:13:50.000Z",
-          "wordCount": 507,
-          "title": "NSFW: Couple Engage in Oral Sex During Metal Band's Festival Set",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/05/attachment-Autopsy-Surprised-Emoji.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
         }
       ]
     },
@@ -446,6 +636,106 @@
       "feedUrl": "https://www.hallofseries.com/feed/",
       "siteUrl": "https://www.hallofseries.com",
       "articles": [
+        {
+          "id": "https://www.hallofseries.com/?p=565534",
+          "author": "Annalisa Cavazzini",
+          "description": "Gotta get up è la cornice indiscussa della serie tv Russian Doll ideata da Natasha Lyonne – che è anche la protagonista della serie – Leasly Headland ed Amy Poehler. Durante un’intervista a Refinery 29 il supervisore musicale Brien Rose ha affermato che la traccia di Harry Nilsson appartenente all’album Nilsson Schmilsson del 1971 è… Leggi tutto »Gotta Get Up\nThe post Gotta Get Up appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/russian-doll/gotta-get-up-russian-doll-loop-harry-nilsson/",
+          "publishedOn": "2022-05-31T22:28:04.000Z",
+          "wordCount": 3483,
+          "title": "Gotta Get Up",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/BCE014A9-3785-4B31-A3F4-30A9B61A7F77.webp"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=563540",
+          "author": "Elena Scipione",
+          "description": "ATTENZIONE: questo articolo contiene SPOILER sugli ultimi cinque episodi di Bang Bang Baby. Se gli Stati Uniti hanno lanciato la loro bomba rilasciando la prima parte quarta stagione di Stranger Things (qui la nostra recensione), ambientata nel 1986 e immersa fino al collo nella cultura pop, l’Italia ha detto la sua con Bang Bang Baby,… Leggi tutto »Bang Bang Baby – La Recensione degli ultimi cinque episodi: un insolito percorso di formazione\nThe post Bang Bang Baby – La Recensione degli ultimi cinque episodi: un insolito percorso di formazione appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/recensioni/bang-bang-baby-recensione-ultimi-episodi/",
+          "publishedOn": "2022-05-31T22:11:23.000Z",
+          "wordCount": 4225,
+          "title": "Bang Bang Baby – La Recensione degli ultimi cinque episodi: un insolito percorso di formazione",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Bang-Bang-Baby-ultimi-episodi.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=565453",
+          "author": "Clotilde Formica",
+          "description": "Le serie tv sono un ottimo passatempo per staccare un po’ la spina dalla realtà e per immergersi in storie e luoghi diversi e appassionanti. Un episodio dopo l’altro intrecciamo la nostra vita con quella di personaggi fittizi ma che, con la sagace scrittura degli autori, diventano quasi parte della nostra quotidianità. Molte volte capita… Leggi tutto »9 personaggi delle Serie Tv che sono un grande esempio di folle determinazione\nThe post 9 personaggi delle Serie Tv che sono un grande esempio di folle determinazione appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/serie-tv/better-call-saul-serie-personaggi-determinazione/",
+          "publishedOn": "2022-05-31T21:54:58.000Z",
+          "wordCount": 4021,
+          "title": "9 personaggi delle Serie Tv che sono un grande esempio di folle determinazione",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/personaggi-determinati.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=567935",
+          "author": "Giulia Vanda Zennaro",
+          "description": "Il verdetto sul caso di Johnny Depp contro l’ex moglie Amber Heard si fa attendere: la corte non si è ancora pronunciata in merito, anche se il processo è ormai formalmente concluso e hanno deposto anche gli ultimi testimoni, inclusa la ex fidanzata di Depp Kate Moss. Processo che ha fatto parlare, oltre che per… Leggi tutto »Johnny Depp combatte l’attesa del verdetto apparendo in concerto con Jeff Beck [VIDEO]\nThe post Johnny Depp combatte l’attesa del verdetto apparendo in concerto con Jeff Beck [VIDEO] appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/johnny-depp-suona-jeff-beck-verdetto/",
+          "publishedOn": "2022-05-31T21:41:41.000Z",
+          "wordCount": 3221,
+          "title": "Johnny Depp combatte l’attesa del verdetto apparendo in concerto con Jeff Beck [VIDEO]",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Johnny-Depp-5-e1653943869574.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=568049",
+          "author": "Giulia Vanda Zennaro",
+          "description": "La quarta stagione di Stranger Things, uscita nei giorni scorsi su Netflix, sta stupendo i fan per la durata degli episodi, spesso superiore all’ora, e per la quantità di violenza presente in una serie che, agli esordi, era rivolta a un pubblico di ragazzi molto giovani. In questo articolo abbiamo recensito la prima parte della… Leggi tutto »Stranger Things 4 riporta in classifica un classico della musica a 37 anni dall’uscita\nThe post Stranger Things 4 riporta in classifica un classico della musica a 37 anni dall’uscita appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/stranger-things-4-riporta-classifica-canzone/",
+          "publishedOn": "2022-05-31T21:34:12.000Z",
+          "wordCount": 3228,
+          "title": "Stranger Things 4 riporta in classifica un classico della musica a 37 anni dall’uscita",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Stranger-Things-7.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=567949",
+          "author": "Giulia Vanda Zennaro",
+          "description": "I meme possono essere un grande veicolo di contenuti, anche profondi e scomodi, o un’arma a doppio taglio: questo è quello che sostiene una psicologa in merito al processo che vede Johnny Depp contro la sua ex moglie Amber Heard, arrivato alle battute finali tra accuse velenose da parte degli avvocati, diagnosi psicologiche alla sbarra… Leggi tutto »«Attenti alla memeficazione della violenza domestica» – Parla la psicologa sul caso Depp-Heard\nThe post «Attenti alla memeficazione della violenza domestica» – Parla la psicologa sul caso Depp-Heard appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/johnny-depp-meme-allarme-psicologi/",
+          "publishedOn": "2022-05-31T21:26:32.000Z",
+          "wordCount": 3284,
+          "title": "«Attenti alla memeficazione della violenza domestica» – Parla la psicologa sul caso Depp-Heard",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Johnny-Depp-6-e1653945194880.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=568112",
+          "author": "Marilisa Di Maio",
+          "description": "Johnny Depp vs Amber Heard: siamo agli atti finali del processo che nelle ultime sei settimane ha portato a galla i segreti più torbidi della coppia hollywoodiana. La causa, com’era prevedibile, ha ricevuto un ingente clamore mediatico e centinaia di fan hanno seguito ogni atto di questo processo degli orrori con grande attenzione. Il verdetto… Leggi tutto »Elon Musk rompe il silenzio sul processo Johnny Depp vs Amber Heard: «Sono entrambi incredibili»\nThe post Elon Musk rompe il silenzio sul processo Johnny Depp vs Amber Heard: «Sono entrambi incredibili» appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/johnny-depp-amber-heard-elon-musk-commenta-processo/",
+          "publishedOn": "2022-05-31T18:34:02.000Z",
+          "wordCount": 3291,
+          "title": "Elon Musk rompe il silenzio sul processo Johnny Depp vs Amber Heard: «Sono entrambi incredibili»",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Screenshot_2022-05-31-18-32-16_resize_85.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=568100",
+          "author": "Vincenzo Galdieri",
+          "description": "Amazon Prime Video, come ormai sapete bene, ogni settimana cancella alcune serie tv e alcuni film dalla sua piattaforma. Lo fa ogni mese, e ne parliamo in questa rubrica, ma è possibile che rispetto alle cancellazioni annunciate a inizio mese se ne aggiungano altre durante le settimane del mese stesso: ed è per questo, al fine… Leggi tutto »Amazon Prime Video, tutti i contenuti in scadenza questa settimana (30 Maggio – 5 Giugno)\nThe post Amazon Prime Video, tutti i contenuti in scadenza questa settimana (30 Maggio – 5 Giugno) appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/amazon-prime-video/amazon-prime-video-contenuti-scadenza-settimana-giugno/",
+          "publishedOn": "2022-05-31T15:27:11.000Z",
+          "wordCount": 3188,
+          "title": "Amazon Prime Video, tutti i contenuti in scadenza questa settimana (30 Maggio – 5 Giugno)",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2021/01/south_park_ginger_cow.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=568008",
+          "author": "Silvia Brighi",
+          "description": "Il processo che ha visto coinvolti Johnny Depp ed Amber Heard è diventato senza dubbio un caso mediatico senza precedenti: il pubblico, infatti, ha potuto seguire le diverse fasi della battaglia legale su diversi media, fino alle arringhe conclusive pronunciate dagli avvocati difensori lo scorso 27 maggio. La giuria dovrà dunque esprimersi in merito all’istanza… Leggi tutto »Ricky Gervais su Johnny Depp: «Se le persone sapessero com’è davvero, la sua carriera sarebbe finita»\nThe post Ricky Gervais su Johnny Depp: «Se le persone sapessero com’è davvero, la sua carriera sarebbe finita» appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/news/ricky-gervais-johnny-depp-carriera-finita/",
+          "publishedOn": "2022-05-31T09:17:12.000Z",
+          "wordCount": 3338,
+          "title": "Ricky Gervais su Johnny Depp: «Se le persone sapessero com’è davvero, la sua carriera sarebbe finita»",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/johnny-depp--e1653987957773.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=420974",
+          "author": "Anastasia Gervasi",
+          "description": "Molti di noi sono cresciuti guardando gli episodi di Twin Peaks o di American Horror Story che ci hanno ben iniziato al mystery, all’horror e alle magie del grottesco che sanno ben colpire al cuore scatenando un mescolarsi di pietà e disgusto. I personaggi creati con tale intento spaventano ma causano in noi un crescente… Leggi tutto »I 10 personaggi più grotteschi nella storia delle Serie Tv\nThe post I 10 personaggi più grotteschi nella storia delle Serie Tv appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/serie-tv/twin-peaks-10-personaggi-grotteschi-serie-tv/",
+          "publishedOn": "2022-05-31T09:01:00.000Z",
+          "wordCount": 3863,
+          "title": "I 10 personaggi più grotteschi nella storia delle Serie Tv",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2021/01/C3EA332D-984C-445D-95C6-53BE245A4EB6-e1611997277697.jpeg"
+        },
         {
           "id": "https://www.hallofseries.com/?p=567939",
           "author": "Vincenzo Galdieri",
@@ -485,136 +775,6 @@
           "wordCount": 3556,
           "title": "Sky, tutte le Serie Tv che troverete in prima serata questa settimana (30 maggio-5 giugno)",
           "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Sky-3.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=567198",
-          "author": "Clotilde Formica",
-          "description": "Attenzione: l’articolo contiene Spoiler su Stranger Things 4 Vol. 1. Demogorgone avvisato, mezzo salvato. E se l’attesa di Stranger Things fosse essa stessa Stranger Things?! Ma l’attesa è finalmente finita, e mentre l’allegra compagnia di nerd e meno nerd imbraccia le loro biciclette per sconfiggere il tanto temuto Pennywise… ah no scusate, intendevo il nuovo… Leggi tutto »Stranger Things 4 Vol. 1 – Le strane Pagelle delle Cose Strane, tra Fu Mattia Hopper e Max De Filippi\nThe post Stranger Things 4 Vol. 1 – Le strane Pagelle delle Cose Strane, tra Fu Mattia Hopper e Max De Filippi appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/stranger-things/stranger-things-4-vol1-pagelle-mattia-hopper/",
-          "publishedOn": "2022-05-30T09:38:13.000Z",
-          "wordCount": 4869,
-          "title": "Stranger Things 4 Vol. 1 – Le strane Pagelle delle Cose Strane, tra Fu Mattia Hopper e Max De Filippi",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/stranger-things-pagelle.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=567370",
-          "author": "Maria Virginia Destefano",
-          "description": "Non mi stancherò mai di dirlo: ognuno di noi dovrebbe guardare almeno una volta nella vita This is Us. Mi rivolgo proprio a chiunque, a chi è triste, a chi ha perso qualcuno, a chi sta per dare alla luce una nuova vita ed è terrorizzato, a chi ha una famiglia meravigliosa e chi invece… Leggi tutto »This Is Us 6×17 – The Train, la Recensione: un doloroso bellissimo viaggio\nThe post This Is Us 6×17 – The Train, la Recensione: un doloroso bellissimo viaggio appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/this-is-us/this-is-us-6x17-the-train-recensione/",
-          "publishedOn": "2022-05-30T08:37:55.000Z",
-          "wordCount": 3757,
-          "title": "This Is Us 6×17 – The Train, la Recensione: un doloroso bellissimo viaggio",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/this-is-us-2-e1653899869602.jpeg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=563736",
-          "author": "Ambra Verzucoli",
-          "description": "ATTENZIONE: l’articolo contiene spoiler su BoJack Horseman. BoJack Horseman è sicuramente una delle migliori serie d’animazione per adulti degli ultimi anni. Un prodotto che, pur nascendo come una sit-com apparentemente leggera, ci ha parlato con intelligenza delle contraddizioni di Hollywood, così come delle sfumature delle relazioni umane e il peso della depressione. Ed è così… Leggi tutto »La classifica dei 5 peggiori errori nella vita di BoJack Horseman\nThe post La classifica dei 5 peggiori errori nella vita di BoJack Horseman appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/bojack-horseman/bojack-horseman-classifica-5-peggiori-errori-del-protagonista/",
-          "publishedOn": "2022-05-30T07:35:49.000Z",
-          "wordCount": 4324,
-          "title": "La classifica dei 5 peggiori errori nella vita di BoJack Horseman",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Immagine-2022-05-30-093254.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=565686",
-          "author": "Benedetta Vanotti",
-          "description": "Una calma glaciale può celare una violenza indicibile: da Gus Fring fino a Wilson Fisk, ecco 9 personaggi che non vorremmo mai incrociare\nThe post 9 glaciali personaggi delle Serie Tv che nascondono una violenza disumana appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/serie-tv/gus-fring-personaggi-nascondono-violenza-disumana/",
-          "publishedOn": "2022-05-30T07:20:03.000Z",
-          "wordCount": 4083,
-          "title": "9 glaciali personaggi delle Serie Tv che nascondono una violenza disumana",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Immagine-2022-05-30-091348.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=567157",
-          "author": "Debora Bolis",
-          "description": "Continua la messa in onda di serie tv e fiction Rai. La tredicesima stagione della fiction RAI Don Matteo si è conclusa. In questa stagione abbiamo visto il passaggio di testimone da Terence Hill nei panni di Don Matteo a Raoul Bova in quelli di Don Massimo (la sesta puntata della stagione è infatti l’inizio… Leggi tutto »Tutte le fiction e le Serie Tv in onda sulla Rai questa settimana (30 maggio – 5 giugno)\nThe post Tutte le fiction e le Serie Tv in onda sulla Rai questa settimana (30 maggio – 5 giugno) appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/fiction-rai-calendario-uscite-30-maggio-5-giugno/",
-          "publishedOn": "2022-05-30T07:03:34.000Z",
-          "wordCount": 3725,
-          "title": "Tutte le fiction e le Serie Tv in onda sulla Rai questa settimana (30 maggio – 5 giugno)",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/il-santone-fiction-rai.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=567486",
-          "author": "Elena Di Stasio",
-          "description": "Virginia Raffaele è una delle attrici e comiche più amate della televisione italiana. I suoi personaggi sono iconici (anche se nell’ultima edizione di LOL – Chi Ride È Fuori Frank Matano e Fedez non hanno riconosciuto qualcuno di piuttosto importante), le sue imitazioni sono iconiche, e non sbaglia mai un colpo. Come già in molti… Leggi tutto »Virginia  Raffaele ha un nuovo fidanzato, direttamente da Don Matteo 13\nThe post Virginia  Raffaele ha un nuovo fidanzato, direttamente da Don Matteo 13 appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/virginia-raffaele-fidanzato-don-matteo-13/",
-          "publishedOn": "2022-05-30T01:01:31.000Z",
-          "wordCount": 3355,
-          "title": "Virginia  Raffaele ha un nuovo fidanzato, direttamente da Don Matteo 13",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Virginia-Raffaele.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=567497",
-          "author": "Marilisa Di Maio",
-          "description": "Gianluca Vacchi è finito nell’occhio del ciclone e i problemi si sono estesi anche al servizio streaming Amazon Prime Video. La piattaforma ha deciso di seguire il trend del successo degli influencer e ha coinvolto alcune delle personalità più amate sui social nei suoi progetti. Qualche mese fa ha distribuito una serie tv dedicata ai… Leggi tutto »Gli utenti chiedono ad Amazon Prime Video di rimuovere il documentario dedicato a Gianluca Vacchi\nThe post Gli utenti chiedono ad Amazon Prime Video di rimuovere il documentario dedicato a Gianluca Vacchi appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/gianluca-vacchi-chiedono-amazon-rimuovere-documentario-imprenditore/",
-          "publishedOn": "2022-05-29T21:05:04.000Z",
-          "wordCount": 3285,
-          "title": "Gli utenti chiedono ad Amazon Prime Video di rimuovere il documentario dedicato a Gianluca Vacchi",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/Screenshot_2022-05-29-21-07-05_resize_29.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=564812",
-          "author": "Valeria Maria Pane",
-          "description": "This Is Us – il dramma familiare della NBC – che ha appassionato e commosso milioni di spettatori in tutto il mondo, è giunta alla sua conclusione. La sua forza è stata il raccontare una storia semplice, molto realistica, riempita da personaggi veri e credibili, con cui è facile identificarsi. Gli sceneggiatori sono stati molto abili nel… Leggi tutto »I 5 messaggi più importanti che ci ha lasciato This Is Us\nThe post I 5 messaggi più importanti che ci ha lasciato This Is Us appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/this-is-us/i-5-messaggi-piu-importanti-di-this-is-us/",
-          "publishedOn": "2022-05-29T20:57:55.000Z",
-          "wordCount": 4074,
-          "title": "I 5 messaggi più importanti che ci ha lasciato This Is Us",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/this-is-us-1.jpeg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=567145",
-          "author": "Fra Gullo",
-          "description": "Dal nostro inviato Francesco Gullo Mentre sono a casa seduto alla mia scrivania tentando di metabolizzare quello che è successo martedì 24 Maggio a Milano, al Teatro Franco Parenti, penso a ciò che ho visto, a ciò che ho sentito. Sono stato inviato come stampa da Hall of Series alla settima edizione dei Diversity Media… Leggi tutto »Siamo stati ai Diversity Media Awards 2022\nThe post Siamo stati ai Diversity Media Awards 2022 appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/anteprime/diversity-media-awards-2022-racconto/",
-          "publishedOn": "2022-05-29T19:02:48.000Z",
-          "wordCount": 3646,
-          "title": "Siamo stati ai Diversity Media Awards 2022",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/diversity-media-awards-e1653850643785.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=564206",
-          "author": "Valeria Maria Pane",
-          "description": "The Morning Show è la serie Apple tv che ha ingaggiato un cast stellare –Jennifer Aniston, Steve Carell e Reese Witherspoon– per regalarci una metanarrazione del mondo della televisione. The Morning Show non è la prima serie che racconta cosa c’è dietro l’industria televisiva/cinematografica ma per farlo si avvale di grandi attori, amatissimi dal pubblico, e di alcune tematiche… Leggi tutto »The Morning Show deve fermarsi in tempo\nThe post The Morning Show deve fermarsi in tempo appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/the-morning-show/the-morning-show-deve-fermarsi-in-tempo/",
-          "publishedOn": "2022-05-29T14:36:38.000Z",
-          "wordCount": 3893,
-          "title": "The Morning Show deve fermarsi in tempo",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/03/CAE04AD4-0A49-493E-9335-C772BACBF5EA.jpeg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=564361",
-          "author": "Viola Bassetti",
-          "description": "Il finale di una serie tv, che venga apprezzato o meno, ci lascia sempre con una sensazione dolceamara. E’ bello arrivare alla fine di un viaggio, accompagnati da qualcosa che ci ha tenuto compagnia per anni: bello, ma straziante. Perché spesso non siamo pronti a lasciare andare qualcosa che ci siamo tenuti stretto quasi fosse… Leggi tutto »7 Serie Tv che finiscono con uno splendido richiamo alla prima puntata\nThe post 7 Serie Tv che finiscono con uno splendido richiamo alla prima puntata appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/game-of-thrones/game-of-thrones-7-serie-tv-richiamo-prima-puntata/",
-          "publishedOn": "2022-05-29T14:19:31.000Z",
-          "wordCount": 3871,
-          "title": "7 Serie Tv che finiscono con uno splendido richiamo alla prima puntata",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/game-of-thrones-copertina.jpeg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=564359",
-          "author": "Viola Bassetti",
-          "description": "E’ facile avere paura di Cersei Lannister. Otto stagioni di Game of Thrones ce l’hanno insegnato molto bene: una donna cinica, calcolatrice, disposta a fare qualsiasi cosa per raggiungere i suoi obiettivi. Una donna che è stata regina proprio fino alla fine e che, anche quando è stata costretta ad abbandonarci, non ci ha mai… Leggi tutto »Cersei Lannister tiene alto il volume della sua vita per paura di ascoltarsi\nThe post Cersei Lannister tiene alto il volume della sua vita per paura di ascoltarsi appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/game-of-thrones/game-of-thrones-cersei-alto-volume-ascoltarsi/",
-          "publishedOn": "2022-05-29T14:08:01.000Z",
-          "wordCount": 3590,
-          "title": "Cersei Lannister tiene alto il volume della sua vita per paura di ascoltarsi",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/cersei-copertina.jpeg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=560884",
-          "author": "Viola Bassetti",
-          "description": "Bisogna sempre camminare con i piedi di piombo quando si parla di teen drama. Per quanto possano essere dei compagni fidati negli anni dell’adolescenza di molti di noi, spesso e volentieri risultano prodotti scadenti, ripetitivi e stereotipati. Eppure The Wilds, sbarcata su Amazon Prime Video nel dicembre 2020, è riuscita egregiamente a distinguersi dalla massa:… Leggi tutto »Cosa non ha funzionato nella seconda stagione di The Wilds\nThe post Cosa non ha funzionato nella seconda stagione di The Wilds appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/the-wilds/the-wilds-cosa-non-funziona-seconda-stagione/",
-          "publishedOn": "2022-05-29T13:58:39.000Z",
-          "wordCount": 3693,
-          "title": "Cosa non ha funzionato nella seconda stagione di The Wilds",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/the-wilds-copertina.jpeg"
         }
       ]
     },
@@ -624,6 +784,26 @@
       "siteUrl": "https://www.ilcineocchio.it",
       "articles": [
         {
+          "id": "https://www.ilcineocchio.it/?post_type=tv&p=286046",
+          "author": "Redazione Il Cineocchio",
+          "description": "Undici e Hopper riusciranno a sconfiggere Vecna?\nL'articolo Trailer per il Volume 2 di Stranger Things, stagione 4: la resa dei conti è vicina proviene da Il Cineocchio.",
+          "link": "https://www.ilcineocchio.it/tv/trailer-per-il-volume-2-di-stranger-things-stagione-4-la-resa-dei-conti/",
+          "publishedOn": "2022-05-31T15:46:06.000Z",
+          "wordCount": 1006,
+          "title": "Trailer per il Volume 2 di Stranger Things, stagione 4: la resa dei conti è vicina",
+          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/05/stranger-things-vol.-2-stagione-4-2022-millie-undici.jpg"
+        },
+        {
+          "id": "https://www.ilcineocchio.it/?post_type=cinema&p=286042",
+          "author": "Redazione Il Cineocchio",
+          "description": "Nella nuova versione del classico di Collodi ci sono Tom Hanks, Joseph Gordon-Levitt e Luke Evans\nL'articolo Teaser per Pinocchio (film Disney+): Robert Zemeckis rivisita Collodi a modo suo proviene da Il Cineocchio.",
+          "link": "https://www.ilcineocchio.it/cinema/teaser-per-pinocchio-film-disney-robert-zemeckis-rivisita-collodi/",
+          "publishedOn": "2022-05-31T15:17:01.000Z",
+          "wordCount": 994,
+          "title": "Teaser per Pinocchio (film Disney+): Robert Zemeckis rivisita Collodi a modo suo",
+          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/05/pinocchio-film-Zemeckis-2022-grillo.jpg"
+        },
+        {
           "id": "https://www.ilcineocchio.it/?post_type=cinema&p=286020",
           "author": "Redazione Il Cineocchio",
           "description": "Ci sono Sergio Castellitto, Enrico Lo Verso e Alessandro Haber tra i protagonisti del biopic\nL'articolo Trailer per Dante: Avati racconta la vita del Sommo Poeta attraverso il Boccaccio proviene da Il Cineocchio.",
@@ -632,36 +812,6 @@
           "wordCount": 1024,
           "title": "Trailer per Dante: Avati racconta la vita del Sommo Poeta attraverso il Boccaccio",
           "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/05/dante-film-avati-2022.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=cinema&p=286009",
-          "author": "Redazione Il Cineocchio",
-          "description": "Ci sono anche Pedro Pascal e Neil Patrick Harris nell'action Rated R di Tom Gormican\nL'articolo Trailer italiano per Il talento di Mr. C: Nicolas Cage è se stesso e deve aiutare la CIA proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/cinema/trailer-italiano-per-il-talento-di-mr-c-nicolas-cage-e-se-stesso/",
-          "publishedOn": "2022-05-30T11:17:28.000Z",
-          "wordCount": 961,
-          "title": "Trailer italiano per Il talento di Mr. C: Nicolas Cage è se stesso e deve aiutare la CIA",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/05/Il-talento-di-Mr.-C-film-poster-2022-nicolas-cage.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=cinema&p=285971",
-          "author": "Francesco Chello",
-          "description": "Ricordiamo l’attore statunitense recentemente scomparso attraverso uno dei suoi titoli magari meno mainstrem, ma ugualmente amati dal pubblico. Tra distopia e prison movie, un film d’azione diretto con ritmo e mestiere dal regista neozelandese\nL'articolo Dossier: Fuga da Absolom di Martin Campbell, una rischiosa scelta di carriera per Ray Liotta proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/cinema/dossier-fuga-da-absolom-di-martin-campbell/",
-          "publishedOn": "2022-05-30T10:53:07.000Z",
-          "wordCount": 3459,
-          "title": "Dossier: Fuga da Absolom di Martin Campbell, una rischiosa scelta di carriera per Ray Liotta",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/05/fuga-da-absolom-film-liotta.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=tv&p=286003",
-          "author": "Redazione Il Cineocchio",
-          "description": "Nuovi amici e vecchi nemici per la squadra di mercenari \nL'articolo Teaser per Star Wars – The Bad Batch, stagione 2: l’Imperatore semina terrore nella galassia proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/tv/teaser-per-star-wars-the-bad-batch-stagione-2-limperatore/",
-          "publishedOn": "2022-05-30T10:17:54.000Z",
-          "wordCount": 1024,
-          "title": "Teaser per Star Wars – The Bad Batch, stagione 2: l’Imperatore semina terrore nella galassia",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/05/Star-Wars-The-Bad-Batch-stagione-2-Disney.jpg"
         }
       ]
     },
@@ -670,6 +820,156 @@
       "feedUrl": "https://www.loudersound.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=loudersound",
       "articles": [
+        {
+          "id": "DFNBSchwG4yUYA64D4SEVd",
+          "author": null,
+          "description": "Inspired by a crush on his cousin, Tom Scholz's More Than A Feeling took Boston out of the basement and took on an omnipresent life of its own",
+          "link": "https://www.loudersound.com/features/bostons-more-than-a-feeling-a-happy-sad-fantasy-song-of-lost-love-and-nostalgia",
+          "publishedOn": "2022-06-01T00:15:02.000Z",
+          "wordCount": 1088,
+          "title": "Boston's More Than A Feeling: a happy-sad fantasy song of lost love and nostalgia",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/nLd9iiY23b3UBhyoa37cFL.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/nLd9iiY23b3UBhyoa37cFL.jpg"
+        },
+        {
+          "id": "gRTnRXJH5PAbEZQggjM27C",
+          "author": null,
+          "description": "Gibson have shared details of their latest guitar collaboration with Halestorm’s Lzzy Hale by way of a wholesome cooking show.",
+          "link": "https://www.loudersound.com/news/halestorms-lzzy-hale-serves-up-new-signature-gibson-guitar-in-cooking-new-video",
+          "publishedOn": "2022-05-31T19:31:42.000Z",
+          "wordCount": 917,
+          "title": "Halestorm's Lzzy Hale serves up new signature Gibson guitar in cooking new video",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/8DfR9UTjBsZJhj77bjpSj4.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8DfR9UTjBsZJhj77bjpSj4.jpg"
+        },
+        {
+          "id": "rLCna3Pyk7HNg4Tq9d8AU8",
+          "author": null,
+          "description": "Back in the day, Slipknot used to make a habit of setting themselves on fire",
+          "link": "https://www.loudersound.com/features/remembering-all-those-times-slipknot-set-themselves-on-fire-because-slipknot",
+          "publishedOn": "2022-05-31T17:57:30.000Z",
+          "wordCount": 922,
+          "title": "When Slipknot used to set themselves on fire all the time, because Slipknot",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/g2TPHDpBbFzdEXX3K5YFTj.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/g2TPHDpBbFzdEXX3K5YFTj.jpg"
+        },
+        {
+          "id": "3c7L889KYZE5Jsb339YtAB",
+          "author": null,
+          "description": "Shinedown frontman Brent Smith talks addiction, sobriety and going to the toilet with Robert Plant",
+          "link": "https://www.loudersound.com/features/shinedowns-brent-smith-rock-n-roll-was-the-devil-in-my-household",
+          "publishedOn": "2022-05-31T17:12:34.000Z",
+          "wordCount": 2078,
+          "title": "Shinedown's Brent Smith: \"Rock'n'roll was the Devil in my household\"",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/2FeiNFLBZTzr9i7QiHJ4bQ.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/2FeiNFLBZTzr9i7QiHJ4bQ.jpg"
+        },
+        {
+          "id": "woDepZ42n9KGnDdMJEQpah",
+          "author": null,
+          "description": "From amazing bands to a unique (and super metal) location, Mystic is a festival like no other",
+          "link": "https://www.loudersound.com/features/why-mystic-festival-is-polands-most-essential-heavy-metal-event",
+          "publishedOn": "2022-05-31T17:03:49.000Z",
+          "wordCount": 707,
+          "title": "Why Mystic Festival is Poland's most essential heavy metal event",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7PpEEY6yjMYLnxTjcY7T6N.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7PpEEY6yjMYLnxTjcY7T6N.jpg"
+        },
+        {
+          "id": "AQ9xHmxr5xF89DLQc3yzU4",
+          "author": "elizabeth.capewell@futurenet.com (Liz Scarlett)",
+          "description": "Måneskin have released the video for their new single Supermodel, and for reasons we're not entirely sure, it features a lively fight over a handbag",
+          "link": "https://www.loudersound.com/news/watch-maneskin-have-the-most-rock-n-roll-handbag-fight-ever-in-supermodel-video",
+          "publishedOn": "2022-05-31T17:02:46.000Z",
+          "wordCount": 1040,
+          "title": "Watch Måneskin have the most rock'n'roll handbag fight ever in Supermodel video",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/zG5SHMEc2g46AV5rQbYimN.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/zG5SHMEc2g46AV5rQbYimN.jpg"
+        },
+        {
+          "id": "nezbmHzky2UTaXZe4buZM",
+          "author": "elizabeth.capewell@futurenet.com (Liz Scarlett)",
+          "description": "Yeah baby yeah! Mike Myers recalls passing the torch of good taste to Queen Bey during the making of Austin Powers in Goldmember",
+          "link": "https://www.loudersound.com/news/mike-myers-recalls-introducing-beyonce-to-led-zeppelin-on-austin-powers-set",
+          "publishedOn": "2022-05-31T15:06:06.000Z",
+          "wordCount": 921,
+          "title": "Mike Myers recalls introducing Beyoncé to Led Zeppelin on Austin Powers set",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/bJP8Y8QK72E3jT7FAP2eK.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/bJP8Y8QK72E3jT7FAP2eK.png"
+        },
+        {
+          "id": "HGRvgybZGASraxtgCiuD4n",
+          "author": null,
+          "description": "Former Yes singer Jon Anderson will tour with The Paul Green Rock Academy in July to celebrate CTTE's 50th anniversary",
+          "link": "https://www.loudersound.com/news/jon-anderson-releases-video-trailer-for-close-to-the-edge-us-summer-tour",
+          "publishedOn": "2022-05-31T14:12:45.000Z",
+          "wordCount": 908,
+          "title": "Jon Anderson releases video trailer for  Close To The Edge US summer tour",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/DEGDSCvEy9GSLK6dXg9ukh.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/DEGDSCvEy9GSLK6dXg9ukh.jpg"
+        },
+        {
+          "id": "qgDWEg82agfeGBtmK9S2A",
+          "author": "elizabeth.capewell@futurenet.com (Liz Scarlett)",
+          "description": "We're pretty sure this is the first and only time Linkin Park and Lizzo will ever appear in the same sentence, but thank you DJ Cummerbund for gifting us this brilliant mash-up",
+          "link": "https://www.loudersound.com/news/this-unlikely-yet-genius-mash-up-of-linkin-park-and-lizzo-proves-opposites-attract",
+          "publishedOn": "2022-05-31T14:07:39.000Z",
+          "wordCount": 838,
+          "title": "This unlikely yet genius mash-up of Linkin Park and Lizzo proves opposites attract",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ztttYgKF3DeGGEDjTt2UYJ.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ztttYgKF3DeGGEDjTt2UYJ.png"
+        },
+        {
+          "id": "SwmiU86RQBJ9MayFDVa7k4",
+          "author": null,
+          "description": "Birth, who feature members of San Diegan proggers Astra, will release their debut album Born in July",
+          "link": "https://www.loudersound.com/news/birth-stream-brand-new-nine-minute-song-for-yesterday",
+          "publishedOn": "2022-05-31T13:02:19.000Z",
+          "wordCount": 771,
+          "title": "Birth stream brand new nine-minute song For Yesterday",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/8xtMA9D5dCpVwtLvWobaZ3.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8xtMA9D5dCpVwtLvWobaZ3.jpg"
+        },
         {
           "id": "AiaKndzB7pc74Rf975TvRV",
           "author": null,
@@ -819,51 +1119,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/ccPCHD8Zq99uQo3KC8CGVN.jpg"
-        },
-        {
-          "id": "YRbxeignWoFAEFCpTL4jBQ",
-          "author": "fraser.lewry@futurenet.com (Fraser Lewry)",
-          "description": "Known as \"The Hawk\", Ronnie Hawkins mentored the men who went on to become The Band, and appeared in The Last Waltz",
-          "link": "https://www.loudersound.com/news/ronnie-hawkins-rockabilly-legend-and-mentor-of-the-band-dead-at-87",
-          "publishedOn": "2022-05-29T23:40:38.000Z",
-          "wordCount": 1046,
-          "title": "Ronnie Hawkins, rockabilly legend and mentor of The Band, dead at 87",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/ZpoDMaEp5AqqU4tYwXPEd3.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ZpoDMaEp5AqqU4tYwXPEd3.jpg"
-        },
-        {
-          "id": "Gg6HSnqakRt8bL2qZLWUFP",
-          "author": null,
-          "description": "Gojira and Deftones frontman Chino Moreno joined forces for a killer cover of Sepultura’s classic Territory at a gig in Minnesota",
-          "link": "https://www.loudersound.com/news/deftones-gojira-sepultura-cover-territory",
-          "publishedOn": "2022-05-29T19:29:38.000Z",
-          "wordCount": 801,
-          "title": "Watch Deftones’ Chino Moreno and Gojira cover Sepultura’s Territory",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/exqTAQg7o932NzA7RhmVGW.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/exqTAQg7o932NzA7RhmVGW.jpg"
-        },
-        {
-          "id": "ibjqMiKGrzUvQaDab7ZcUW",
-          "author": null,
-          "description": "Slayer, Metallica, Maiden and Queen – the records that shaped Sepultura guitarist Andreas Kisser",
-          "link": "https://www.loudersound.com/features/andreas-kisser-sepultura-10-albums",
-          "publishedOn": "2022-05-29T18:19:46.000Z",
-          "wordCount": 1423,
-          "title": "Sepultura’s Andreas Kisser: 10 Albums That Changed My Life",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/bomyYsYRMNQqcPAj5y92sN.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/bomyYsYRMNQqcPAj5y92sN.jpg"
         }
       ]
     },
@@ -878,6 +1133,106 @@
       "feedUrl": "https://www.cinematographe.it/feed/",
       "siteUrl": "https://www.cinematographe.it",
       "articles": [
+        {
+          "id": "https://www.cinematographe.it/?p=897495",
+          "author": "Giacomo Ferri",
+          "description": "Johnny Depp sta tenendo banco in queste settimane per il famigerato processo che lo vede protagonista contro l’ex moglie Amber Heard. Processo che ha ricevuto…\nL'articolo Johnny Depp arriva in Italia! Quando e dove vederlo proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/johnny-depp-concerto-italia-quando-dove/",
+          "publishedOn": "2022-05-31T22:05:55.000Z",
+          "wordCount": 674,
+          "title": "Johnny Depp arriva in Italia! Quando e dove vederlo",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/johnny-depp-amber-heard-processo-nuova-testimonianza-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897492",
+          "author": "Giacomo Ferri",
+          "description": "Attraverso i canali social è stato diffuso il primo atteso trailer di Gotham Knights, la serie televisiva basata sui fumetti della DC e ambientata nell’universo…\nL'articolo Gotham Knights, rilasciato il primo trailer dell’attesa serie DC! proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/trailer-serie-tv/gotham-knights-primo-trailer-serie-dc/",
+          "publishedOn": "2022-05-31T21:45:59.000Z",
+          "wordCount": 673,
+          "title": "Gotham Knights, rilasciato il primo trailer dell’attesa serie DC!",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/Cinematographe.it-1-17-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897487",
+          "author": "Giacomo Ferri",
+          "description": "È lo stesso profilo Twitter di Star Wars a svelare come la première di Obi-Wan Kenobi sia stata la più vista tra le serie originali…\nL'articolo Obi-Wan Kenobi, nuovo poster e nuovo record per la serie televisiva proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/serie-tv/obi-wan-kenobi-nuovo-poster-nuovo-record/",
+          "publishedOn": "2022-05-31T21:07:35.000Z",
+          "wordCount": 608,
+          "title": "Obi-Wan Kenobi, nuovo poster e nuovo record per la serie televisiva",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/04/obi-wan-kenobi-series-finds-the-jedi-master-at-a-traumatic-moment-in-his-life-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897483",
+          "author": "Giacomo Ferri",
+          "description": "Non è la prima volta che capita. Qualche settimana fa parlavamo di come tre attrici – Rachelle Vinberg e Hannah e Cailin Loesch – avessero…\nL'articolo Cary Fukunaga, nuove accuse di comportamento inappropriato per il regista di No time to die proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/cary-fukunaga-nuove-accuse-comportamento-inappropriato/",
+          "publishedOn": "2022-05-31T19:59:43.000Z",
+          "wordCount": 704,
+          "title": "Cary Fukunaga, nuove accuse di comportamento inappropriato per il regista di No time to die",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/cary-fukunaga-1280x720-1-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897476",
+          "author": "Giacomo Ferri",
+          "description": "Sono passati pochi giorni dall’esordio di Obi-Wan Kenobi su Disney+ (per la precisione il 27 maggio) e sulla protagonista Moses Ingram sono già piovuti decine…\nL'articolo Obi-Wan Kenobi, la protagonista Moses Ingram e il profilo di Star Wars rispondono agli insulti razzisti proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/serie-tv/obi-wan-kenobi-protagonista-moses-ingram-risposta-razzisti/",
+          "publishedOn": "2022-05-31T18:46:04.000Z",
+          "wordCount": 620,
+          "title": "Obi-Wan Kenobi, la protagonista Moses Ingram e il profilo di Star Wars rispondono agli insulti razzisti",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/cIs9dfyQbEROPCbhKIpblF1DdL9IMVZ3H1U0UiaU-1-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897279",
+          "author": "Giorgia Terranova",
+          "description": "Il catalogo Netflix per giugno 2022 aggiunge due delle più attese serie tv dell’anno. Partendo dalla sesta e ultima stagione di Peaky Blinders, disponibile sulla…\nL'articolo Cosa vedere su Netflix a giugno 2022? Tutti i film e le serie TV in uscita proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/streaming/netflix-film-serie-tv-giugno-2022/",
+          "publishedOn": "2022-05-31T18:26:00.000Z",
+          "wordCount": 1483,
+          "title": "Cosa vedere su Netflix a giugno 2022? Tutti i film e le serie TV in uscita",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897468",
+          "author": "Martina Volonté",
+          "description": "Arriva in tempo per l’inizio dell’estate la nuova serie multigenerazionale targata Prime Video L’estate nei tuoi occhi, dramma adolescenziale basato sull’omonimo romanzo di Jenny Han. Sulle…\nL'articolo L’estate nei tuoi occhi: trailer e data d’uscita del triangolo amoroso targato Prime Video proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/trailer-serie-tv/l-estate-nei-tuoi-occhi-trailer-data-uscita-serie-prime-video/",
+          "publishedOn": "2022-05-31T17:34:46.000Z",
+          "wordCount": 689,
+          "title": "L’estate nei tuoi occhi: trailer e data d’uscita del triangolo amoroso targato Prime Video",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/oeemwalygs4-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897452",
+          "author": "Martina Volonté",
+          "description": "Diretto da David Yates con protagonisti Eddie Redmayne e Jude Law Animali fantastici – I segreti di Silente, il nuovo capitolo dello spin-off di Harry…\nL'articolo Animali fantastici – I segreti di Silente: dove vederlo? Il film con Eddie Redmayne arriva in streaming proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/animali-fantastici-i-segreti-di-silente-dove-vederlo-film-in-streaming/",
+          "publishedOn": "2022-05-31T17:05:26.000Z",
+          "wordCount": 740,
+          "title": "Animali fantastici – I segreti di Silente: dove vederlo? Il film con Eddie Redmayne arriva in streaming",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/04/animali-fantastici-i-segreti-di-silente--1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897447",
+          "author": "Martina Volonté",
+          "description": "Il prequel The Hunger Games: The Ballad of Songbirds and Snakes ha trovato la sua protagonista! Come riportato da THR, Rachel Zegler – nota soprattutto…\nL'articolo Hunger Games: Rachel Zegler protagonista del prequel proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/hunger-games-rachel-zegler-protagonista-prequel/",
+          "publishedOn": "2022-05-31T16:28:07.000Z",
+          "wordCount": 698,
+          "title": "Hunger Games: Rachel Zegler protagonista del prequel",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/02/west-side-story-rachel-zegler-spielberg-riorganizzato-schedule-film-me-v3-556514-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=897249",
+          "author": "Manuel Magarini",
+          "description": "Ispirato a una pandemia, The Survivalist è un thriller di Jon Keeyes con Jonathan Rhys Meyers e John Malkovich. Pubblicato nel 2021, il film narra…\nL'articolo The Survivalist: trama, trailer e cast del thriller pandemico con John Malkovich proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/the-survivalist-trama-trailer-cast/",
+          "publishedOn": "2022-05-31T16:00:00.000Z",
+          "wordCount": 741,
+          "title": "The Survivalist: trama, trailer e cast del thriller pandemico con John Malkovich",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/The-Survivalist-1-1200x628.jpg"
+        },
         {
           "id": "https://www.cinematographe.it/?p=897233",
           "author": "Massimiliano Meucci",
@@ -977,56 +1332,6 @@
           "wordCount": 757,
           "title": "Buon compleanno Enrico Silvestrin! Che fine ha fatto? L’attore e conduttore vittima di una pericolosa setta",
           "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/Enrico-Silvestrin-3-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=896960",
-          "author": "Teresa Monaco",
-          "description": "Stranger Things 4 è un nuovo inizio per tutti i personaggi della serie Netflix, che troviamo cresciuti e costretti a cercare di chiudere le porte…\nL'articolo Stranger Things 4 e la sdolcinata lettera di Undici a Mike proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/focus-serie/stranger-things-4-lettera-di-undici-a-mike-frasi/",
-          "publishedOn": "2022-05-29T20:49:00.000Z",
-          "wordCount": 1074,
-          "title": "Stranger Things 4 e la sdolcinata lettera di Undici a Mike",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/Stranger-things-4-2-1-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=896845",
-          "author": "Giorgia Terranova",
-          "description": "Obi-Wan Kenobi è una delle più attese serie tv di maggio 2022 e di tutto l’anno. Prodotta dalla Lucasfilm e diretta da Deborah Chow, è…\nL'articolo Obi-Wan Kenobi: guida al cast e ai nuovi personaggi della serie Disney+ proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/focus-serie/obi-wan-kenobi-cast-nuovi-personaggi-serie-disney/",
-          "publishedOn": "2022-05-29T18:00:00.000Z",
-          "wordCount": 2421,
-          "title": "Obi-Wan Kenobi: guida al cast e ai nuovi personaggi della serie Disney+",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/Cinematographe.it-1-22-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=896768",
-          "author": "Manuel Magarini",
-          "description": "Passeggero 23 è un thriller tedesco di Alexander Dierbach, basato sull’omonimo romanzo dello scrittore Sebastian Fitzek. Mandato per la prima volta in onda il 13…\nL'articolo Passeggero 23: trama e cast del film di Alexander Dierbach proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/news/passeggero-23-trama-cast/",
-          "publishedOn": "2022-05-29T15:00:00.000Z",
-          "wordCount": 733,
-          "title": "Passeggero 23: trama e cast del film di Alexander Dierbach",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/Passeggero-23-1-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=896725",
-          "author": "Valentina Esposito",
-          "description": "I numeri d’ascolto di Don Matteo sono sempre stati molto alti, un risultato che ha portato Lux Vide alla realizzazione di ben tredici stagioni. L’ultima…\nL'articolo Don Matteo 14 ci sarà! Cosa sappiamo sulla fiction Rai con Raoul Bova proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/fiction/don-matteo-14-quando-esce-cast-anticipazioni-trama/",
-          "publishedOn": "2022-05-29T14:45:00.000Z",
-          "wordCount": 802,
-          "title": "Don Matteo 14 ci sarà! Cosa sappiamo sulla fiction Rai con Raoul Bova",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/04/5ONJpS0g-1200x628.jpeg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=896829",
-          "author": "Patrizia Monaco",
-          "description": "L’ultimo weekend di maggio 2022 è stato caratterizzato dal rilascio di Stranger Things 4 nel catalogo Netflix. I numerosi abbonati alla piattaforma streaming si sono…\nL'articolo Stranger Things 4: le canzoni della colonna sonora sono una bomba! proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/rubriche-cinema/colonne-sonore/stranger-things-4-canzoni-colonna-sonora/",
-          "publishedOn": "2022-05-29T13:59:29.000Z",
-          "wordCount": 1167,
-          "title": "Stranger Things 4: le canzoni della colonna sonora sono una bomba!",
-          "imageUrl": null
         }
       ]
     }
