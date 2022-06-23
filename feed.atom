@@ -2,10 +2,758 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/musica-cinema/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-22T00:50:02.676Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-23T00:40:52.391Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sovy666.github.io/musica-cinema/index.html"/>
     <link rel="self" href="https://sovy666.github.io/musica-cinema/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flotsam And Jetsam Writing New Album [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/flotsam_and_jetsam_writing_new_album.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/flotsam_and_jetsam_writing_new_album.html"/>
+        <updated>2022-06-23T04:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "We're about halfway written with a new record."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judas Priest Announce Fall 2022 U.S. Tour With Queensrÿche [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/judas_priest_announce_fall_2022_us_tour_with_queensrche.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/judas_priest_announce_fall_2022_us_tour_with_queensrche.html"/>
+        <updated>2022-06-23T04:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Starts off this October.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Historical Rock Concerts To Have Ever Taken  Place [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/community_feed/most_historical_rock_concerts_to_have_ever_taken__place.html</id>
+        <link href="https://www.ultimate-guitar.com/news/community_feed/most_historical_rock_concerts_to_have_ever_taken__place.html"/>
+        <updated>2022-06-23T04:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Community Feed:]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch: Poison's C.C. Deville Performing A Cover Of Van Halen's 'Eruption' In Miami [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_poisons_cc_deville_performing_a_cover_of_van_halens_eruption_in_miami.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_poisons_cc_deville_performing_a_cover_of_van_halens_eruption_in_miami.html"/>
+        <updated>2022-06-23T04:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Music News: And it's a pretty good one.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["I need support, not criticism": Watch a snippet of the new Vince Neil documentary]]></title>
+        <id>SN6MZPUrFUuLw6rRpwYQDn</id>
+        <link href="https://www.loudersound.com/news/i-need-support-not-criticism-watch-a-snippet-of-the-new-vince-neil-documentary"/>
+        <updated>2022-06-22T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Mötley Crüe’s Vince Neil: My Story will show on Reelz this Sunday, and promises an insight into the singer's turbulent career]]></summary>
+        <author>
+            <name>fraser.lewry@futurenet.com (Fraser Lewry)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch: Classical Composer Reacts To Judas Priest's 'Painkiller' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_classical_composer_reacts_to_judas_priests_painkiller.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_classical_composer_reacts_to_judas_priests_painkiller.html"/>
+        <updated>2022-06-22T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: YouTuber Doug Helvering analyzed the heavy metal classic.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H.E.R. Sues Record Label For Violation Of 'Labor Codes' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/her_sues_record_label_for_violation_of_labor_codes.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/her_sues_record_label_for_violation_of_labor_codes.html"/>
+        <updated>2022-06-22T22:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The musician wishes to be released from her contract with MBK Entertainment.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Wars e il desiderio di Wesley Snipes: l’attore di Blade sarà nella saga?]]></title>
+        <id>https://www.cinematographe.it/?p=905578</id>
+        <link href="https://www.cinematographe.it/news/star-wars-wesley-snipes-vorrebbe-far-parte-mondo-star-wars/"/>
+        <updated>2022-06-22T21:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Star Wars è un franchise sempre più vasto complesso, nonostante sia passato veramente tanto tempo dall’arrivo del primo film della saga (stiamo parlando di ben…
+L'articolo Star Wars e il desiderio di Wesley Snipes: l’attore di Blade sarà nella saga? proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Massimiliano Meucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Night Ranger's Kelly Keagy 'Wondered Where To Fit In' During Grunge Years, Recalls Seeing Nirvana On TV For The First Time [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/night_rangers_kelly_keagy_wondered_where_to_fit_in_during_grunge_years_recalls_seeing_nirvana_on_tv_for_the_first_time.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/night_rangers_kelly_keagy_wondered_where_to_fit_in_during_grunge_years_recalls_seeing_nirvana_on_tv_for_the_first_time.html"/>
+        <updated>2022-06-22T21:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "I was just stunned".]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor Strange: Benedict Cumberbatch è pronto per il terzo film!]]></title>
+        <id>https://www.cinematographe.it/?p=905563</id>
+        <link href="https://www.cinematographe.it/news/doctor-strange-benedict-cumberbatch-pronto-terzo-film/"/>
+        <updated>2022-06-22T21:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Doctor Strange è sicuramente uno dei supereroi più apprezzati e interessanti del Marvel Cinematic Universe: fin dal suo debutto all’interno del mondo interconnesso de La…
+L'articolo Doctor Strange: Benedict Cumberbatch è pronto per il terzo film! proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Massimiliano Meucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drummer Nails Slipknot Cover With One Hand, Sips Soda With Other]]></title>
+        <id>https://loudwire.com/?p=515417</id>
+        <link href="https://loudwire.com/drummer-nails-slipknot-cover-one-hand-drinks-soda-other/"/>
+        <updated>2022-06-22T20:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Did he slip? Not! Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thor: Kevin Feige e Chris Hemsworth sono aperti ad un futuro del personaggio]]></title>
+        <id>https://www.cinematographe.it/?p=905553</id>
+        <link href="https://www.cinematographe.it/news/thor-kevin-feige-e-chris-hemsworth-sono-aperti-ad-un-futuro-del-personaggio/"/>
+        <updated>2022-06-22T20:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Thor è sicuramente uno dei personaggi più iconici e apprezzati del Marvel Cinematic Universe: il dio norreno del tuono, interpretato da Chris Hemsworth (Tyler Rake,…
+L'articolo Thor: Kevin Feige e Chris Hemsworth sono aperti ad un futuro del personaggio proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Massimiliano Meucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antonio Banderas su Django / Zorro: “Tarantino mi propose il film; sarebbe grandioso”]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286540</id>
+        <link href="https://www.ilcineocchio.it/cinema/antonio-banderas-su-django-zorro-tarantino-mi-propose-il-film/"/>
+        <updated>2022-06-22T20:09:14.000Z</updated>
+        <summary type="html"><![CDATA[L'attore spagnolo ha rivelato il retroscena, confermando che il filmmaker aveva effettivamente piani ben precisi per il crossover
+L'articolo Antonio Banderas su Django / Zorro: “Tarantino mi propose il film; sarebbe grandioso” proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obi-Wan Kenobi: la regista ha raccontato qual è stata la sfida più ardua da superare]]></title>
+        <id>https://www.cinematographe.it/?p=905537</id>
+        <link href="https://www.cinematographe.it/serie-tv/obi-wan-kenobi-regista-commento-sfida-ardua/"/>
+        <updated>2022-06-22T20:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Obi-Wan Kenobi è la recente serie di Star Wars che ha visto il ritorno del celebre maestro Jedi, tra i personaggi più famosi del franchise…
+L'articolo Obi-Wan Kenobi: la regista ha raccontato qual è stata la sfida più ardua da superare proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Massimiliano Meucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spriggan: recensione dell’anime Netflix]]></title>
+        <id>https://www.cinematographe.it/?p=905445</id>
+        <link href="https://www.cinematographe.it/recensioni-serie/spriggan-recensione-anime-netflix/"/>
+        <updated>2022-06-22T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Per chi negli anni ’90 leggeva manga probabilmente il nome Spriggan non dovrebbe essere del tutto sconosciuto: manga scritto da Hiroshi Takashige e disegnato da…
+L'articolo Spriggan: recensione dell’anime Netflix proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Martina Vita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gray Man: nel poster, il protagonista è evanescente! [FOTO]]]></title>
+        <id>https://www.cinematographe.it/?p=905512</id>
+        <link href="https://www.cinematographe.it/news/the-gray-man-nel-poster-protagonista-evanescente/"/>
+        <updated>2022-06-22T19:30:49.000Z</updated>
+        <summary type="html"><![CDATA[The Gray Man è il nuovo progetto diretto da Anthony e Joe Russo (Captain America: Winter Soldier, Avengers: Endgame) che hanno realizzato recentemente, per Apple…
+L'articolo The Gray Man: nel poster, il protagonista è evanescente! [FOTO] proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Massimiliano Meucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[James Rado, Co-Creator of Hippie Rock Musical 'Hair,' Dies at 90]]></title>
+        <id>https://ultimateclassicrock.com/?p=522284</id>
+        <link href="https://ultimateclassicrock.com/james-rado-hair-musical-dies/"/>
+        <updated>2022-06-22T19:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Broadway legend earned fame — and controversy — with counterculture classic.  Continue reading…]]></summary>
+        <author>
+            <name>Ultimate Classic Rock Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginners Guide To Baritone Guitar Chords [News]]]></title>
+        <id>https://www.ultimate-guitar.com/articles/features/beginners_guide_to_baritone_guitar_chords-133984</id>
+        <link href="https://www.ultimate-guitar.com/articles/features/beginners_guide_to_baritone_guitar_chords-133984"/>
+        <updated>2022-06-22T19:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Features: A simple guide to all the newbies who are looking to start playing a baritone]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legendary Drummer Carmine Appice Recalls 'Spinal Tap' Moment At Outdoor Festival, Reveals Music Genre That 'Gives Him A Headache' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/legendary_drummer_carmine_appice_recalls_spinal_tap_moment_at_outdoor_festival_reveals_music_genre_that_gives_him_a_headache.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/legendary_drummer_carmine_appice_recalls_spinal_tap_moment_at_outdoor_festival_reveals_music_genre_that_gives_him_a_headache.html"/>
+        <updated>2022-06-22T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "I got so pissed off".]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steel Panther Aren't Sure They Can Find A New Bassist After Looking Through Video Auditions [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/steel_panther_arent_sure_they_can_find_a_new_bassist_after_looking_through_video_auditions.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/steel_panther_arent_sure_they_can_find_a_new_bassist_after_looking_through_video_auditions.html"/>
+        <updated>2022-06-22T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Original bassist Lexxi Foxx left the fold a year ago.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lilo & Stitch: il regista spiega come mai ha doppiato il piccolo alieno]]></title>
+        <id>https://www.cinematographe.it/?p=905483</id>
+        <link href="https://www.cinematographe.it/news/lilo-stitch-il-regista-spiega-come-mai-doppiato-stitch/"/>
+        <updated>2022-06-22T18:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Lilo & Stich è sicuramente uno dei Classici Disney più noti: la pellicola, uscita nel 2002, con la regia di Chris Sanders (Dragon Trainer, I…
+L'articolo Lilo & Stitch: il regista spiega come mai ha doppiato il piccolo alieno proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Massimiliano Meucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Fame on Fire Are Building Success in Difficult Era for Bands]]></title>
+        <id>https://loudwire.com/?p=511903</id>
+        <link href="https://loudwire.com/fame-on-fire-interview-building-success-youtube-tiktok/"/>
+        <updated>2022-06-22T18:43:55.000Z</updated>
+        <summary type="html"><![CDATA[The game has changed a lot over the last few years. Meet the band confronting it head on.  Continue reading…]]></summary>
+        <author>
+            <name>Joe DiVita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Da Teresa Saponangelo a Drusilla Foer: intervista ai vincitori dei Nastri D’Argento 2022 [VIDEO]]]></title>
+        <id>https://www.cinematographe.it/?p=905365</id>
+        <link href="https://www.cinematographe.it/rubriche-cinema/interviste/nastri-dargento-2022-video-intervista-drusilla-foer-miriam-leone/"/>
+        <updated>2022-06-22T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Si è tenuta questa settimana al MAXXI di Roma la cerimonia di premiazione dei Nastri d’Argento 2022, tra i maggiori riconoscimenti italiani, assegnati a tutti…
+L'articolo Da Teresa Saponangelo a Drusilla Foer: intervista ai vincitori dei Nastri D’Argento 2022 [VIDEO] proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Patrizia Monaco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve-O Says 'Jackass' Was a Bad Influence on Kids in the 2000s]]></title>
+        <id>https://loudwire.com/?p=515404</id>
+        <link href="https://loudwire.com/steve-o-jackass-was-bad-influence-kids-2000s/"/>
+        <updated>2022-06-22T18:35:45.000Z</updated>
+        <summary type="html"><![CDATA[But he says incidents are no longer their fault. Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Slipknot Song Ranked From Worst to Best]]></title>
+        <id>https://loudwire.com/?p=379643</id>
+        <link href="https://loudwire.com/every-slipknot-song-ranked/"/>
+        <updated>2022-06-22T18:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Push your fingers into your eyes. Continue reading…]]></summary>
+        <author>
+            <name>Loudwire Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meryl Streep e l’amore: tutti i fidanzati della regina del cinema, dal compianto John Cazale all’adorato Don Gummer]]></title>
+        <id>https://www.cinematographe.it/?p=905166</id>
+        <link href="https://www.cinematographe.it/news/meryl-streep-e-lamore-tutti-i-fidanzati-della-regina-del-cinema-dal-compianto-john-cazale-alladorato-don-gummer/"/>
+        <updated>2022-06-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meryl Streep, tra le più popolari, migliori e premiate attrici della sua generazione, classe 1949, ha totalizzato nella sua carriera 21 nomination al più ambito…
+L'articolo Meryl Streep e l’amore: tutti i fidanzati della regina del cinema, dal compianto John Cazale all’adorato Don Gummer proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Giorgia Terranova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keanu Reeves è in Italia: l’attore ha dimostrato ancora una volta il suo grande affetto per i fan! [FOTO e VIDEO]]]></title>
+        <id>https://www.cinematographe.it/?p=905468</id>
+        <link href="https://www.cinematographe.it/news/keanu-reeves-in-italia-foto-video/"/>
+        <updated>2022-06-22T17:54:14.000Z</updated>
+        <summary type="html"><![CDATA[In vacanza o meno, Keanu Reeves si trova in una delle città più importanti del nostro paese: ecco quale! L’estate è ufficialmente iniziata e, come…
+L'articolo Keanu Reeves è in Italia: l’attore ha dimostrato ancora una volta il suo grande affetto per i fan! [FOTO e VIDEO] proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Danilo Gargano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaser per They/Them: c’è un killer mascherato nel campo estivo LGBTQIA+ di Kevin Bacon]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286528</id>
+        <link href="https://www.ilcineocchio.it/cinema/teaser-per-they-them-ce-un-killer-mascherato-nel-campo-estivo/"/>
+        <updated>2022-06-22T17:45:24.000Z</updated>
+        <summary type="html"><![CDATA[C'è John Logan in cabina di regia dello slasher prodotto dalla Blumhouse
+L'articolo Teaser per They/Them: c’è un killer mascherato nel campo estivo LGBTQIA+ di Kevin Bacon proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paolo Gregoletto Explains Why He Still Likes To Take Bass Lessons, Reveals Technique He 'Didn't Know How To Do' In Trivium [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/paolo_gregoletto_explains_why_he_still_likes_to_take_bass_lessons_reveals_technique_he_didnt_know_how_to_do_in_trivium.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/paolo_gregoletto_explains_why_he_still_likes_to_take_bass_lessons_reveals_technique_he_didnt_know_how_to_do_in_trivium.html"/>
+        <updated>2022-06-22T17:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "I had to build up to that".]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pearl Jam Fan With Terminal Diagnosis Sees Band After Venue Issue]]></title>
+        <id>https://loudwire.com/?p=515378</id>
+        <link href="https://loudwire.com/pearl-jam-fan-terminal-diagnosis-overcomes-venue-regulations-last-wish/"/>
+        <updated>2022-06-22T17:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Initially buying tickets while healthy, he was almost forced to miss the show due to limited wheelchair access. Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 obscure but brilliant hard rock bands you need in your life]]></title>
+        <id>itH2mfHEhCmYGqomLibxJb</id>
+        <link href="https://www.loudersound.com/features/10-obscure-but-brilliant-hard-rock-bands-you-need-in-your-life"/>
+        <updated>2022-06-22T17:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Lucifer's Johanna Sadonis and Nicke Andersson pull out the brightest gems from the hard rock bargain bins]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Black Dahlia Murder Launch Charitable Trevor Strnad T-Shirt]]></title>
+        <id>https://loudwire.com/?p=515392</id>
+        <link href="https://loudwire.com/black-dahlia-murder-charitable-trevor-strnad-t-shirt/"/>
+        <updated>2022-06-22T17:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Proceeds will go to a mental health resource center. Continue reading…]]></summary>
+        <author>
+            <name>Lauryn Schaffner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Fire Guitarist After Internal Tensions, Singer Now Holds Majority Of Band Rights [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/live_fire_guitarist_after_internal_tensions_singer_now_holds_majority_of_band_rights.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/live_fire_guitarist_after_internal_tensions_singer_now_holds_majority_of_band_rights.html"/>
+        <updated>2022-06-22T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: Ed Kowalczyk now controls 55% of the band after Chad Taylor's departure.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Roger Waters' intense performance of Pink Floyd classics on late night US TV]]></title>
+        <id>BjHWo7VBvynPaJDURXk9S4</id>
+        <link href="https://www.loudersound.com/news/watch-roger-waters-intense-performance-of-pink-floyd-classics-on-late-night-us-tv"/>
+        <updated>2022-06-22T16:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Roger Waters treats viewers of The Late Show to Pink Floyd anthems The Happiest Days of Our Lives and Another Brick In The Wall Pts. 2 & 3]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch the spooky animated teaser for new Ozzy Osbourne single Patient Number 9]]></title>
+        <id>SzucdmdZKoDmggE8U9A7QX</id>
+        <link href="https://www.loudersound.com/news/watch-the-spooky-animated-teaser-for-new-ozzy-osbourne-single-patient-number-9"/>
+        <updated>2022-06-22T16:35:20.000Z</updated>
+        <summary type="html"><![CDATA[There's new music from Prince of Darkness Ozzy Osbourne on the way, and here's a teaser to prove it]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Know About the Upcoming New Ozzy Song 'Patient Number 9']]></title>
+        <id>https://loudwire.com/?p=515377</id>
+        <link href="https://loudwire.com/ozzy-osbourne-patient-number-9-teaser-video/"/>
+        <updated>2022-06-22T16:25:47.000Z</updated>
+        <summary type="html"><![CDATA['Patient Number 9' is about to be released. Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jen Majura Opens Up About Evanescence Split, Reveals Connection Between Devin Townsend And Her Song Called 'Testicles' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/jen_majura_opens_up_about_evanescence_split_reveals_connection_between_devin_townsend_and_her_song_called_testicles.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/jen_majura_opens_up_about_evanescence_split_reveals_connection_between_devin_townsend_and_her_song_called_testicles.html"/>
+        <updated>2022-06-22T16:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The guitarist also announced she intends to start working on her third solo album.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Malnazidos (film Netflix): la guerra civile spagnola fa i conti con zombie creati dai nazisti]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286524</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-malnazidos-film-netflix-la-guerra-civile-spagnola/"/>
+        <updated>2022-06-22T16:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Ci sono Javier Ruiz Caldera e Alberto De Toro in regia dell'horror spagnolo ambientato negli anni '30
+L'articolo Trailer per Malnazidos (film Netflix): la guerra civile spagnola fa i conti con zombie creati dai nazisti proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boys – Lo showrunner conferma:  «Patriota è un’analogia di Trump»]]></title>
+        <id>https://www.hallofseries.com/?p=575247</id>
+        <link href="https://www.hallofseries.com/news/the-boys-patriota-showrunner/"/>
+        <updated>2022-06-22T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Boys è tornata su Amazon Prime Video con la terza stagione. Il suo successo di questa serie è un pugno nello stomaco all’era del politicamente (troppo) corretto. D’altronde il suo non preoccuparsi di essere politically correct è uno dei 5 punti di forza della serie. Noi ci siamo chiesti perché sono tutti in fissa… Leggi tutto »The Boys – Lo showrunner conferma:  «Patriota è un’analogia di Trump»
+The post The Boys – Lo showrunner conferma:  «Patriota è un’analogia di Trump» appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Debora Bolis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mars Volta Announce US Reunion Tour [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/the_mars_volta_announce_us_reunion_tour.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/the_mars_volta_announce_us_reunion_tour.html"/>
+        <updated>2022-06-22T16:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The band will hit the road in September for a 13-date run.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 best albums on Nuclear Blast]]></title>
+        <id>RcS3QgET5qYZG3E3CV4xgX</id>
+        <link href="https://www.loudersound.com/features/the-10-best-albums-on-nuclear-blast"/>
+        <updated>2022-06-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A volley of essential releases from the iconic German metal label]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Most Important Music Festivals in US History]]></title>
+        <id>https://ultimateclassicrock.com/?p=522049</id>
+        <link href="https://ultimateclassicrock.com/american-music-festival-history/"/>
+        <updated>2022-06-22T15:57:32.000Z</updated>
+        <summary type="html"><![CDATA[From Woodstock to Coachella, and all the stops in between.  Continue reading…]]></summary>
+        <author>
+            <name>Corey Irwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Motionless in White's Chris Motionless Learned to Scream]]></title>
+        <id>https://loudwire.com/?p=515361</id>
+        <link href="https://loudwire.com/how-motionless-in-white-chris-motionless-learned-scream/"/>
+        <updated>2022-06-22T15:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Watch the full 'How I Learned to Scream' episode. Continue reading…]]></summary>
+        <author>
+            <name>Joe DiVita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["The tour bus was not a good place to be..." The real story behind Marillion's Clutching At Straws]]></title>
+        <id>3pqussJj59h7wHwAdFGGGL</id>
+        <link href="https://www.loudersound.com/features/the-tour-bus-was-not-a-good-place-to-be-the-real-story-behind-marillions-clutching-at-straws"/>
+        <updated>2022-06-22T15:49:27.000Z</updated>
+        <summary type="html"><![CDATA[In 1987, Fish released his last album with Marillion
+and it was a tumultuous journey for all involved. From the influence of alcohol to incessant touring schedules and the final bitter split, Prog discovers the inside story behind Clutching At Straws]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 episodi delle Serie Tv che non c’entrano assolutamente nulla]]></title>
+        <id>https://www.hallofseries.com/?p=483212</id>
+        <link href="https://www.hallofseries.com/serie-tv/how-i-met-your-mother-episodi-che-non-centrano-nulla/"/>
+        <updated>2022-06-22T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Incappare in episodi speciali guardando le serie tv non è una rarità, basti pensare alla musical mania scoppiata qualche anno fa che ha portato moltissimi programmi a inserire degli episodi musical nella loro programmazione (e se volete sapere quali sono i 10 migliori li trovate qui). Non mancano, però, anche altri tipi di episodi speciali,… Leggi tutto »10 episodi delle Serie Tv che non c’entrano assolutamente nulla
+The post 10 episodi delle Serie Tv che non c’entrano assolutamente nulla appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Elisa Frassinelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satan wants a new song from Ghost, and these internet piss-takers think they've cracked Tobias Forge's secret formula]]></title>
+        <id>Pu3vnGNd2kHDp56r4Jesz4</id>
+        <link href="https://www.loudersound.com/news/satan-wants-a-new-song-from-ghost-and-these-internet-piss-takers-think-theyve-cracked-tobias-forges-secret-formula"/>
+        <updated>2022-06-22T15:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Gear Gods claim they have cracked the formula behind Ghost songs in this hilarious skit, which sees them parodying Tobias Forge and his Nameless Ghouls]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amber Heard: «Ecco perchè le ex di Johnny Depp non lo hanno denunciato»]]></title>
+        <id>https://www.hallofseries.com/?p=575243</id>
+        <link href="https://www.hallofseries.com/news/amber-heard-ex-johnny-depp-spaventate/"/>
+        <updated>2022-06-22T15:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Recentemente Amber Heard e Johnny Depp sono stati protagonisti di un vero e proprio fenomeno mediatico che ci ha tenuti con gli occhi incollati allo schermo per intere settimane. I due, infatti, si sono sfidati a suon di testimonianze, filmati e registrazioni fatte più o meno di nascosto per poter vincere una causa da milioni… Leggi tutto »Amber Heard: «Ecco perchè le ex di Johnny Depp non lo hanno denunciato»
+The post Amber Heard: «Ecco perchè le ex di Johnny Depp non lo hanno denunciato» appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Palma Vasta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wednesday Question: Cringiest Power Metal Songs That You Love [News]]]></title>
+        <id>https://www.ultimate-guitar.com/articles/features/wednesday_question_cringiest_power_metal_songs_that_you_love-133963</id>
+        <link href="https://www.ultimate-guitar.com/articles/features/wednesday_question_cringiest_power_metal_songs_that_you_love-133963"/>
+        <updated>2022-06-22T15:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Features: Cringy nominations and votes inside.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Years Ago: Elton John Returns From Addiction With ‘The One’]]></title>
+        <id>https://ultimateclassicrock.com/?p=519843</id>
+        <link href="https://ultimateclassicrock.com/elton-john-the-one-album/"/>
+        <updated>2022-06-22T15:19:38.000Z</updated>
+        <summary type="html"><![CDATA[The 1992 album gave legend his first Top 10 hit in 16 years. Continue reading…]]></summary>
+        <author>
+            <name>Rob Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Smile: una risata vi ucciderà brutalmente in pochi giorni]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286521</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-smile-una-risata-vi-uccidera/"/>
+        <updated>2022-06-22T15:18:32.000Z</updated>
+        <summary type="html"><![CDATA[C'è l'esordiente Parker Finn in regia
+L'articolo Trailer per Smile: una risata vi ucciderà brutalmente in pochi giorni proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le 25 Peggiori Serie Tv mai create secondo Rotten Tomatoes]]></title>
+        <id>https://www.hallofseries.com/?p=571911</id>
+        <link href="https://www.hallofseries.com/serie-tv/serie-tv-25-peggiori-rotten-tomatoes/"/>
+        <updated>2022-06-22T15:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Rotten Tomatoes è quasi un’autorità quando si tratta di recensioni, informazioni e notizie su cinema e serie tv. Così curiosando sul sito ci siamo messi alla ricerca di quei prodotti seriali che hanno avuto il numero peggiore di recensioni o di punteggio di gradimento dagli spettatori, ma soprattutto dalla redazione di Rotten Tomatoes stessa. Così,… Leggi tutto »Le 25 Peggiori Serie Tv mai create secondo Rotten Tomatoes
+The post Le 25 Peggiori Serie Tv mai create secondo Rotten Tomatoes appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Fabiana Fanelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motley Crue Lineup Changes: A Complete Guide]]></title>
+        <id>https://ultimateclassicrock.com/?p=383789</id>
+        <link href="https://ultimateclassicrock.com/motley-crue-lineup-changes/"/>
+        <updated>2022-06-22T15:15:05.000Z</updated>
+        <summary type="html"><![CDATA[The whole story, including four drummers who have filled in for an injured Tommy Lee.  Continue reading…]]></summary>
+        <author>
+            <name>Matthew Wilkening</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le 10 proposte di matrimonio più emozionanti delle Serie Tv]]></title>
+        <id>https://www.hallofseries.com/?p=574766</id>
+        <link href="https://www.hallofseries.com/serie-tv/matrimoni-serie-tv-10-proposte-emozionanti/"/>
+        <updated>2022-06-22T15:12:53.000Z</updated>
+        <summary type="html"><![CDATA[C’è solo una cosa che gli amanti dei matrimoni amano più del matrimonio stesso, e sono le proposte. Non importa come siano state fatte, come la domanda sia stata posta, quel che è importa è l’emozione di quel momento, un momento che da sempre caratterizza il mondo e corona il sogno d’amore delle Serie Tv… Leggi tutto »Le 10 proposte di matrimonio più emozionanti delle Serie Tv
+The post Le 10 proposte di matrimonio più emozionanti delle Serie Tv appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Annalisa Gabriele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save big on streaming with up to 4 months of Amazon Music Unlimited, totally free]]></title>
+        <id>5yEJWpwnPJwkJrwxtPCZRZ</id>
+        <link href="https://www.loudersound.com/news/save-big-on-streaming-with-up-to-4-months-of-amazon-music-unlimited-totally-free"/>
+        <updated>2022-06-22T15:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Get HD audio, 90 million songs, podcasts and more, without paying a thing for the next 4 months]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Gone in the Night: Winona Ryder coinvolta in una sparizione repentina e inspiegabile]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286498</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-gone-in-the-night-winona-ryder-coinvolta-in-una-sparizione/"/>
+        <updated>2022-06-22T15:01:47.000Z</updated>
+        <summary type="html"><![CDATA[C'è anche John Gallagher Jr. nel cast del thriller di Eli Horowitz
+L'articolo Trailer per Gone in the Night: Winona Ryder coinvolta in una sparizione repentina e inspiegabile proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sleeping With Sirens Drop New Banger 'Crosses,' Announce Album]]></title>
+        <id>https://loudwire.com/?p=515348</id>
+        <link href="https://loudwire.com/sleeping-with-sirens-spencer-chamberlain-crosses-lyrics-video-complete-collapse-album/"/>
+        <updated>2022-06-22T14:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Watch the humorous video and get details on their upcoming album. Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorna Shore Vocalist Sounds Like Gollum on Deathcore Band's Song]]></title>
+        <id>https://loudwire.com/?p=515337</id>
+        <link href="https://loudwire.com/lorna-shore-into-the-earth-song-lyrics-video/"/>
+        <updated>2022-06-22T14:53:38.000Z</updated>
+        <summary type="html"><![CDATA[LOTR-core? Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo: Billie Eilish Wears Outfit With Metal And Punk Patches Live, Metal Band Reacts [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/photo_billie_eilish_wears_outfit_with_metal_and_punk_patches_live_metal_band_reacts.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/photo_billie_eilish_wears_outfit_with_metal_and_punk_patches_live_metal_band_reacts.html"/>
+        <updated>2022-06-22T14:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The represented groups range from Motorhead to Anti Cimex.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Jimmy Eat World album ranked from worst to best]]></title>
+        <id>jg5AqZ7NjkRauvNNJLsLEA</id>
+        <link href="https://www.loudersound.com/features/every-jimmy-eat-world-album-ranked-from-worst-to-best"/>
+        <updated>2022-06-22T14:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Emo kingpins Jimmy Eat World have a stellar catalogue, but to spare your tears, we've done the hard work of ranking them from worst to best for you]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch: Bumblefoot And Phil X Re-Imagine AC/DC's 'Back In Black' Solo [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_bumblefoot_and_phil_x_re-imagine_acdcs_back_in_black_solo.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_bumblefoot_and_phil_x_re-imagine_acdcs_back_in_black_solo.html"/>
+        <updated>2022-06-22T14:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Music News: The musicians took on Rick Beato's challenge to play their own takes of the iconic lead.]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We asked Tobias Forge how much he uses social media and he gave us a mini-lesson in how brains work]]></title>
+        <id>KDwWKneLz6rdum4YU4owy9</id>
+        <link href="https://www.loudersound.com/features/we-asked-tobias-forge-how-much-he-uses-social-media-and-he-gave-us-a-mini-lesson-in-how-brains-work"/>
+        <updated>2022-06-22T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Ghost mastermind Tobias Forge is no fan of social media - and he gave us a very scientific explanation as to why]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What George Thorogood Found Impressive About Sammy Hagar]]></title>
+        <id>https://ultimateclassicrock.com/?p=521979</id>
+        <link href="https://ultimateclassicrock.com/george-thorogood-sammy-hagar-tour/"/>
+        <updated>2022-06-22T13:22:14.000Z</updated>
+        <summary type="html"><![CDATA["Sammy has come a long way with his wardrobe," he jokes. Continue reading…]]></summary>
+        <author>
+            <name>Matt Wardlaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 2022 New Music Releases]]></title>
+        <id>https://ultimateclassicrock.com/?p=521668</id>
+        <link href="https://ultimateclassicrock.com/july-2022-new-music-releases/"/>
+        <updated>2022-06-22T12:34:57.000Z</updated>
+        <summary type="html"><![CDATA[For some, July will mark the end of a long silence. Continue reading…]]></summary>
+        <author>
+            <name>Nick DeRiso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Umbrella Academy, stagione 3: la recensione dei 10 episodi (su Netflix)]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=tv&amp;p=286511</id>
+        <link href="https://www.ilcineocchio.it/tv/the-umbrella-academy-stagione-3-la-recensione-dei-10-episodi/"/>
+        <updated>2022-06-22T11:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Una formula consolidata che riesce, ancora una volta, a reinventarsi piacevolmente
+L'articolo The Umbrella Academy, stagione 3: la recensione dei 10 episodi (su Netflix) proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Gioia Majuna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Phone: la recensione del film horror di Scott Derrickson]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286215</id>
+        <link href="https://www.ilcineocchio.it/cinema/black-phone-la-recensione-del-film-horror/"/>
+        <updated>2022-06-22T10:55:47.000Z</updated>
+        <summary type="html"><![CDATA[Ethan Hawke è il cattivo in un'opera allegorica che parla di infanzia e di traumi suburbani, un coming-of-age 'kinghiano' ed efficace 
+L'articolo Black Phone: la recensione del film horror di Scott Derrickson proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>William Maga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Come finisce Dawson’s Creek?]]></title>
+        <id>https://www.hallofseries.com/?p=574792</id>
+        <link href="https://www.hallofseries.com/dawsons-creek/dawsons-creek-come-finisce/"/>
+        <updated>2022-06-22T08:10:18.000Z</updated>
+        <summary type="html"><![CDATA[La risposta breve e concisa è: in una valle di lacrime. Era il lontano 2003 quando sono andati in onda gli ultimi due episodi di Dawson’s Creek, nominati in modo molto poco fantasioso nella versione italiana Per sempre parte 1 e parte 2. Io avevo otto anni e una tv con un tubo catodico grande… Leggi tutto »Come finisce Dawson’s Creek?
+The post Come finisce Dawson’s Creek? appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Martina Mastellone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squid Game diventa “La Corsa della Vita”, un assurdo spin-off di Occhi Del Cuore]]></title>
+        <id>https://www.hallofseries.com/?p=572287</id>
+        <link href="https://www.hallofseries.com/boris/boris-squid-game-corsa-della-vita-occhi-del-cuore/"/>
+        <updated>2022-06-22T08:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Politicamente Scorretto Alert: l’articolo in questione è liberamentte ispirato da Boris, Squid Game e alte serie sconosciute al palinsesto televisivo italiano, da cui possiamo attingere liberamente senza che vengano ad accusarci di plagio (forse). Ma Boris è in ogni caso la serie preponderante. Occhi del Cuore è ormai diventata una serie di culto, dopo anni… Leggi tutto »Squid Game diventa “La Corsa della Vita”, un assurdo spin-off di Occhi Del Cuore
+The post Squid Game diventa “La Corsa della Vita”, un assurdo spin-off di Occhi Del Cuore appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Clotilde Formica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Serie Tv che mi sono piaciute soltanto quando ci ho riprovato]]></title>
+        <id>https://www.hallofseries.com/?p=572850</id>
+        <link href="https://www.hallofseries.com/serie-tv/game-of-thrones-7-serie-tv-piaciute-seconda-volta/"/>
+        <updated>2022-06-22T07:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Potrete negarlo quanto volete, ma con tante serie di fama mondiale non è stato amore a primo binge. Quanti di voi hanno visto la prima puntata di Game of Thrones per poi dire che non era la serie giusta per voi, ma poi al secondo tentativo ve ne siete innamorati follemente? Ecco, questo è esattamente… Leggi tutto »7 Serie Tv che mi sono piaciute soltanto quando ci ho riprovato
+The post 7 Serie Tv che mi sono piaciute soltanto quando ci ho riprovato appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Maria Virginia Destefano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridgerton 3: Regé-Jean Page e un possibile ritorno: «Recentemente c’è stato un dialogo»]]></title>
+        <id>https://www.hallofseries.com/?p=574903</id>
+        <link href="https://www.hallofseries.com/news/bridgerton-rege-jean-page-tornera-terza-stagione/"/>
+        <updated>2022-06-22T06:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Bridgerton è certamente una delle serie più popolari degli ultimi anni. Tratta dai romanzi di Julia Quinn, questa serie targata Netflix ambientata nell’epoca della Reggenza inglese ha come protagonisti gli otto fratelli e sorelle della famiglia Bridgerton, ciascuno dei quali tenta di trovare l’amore all’interno dell’alta società londinese. Come accade nei libri, ogni stagione è… Leggi tutto »Bridgerton 3: Regé-Jean Page e un possibile ritorno: «Recentemente c’è stato un dialogo»
+The post Bridgerton 3: Regé-Jean Page e un possibile ritorno: «Recentemente c’è stato un dialogo» appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Silvia Brighi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautiful, riassunta dall’inizio alla “fine” in 1200 parole]]></title>
+        <id>https://www.hallofseries.com/?p=574665</id>
+        <link href="https://www.hallofseries.com/beautiful/beautiful-riassunta-dallinizio-alla-fine-in-1200-parole/"/>
+        <updated>2022-06-22T06:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Allora, c’è questa soap opera conosciutissima che abita i nostri piccoli schermi dal 1987 e non accenna a finire. Tutti la conoscono, molti la seguono, ma nessuno ha mai capito davvero gli intrallazzi delle (a oggi) 8795 puntate. Ci sono diverse famiglie, ma una spadroneggia su tutte. Sono gli illustrissimi Forrester. Vivono nella soleggiata Los… Leggi tutto »Beautiful, riassunta dall’inizio alla “fine” in 1200 parole
+The post Beautiful, riassunta dall’inizio alla “fine” in 1200 parole appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Sara Crecco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zakk Wylde Describes First Time He Heard Black Sabbath: 'I Was Beyond Terrified' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/zakk_wylde_describes_first_time_he_heard_black_sabbath_i_was_beyond_terrified.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/zakk_wylde_describes_first_time_he_heard_black_sabbath_i_was_beyond_terrified.html"/>
+        <updated>2022-06-22T05:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "I was Catholic when I put the needle on, became a Satanist halfway through, and converted back to Catholicism by the end."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiss Guitarist Tommy Thayer Speaks On Gene Simmons's And Paul Stanley's Relationship: 'There's Only So Much Air In The Room' [News]]]></title>
+        <id>https://www.ultimate-guitar.com/news/general_music_news/kiss_guitarist_tommy_thayer_speaks_on_gene_simmonss_and_paul_stanleys_relationship_theres_only_so_much_air_in_the_room.html</id>
+        <link href="https://www.ultimate-guitar.com/news/general_music_news/kiss_guitarist_tommy_thayer_speaks_on_gene_simmonss_and_paul_stanleys_relationship_theres_only_so_much_air_in_the_room.html"/>
+        <updated>2022-06-22T04:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Music News: "Big egos - but let's be honest, that's what it takes to be Gene Simmons and Paul Stanley."]]></summary>
+        <author>
+            <name>News @ Ultimate-Guitar.Com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alice Cooper Explains Why 'Drugs Have Disappeared' In Rock + Why He Treats 'The Guy Sweeping The Stage With Same Respect As Lead Guitarist' [News]]]></title>
         <id>https://www.ultimate-guitar.com/news/general_music_news/alice_cooper_explains_why_drugs_have_disappeared_in_rock__why_he_treats_the_guy_sweeping_the_stage_with_same_respect_as_lead_guitarist.html</id>
@@ -599,691 +1347,6 @@ L'articolo Locarno Film Festival 2022: Matt Dillon protagonista della 75a edizio
 The post 10 Serie Tv che hanno avuto il coraggio di fermarsi dopo una sola grande stagione appeared first on Hall of Series.]]></summary>
         <author>
             <name>Chiara Bresciani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mick Fleetwood Dreamed of Playing With the Rolling Stones]]></title>
-        <id>https://ultimateclassicrock.com/?p=522058</id>
-        <link href="https://ultimateclassicrock.com/mick-fleetwood-rolling-stones/"/>
-        <updated>2022-06-21T12:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Drummer tried to will the gig into existence, "but the call never came." Continue reading…]]></summary>
-        <author>
-            <name>Corey Irwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friends, ma col cast della seconda stagione di LOL – Chi ride è fuori]]></title>
-        <id>https://www.hallofseries.com/?p=570772</id>
-        <link href="https://www.hallofseries.com/serie-tv/friends-cast-seconda-stagione-lol/"/>
-        <updated>2022-06-21T11:46:48.000Z</updated>
-        <summary type="html"><![CDATA[Finalmente il giorno che tutti aspettavano è arrivato. Dopo aver dissipato ogni dubbio e aver chiarito che di regole in realtà non ce ne sarebbe stata neanche mezza, i sei inseparabili amici sono pronti a tutto: vogliono dimostrare di essere in grado di scegliere la migliore tata possibile pei pargoletti di Alice e Gianmarco Pozzoli.… Leggi tutto »Friends, ma col cast della seconda stagione di LOL – Chi ride è fuori
-The post Friends, ma col cast della seconda stagione di LOL – Chi ride è fuori appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Concetta Moschetta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Binari della Vita: Snowpiercer, ma con un cast italiano su un treno sgangherato]]></title>
-        <id>https://www.hallofseries.com/?p=572520</id>
-        <link href="https://www.hallofseries.com/snowpiercer/snowpiercer-binari-vita-cast-italiani-treno/"/>
-        <updated>2022-06-21T09:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Con tutta probabilità, nessun individuo sano di mente proverebbe a condurre l’esperimento che stiamo per portare avanti noi oggi. Eppure, eccoci qui. Freschi dalla terza stagione di Snowpiercer (qui trovate la nostra recensione del finale di stagione), abbiamo riflettuto a lungo sugli elementi che ne hanno fatto una serie all’inizio tanto amata e poi osteggiata… Leggi tutto »I Binari della Vita: Snowpiercer, ma con un cast italiano su un treno sgangherato
-The post I Binari della Vita: Snowpiercer, ma con un cast italiano su un treno sgangherato appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Elena Scipione</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 attrici che per qualche assurdo motivo non hanno mai vinto un premio Oscar]]></title>
-        <id>https://www.hallofseries.com/?p=570853</id>
-        <link href="https://www.hallofseries.com/film/glenn-close-10-attrici-mai-vinto-oscar/"/>
-        <updated>2022-06-21T08:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Che ci crediate o no, queste attrici non hanno mai vinto un Oscar: scopriamo l'identità di tali grandi interpreti, da Glenn Close a Amy Adams
-The post 10 attrici che per qualche assurdo motivo non hanno mai vinto un premio Oscar appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Benedetta Vanotti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 comitive delle Serie Tv che mi ricordano troppo la mia serata tipo]]></title>
-        <id>https://www.hallofseries.com/?p=572278</id>
-        <link href="https://www.hallofseries.com/serie-tv/stranger-things-comitive-serie-tv-serata/"/>
-        <updated>2022-06-21T07:59:09.000Z</updated>
-        <summary type="html"><![CDATA[La mia serata tipo assume diverse sfaccettature, a seconda di quale delle mie personalità multiple pernde il sopravvento. Scherzi a parte, vi è mai capitato di vedere una serie tv e trovare un gruppo di amici con cui non solo uscireste con piacere, ma che vi hanno ricordato la vostra serata perfetta? A me sì,… Leggi tutto »7 comitive delle Serie Tv che mi ricordano troppo la mia serata tipo
-The post 7 comitive delle Serie Tv che mi ricordano troppo la mia serata tipo appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Clotilde Formica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 coppie d’attori delle Serie Tv che hanno mostrato in scena un’alchimia semplicemente perfetta]]></title>
-        <id>https://www.hallofseries.com/?p=572706</id>
-        <link href="https://www.hallofseries.com/serie-tv/better-call-saul-coppie-attori-sintonia/"/>
-        <updated>2022-06-21T07:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Attenzione: evitate la lettura se non volete imbattervi in spoiler su Mad Men, The Office, The Falcon and the Winter Soldier, Succession, True Detective, The Marvelous Mrs. Maisel, Brooklyn Nine-Nine, Suburra, Hannibal, Fleabag e Better Call Saul Ci sono attori bravissimi. E poi ci sono attori bravissimi che insieme, sullo schermo, fanno scintille (oppure legano… Leggi tutto »11 coppie d’attori delle Serie Tv che hanno mostrato in scena un’alchimia semplicemente perfetta
-The post 11 coppie d’attori delle Serie Tv che hanno mostrato in scena un’alchimia semplicemente perfetta appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Sara Crecco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’emozionante storia d’amore tra Stephen Hawking e The Big Bang Theory]]></title>
-        <id>https://www.hallofseries.com/?p=572486</id>
-        <link href="https://www.hallofseries.com/the-big-bang-theory/stephen-hawking-e-il-legame-con-the-big-bang-theory/"/>
-        <updated>2022-06-21T07:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Quella tra la serie CBS prodotta da Chuck Lorre e Bill Prady e il fisico Stephen Hawking è stata una lunga ed emozionante storia d’amore. Molti volti noti si sono avvicendati come cameo in The Big Bang Theory, pensiamo a Elon Musk, Leonard Nimoy o a Bill Gates, ma il fisico in questione ha intrecciato… Leggi tutto »L’emozionante storia d’amore tra Stephen Hawking e The Big Bang Theory
-The post L’emozionante storia d’amore tra Stephen Hawking e The Big Bang Theory appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Samanta Carrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immaginiamo come potrebbe essere la trama della 25esima stagione di Élite]]></title>
-        <id>https://www.hallofseries.com/?p=573004</id>
-        <link href="https://www.hallofseries.com/elite/elite-immaginiamo-venticinquesima-stagione-netflix/"/>
-        <updated>2022-06-21T07:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Estate 2042: la 25esima stagione di Élite è in arrivo! Preparatevi a vivere – rivivere per la milionesima volta – nuovi scenari – utilizzati soltanto nelle 24 stagioni precedenti – a Las Encinas – la scuola che ha assistito a mille più uno omicidi, che nemmeno La Signora in Giallo e Don Matteo in coppia...… Leggi tutto »Immaginiamo come potrebbe essere la trama della 25esima stagione di Élite
-The post Immaginiamo come potrebbe essere la trama della 25esima stagione di Élite appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Alice D'Arrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 notizie sulle Serie Tv che vi svolteranno la giornata]]></title>
-        <id>https://www.hallofseries.com/?p=574736</id>
-        <link href="https://www.hallofseries.com/news/the-boys-notizie-serie-tv-svolteranno/"/>
-        <updated>2022-06-21T07:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Tra le novità della settimana abbiamo qualche notizia in più sullo spin-off di The Boys, che sarà “come Euphoria, ma con i supereroi”. È inoltre nato un vero e proprio reality show ispirato a Squid Game, che avrà un grandissimo premio in denaro. Intanto, Sophia Turner ha deciso di provare lo yoga con le capre… Leggi tutto »7 notizie sulle Serie Tv che vi svolteranno la giornata
-The post 7 notizie sulle Serie Tv che vi svolteranno la giornata appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Palma Vasta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billy Howerdel Recalls Drummer Josh Freese's 'Wild' Guns N' Roses Audition: 'He Was Throwing Up Between Takes And Still Killed It' [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/billy_howerdel_recalls_drummer_josh_freeses_wild_guns_n_roses_audition_he_was_throwing_up_between_takes_and_still_killed_it.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/billy_howerdel_recalls_drummer_josh_freeses_wild_guns_n_roses_audition_he_was_throwing_up_between_takes_and_still_killed_it.html"/>
-        <updated>2022-06-21T06:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Music News: Josh Freese would later leave Guns N' Roses and become A Perfect Circle's first drummer.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Herman Li Explains Why He 'Sacked' DragonForce's Management, Says It's 'Impossible' To Be Manager, Lead Guitarist + Content Creator At Once [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/herman_li_explains_why_he_sacked_dragonforces_management_says_its_impossible_to_be_manager_lead_guitarist__content_creator_at_once.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/herman_li_explains_why_he_sacked_dragonforces_management_says_its_impossible_to_be_manager_lead_guitarist__content_creator_at_once.html"/>
-        <updated>2022-06-21T04:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "Around 2018... I sacked everybody. It was like, 'Screw this, I thought these people worked for us.'"]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bob Daisley Describes His Relationship With Gary Moore, Recalls How George Harrison Downplayed Being In The Beatles When He Met Him [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/bob_daisley_describes_his_relationship_with_gary_moore_recalls_how_george_harrison_downplayed_being_in_the_beatles_when_he_met_him.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/bob_daisley_describes_his_relationship_with_gary_moore_recalls_how_george_harrison_downplayed_being_in_the_beatles_when_he_met_him.html"/>
-        <updated>2022-06-21T03:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "I felt like saying, 'Hang on, you're George Harrison, the band you're talking about is the Beatles, ey!'"]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reclusive Guitarist Vito Bratta Talks Potential White Lion Reunion, Reveals If He Will Ever Make A Comeback [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/reclusive_guitarist_vito_bratta_talks_potential_white_lion_reunion_reveals_if_he_will_ever_make_a_comeback.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/reclusive_guitarist_vito_bratta_talks_potential_white_lion_reunion_reveals_if_he_will_ever_make_a_comeback.html"/>
-        <updated>2022-06-21T02:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "And I regret that I was given a certain amount of talent to do something, and I don't use it."]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch: This Is What Down Sound Like Live In 2022 [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_this_is_what_down_sound_like_live_in_2022.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_this_is_what_down_sound_like_live_in_2022.html"/>
-        <updated>2022-06-21T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Music News: The band delivered an 11-song set at Hellfest.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Purple: the turbulent story of Stormbringer and Ritchie Blackmore's exit]]></title>
-        <id>XSDaqqEyDTgR97kQev2WP6</id>
-        <link href="https://www.loudersound.com/features/deep-purple-the-turbulent-story-of-stormbringer-and-ritchie-blackmores-exit"/>
-        <updated>2022-06-20T23:03:35.000Z</updated>
-        <summary type="html"><![CDATA[In 1974 Deep Purple were flying high, buoyed by the success of Burn and a fiery new line-up – but it soon started to disintegrate]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch the historic interview that introduced the real David Bowie to the world]]></title>
-        <id>CD8JGsQhpfJBGA5rsWJwg</id>
-        <link href="https://www.loudersound.com/features/watch-the-historic-interview-that-introduced-the-real-david-bowie-to-the-world"/>
-        <updated>2022-06-20T22:12:08.000Z</updated>
-        <summary type="html"><![CDATA[David Bowie was the name on everyone's lips in early 1973 - and then he did he first televised full UK interview]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Bowie's Most Intriguing TV and Movie Roles]]></title>
-        <id>https://ultimateclassicrock.com/?p=520767</id>
-        <link href="https://ultimateclassicrock.com/david-bowie-tv-movie-roles/"/>
-        <updated>2022-06-20T22:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Rock icon played more than 30 onscreen parts in his parallel acting career. Continue reading…]]></summary>
-        <author>
-            <name>Jen Austin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dire Straits Bassist Recalls 'Massive Amount Of Attention' That Mark Knopfler Was Under During Band's Last Tour, Reveals What Is 'the Essence Of Bass' [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/dire_straits_bassist_recalls_massive_amount_of_attention_that_mark_knopfler_was_under_during_bands_last_tour_reveals_what_is_the_essence_of_bass.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/dire_straits_bassist_recalls_massive_amount_of_attention_that_mark_knopfler_was_under_during_bands_last_tour_reveals_what_is_the_essence_of_bass.html"/>
-        <updated>2022-06-20T22:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "That was my approach from the word 'go'".]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch: Jack White Reveals His New Fretless Custom Telecaster Bass [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_jack_white_reveals_his_new_fretless_custom_telecaster_bass.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_jack_white_reveals_his_new_fretless_custom_telecaster_bass.html"/>
-        <updated>2022-06-20T22:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Music News: Designed by White and built by Fender Custom Shop.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Wars: Millie Bobby Brown entrerà nell’universo sci-fi?]]></title>
-        <id>https://www.cinematographe.it/?p=904729</id>
-        <link href="https://www.cinematographe.it/news/star-wars-millie-bobby-brown-entrata-universo/"/>
-        <updated>2022-06-20T21:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Star Wars è un universo sempre in espansione: nonostante la saga degli Skywalker, dopo tanti anni, sia terminata con Episodio IX: L’ascesa di Skywalker, il…
-L'articolo Star Wars: Millie Bobby Brown entrerà nell’universo sci-fi? proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Massimiliano Meucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Death Apologize After Nuclear Blast Logo Joke Backfires]]></title>
-        <id>https://loudwire.com/?p=514953</id>
-        <link href="https://loudwire.com/liquid-death-apologize-joke-nuclear-blast-logo-backfires/"/>
-        <updated>2022-06-20T21:38:00.000Z</updated>
-        <summary type="html"><![CDATA[The joke yielded some unintended backlash toward the artist. Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elvis: il film di Luhrmann aveva inizialmente una durata vertiginosa!]]></title>
-        <id>https://www.cinematographe.it/?p=904722</id>
-        <link href="https://www.cinematographe.it/news/elvis-film-luhrmann-durata-iniziale-vertiginosa/"/>
-        <updated>2022-06-20T21:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Elvis è il nuovo biopic diretto e scritto da Baz Luhrmann (Moulin Rouge, Il grande Gatsby), totalmente dedicato alla vita personale e alla carriera musicale…
-L'articolo Elvis: il film di Luhrmann aveva inizialmente una durata vertiginosa! proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Massimiliano Meucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poll: What's the Best Bush Album? - Vote Now]]></title>
-        <id>https://loudwire.com/?p=514931</id>
-        <link href="https://loudwire.com/best-bush-album-vote/"/>
-        <updated>2022-06-20T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[You have eight to choose from. Continue reading…]]></summary>
-        <author>
-            <name>Lauryn Schaffner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Evans ha commentato un particolare cameo di Doctor Strange 2]]></title>
-        <id>https://www.cinematographe.it/?p=904712</id>
-        <link href="https://www.cinematographe.it/news/chris-evans-commentato-particolare-cameo-doctor-strange-2/"/>
-        <updated>2022-06-20T20:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Chris Evans, attore, regista e produttore cinematografico americano, per molto tempo è stato universalmente noto per aver ricoperto la parte di Steve Rogers/Captain America all’interno…
-L'articolo Chris Evans ha commentato un particolare cameo di Doctor Strange 2 proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Massimiliano Meucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix, tutti i contenuti in scadenza questa settimana (20-26 Giugno)]]></title>
-        <id>https://www.hallofseries.com/?p=574860</id>
-        <link href="https://www.hallofseries.com/netflix/netflix-contenuti-scadenza-settimana-giugno-2/"/>
-        <updated>2022-06-20T20:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Netflix – ormai lo sapete molto bene – ogni settimana, cancella alcuni film e serie tv dalla sua piattaforma. Lo fa ogni mese, e ne parliamo come altrettanto ben sapete nella rubrica relativa alle cancellazioni mensili, ma è possibile che rispetto alle cancellazioni annunciate all’inizio del mese se ne aggiungano altre durante le settimane del… Leggi tutto »Netflix, tutti i contenuti in scadenza questa settimana (20-26 Giugno)
-The post Netflix, tutti i contenuti in scadenza questa settimana (20-26 Giugno) appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Vincenzo Galdieri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Artists Who Tried to Combat Scummy Concert Ticket Practices]]></title>
-        <id>https://loudwire.com/?p=512754</id>
-        <link href="https://loudwire.com/artists-combat-scummy-ticket-practices/"/>
-        <updated>2022-06-20T20:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Some bands have gone to extreme methods... Continue reading…]]></summary>
-        <author>
-            <name>Jacklyn Krol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guthrie Govan Recalls Unusual Request He Made To An Orchestra, Reveals Hans Zimmer Songs He Feels Like Playing On 8-String Guitar [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/guthrie_govan_recalls_unusual_request_he_made_to_an_orchestra_reveals_hans_zimmer_songs_he_feels_like_playing_on_8-string_guitar.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/guthrie_govan_recalls_unusual_request_he_made_to_an_orchestra_reveals_hans_zimmer_songs_he_feels_like_playing_on_8-string_guitar.html"/>
-        <updated>2022-06-20T20:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "Hans loves it."]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Black Phone: Ethan Hawke è pronto per un possibile sequel!]]></title>
-        <id>https://www.cinematographe.it/?p=904703</id>
-        <link href="https://www.cinematographe.it/news/the-black-phone-ethan-hawke-pronto-possibile-sequel/"/>
-        <updated>2022-06-20T20:21:41.000Z</updated>
-        <summary type="html"><![CDATA[The Black Phone è il nuovo lungometraggio di Scott Derrickson (Ultimatum alla Terra, Doctor Strange) che ha riportato nuovamente Ethan Hawke in un mondo horror,…
-L'articolo The Black Phone: Ethan Hawke è pronto per un possibile sequel! proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Massimiliano Meucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch: Sean Ono Lennon Wishes Paul McCartney 'Happy Birthday' With Beatles Cover [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_sean_ono_lennon_wishes_paul_mccartney_happy_birthday_with_beatles_cover.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_sean_ono_lennon_wishes_paul_mccartney_happy_birthday_with_beatles_cover.html"/>
-        <updated>2022-06-20T20:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Music News: The son of John Lennon and Yoko Ono performed a rendition of "Here, There and Everywhere".]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kevin Feige ha fornito indizi su quale sarà la prossima saga dell’MCU?]]></title>
-        <id>https://www.cinematographe.it/?p=904696</id>
-        <link href="https://www.cinematographe.it/news/kevin-feige-anticipato-prossima-saga-mcu/"/>
-        <updated>2022-06-20T19:50:41.000Z</updated>
-        <summary type="html"><![CDATA[Kevin Feige è uno dei personaggi più potenti del mondo dell’intrattenimento, inutile nasconderlo: l’uomo, infatti, è il deus ex machina dei Marvel Studios e fautore…
-L'articolo Kevin Feige ha fornito indizi su quale sarà la prossima saga dell’MCU? proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Massimiliano Meucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Kevin Ayers]]></title>
-        <id>cYqmyGDWQakpR5RqX9VhdG</id>
-        <link href="https://www.loudersound.com/features/remembering-kevin-ayers"/>
-        <updated>2022-06-20T19:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Prog Editor Jerry Ewing remembers a lifelong enjoyment of Kevin Ayers' music and his meetings with the great man]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jerry Cantrell Explains How He Deals With Songs That He 'Can't Finish': 'Not All Films Get Made' [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/jerry_cantrell_explains_how_he_deals_with_songs_that_he_cant_finish_not_all_films_get_made.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/jerry_cantrell_explains_how_he_deals_with_songs_that_he_cant_finish_not_all_films_get_made.html"/>
-        <updated>2022-06-20T19:11:38.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "Maybe it's better if you make'em 20 years down the road".]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amber Heard ha il viso più bello del mondo: lo dice la scienza]]></title>
-        <id>https://www.hallofseries.com/?p=574808</id>
-        <link href="https://www.hallofseries.com/news/amber-heard-ha-il-viso-bello-lo-dice-la-scienza/"/>
-        <updated>2022-06-20T19:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Il processo tra Johnny Depp e Amber Heard è oramai giunto al termine. In questi ultimi giorni l’attrice si è resa protagonista di rivelazioni scottanti capaci di far parlare perfino Depp, fino a questo momento sempre stato in silenzio. Tutto nasce da un’intervista in cui l’attrice ha rivelato di amare ancora l’attore, ma di avere… Leggi tutto »Amber Heard ha il viso più bello del mondo: lo dice la scienza
-The post Amber Heard ha il viso più bello del mondo: lo dice la scienza appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Annalisa Gabriele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Padrino: in occasione dei 50 anni dall’uscita, si sono incontrati due vecchi amici]]></title>
-        <id>https://www.cinematographe.it/?p=904686</id>
-        <link href="https://www.cinematographe.it/news/il-padrino-50-anni-incontro-de-niro-pacino/"/>
-        <updated>2022-06-20T19:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Il Padrino è uno dei film che ha cambiato la storia del cinema: la trilogia firmata dal celebre Francis Ford Coppola (Dracula di Bram Stoker,…
-L'articolo Il Padrino: in occasione dei 50 anni dall’uscita, si sono incontrati due vecchi amici proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Massimiliano Meucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korn Will 'Get Together' With Bassist Fieldy Soon To See 'How He's Doing'  [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/korn_will_get_together_with_bassist_fieldy_soon_to_see_how_hes_doing.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/korn_will_get_together_with_bassist_fieldy_soon_to_see_how_hes_doing.html"/>
-        <updated>2022-06-20T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Music News: The bassist decided he wouldn't participate in the band's current tour after relapsing on "bad habits".]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dossier: Grosso Guaio a Chinatown in origine era un western di fine ‘800 (i dettagli)]]></title>
-        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286484</id>
-        <link href="https://www.ilcineocchio.it/cinema/dossier-grosso-guaio-a-chinatown-in-origine-era-un-western/"/>
-        <updated>2022-06-20T18:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Lo sceneggiatore Gary Goldman ha parlato del primissimo script e dei motivi per cui venne scartato
-L'articolo Dossier: Grosso Guaio a Chinatown in origine era un western di fine ‘800 (i dettagli) proviene da Il Cineocchio.]]></summary>
-        <author>
-            <name>Redazione Il Cineocchio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pop-Punk Band Stops Concert to Help Fallen Crowd Surfer]]></title>
-        <id>https://loudwire.com/?p=514935</id>
-        <link href="https://loudwire.com/stand-atlantic-stops-concert-help-fallen-crowd-surfer/"/>
-        <updated>2022-06-20T18:28:09.000Z</updated>
-        <summary type="html"><![CDATA[Be careful out there, folks! Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikki Sixx Praises Tommy Lee For Performing Despite Injury During Mötley Crüe's Atlanta Show [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/nikki_sixx_praises_tommy_lee_for_performing_despite_injury_during_mtley_cres_atlanta_show.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/nikki_sixx_praises_tommy_lee_for_performing_despite_injury_during_mtley_cres_atlanta_show.html"/>
-        <updated>2022-06-20T18:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Music News: "We are a band and are proud of his strength."]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I 15 momenti più commoventi nei matrimoni delle serie tv]]></title>
-        <id>https://www.hallofseries.com/?p=572304</id>
-        <link href="https://www.hallofseries.com/serie-tv/the-office-gli-altri-momenti-commoventi-nei-matrimoni-delle-serie-tv/"/>
-        <updated>2022-06-20T18:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Siamo a giugno, la stagione dei matrimoni è ampiamente iniziata, c’è a chi ne toccano almeno tre e chi se la cava con uno, c’è chi li odia e chi li ama, ma nessuno può negare che di fronte a un amore come quello di Jim e Pam di The Office diventiamo tutti dei romanticoni… Leggi tutto »I 15 momenti più commoventi nei matrimoni delle serie tv
-The post I 15 momenti più commoventi nei matrimoni delle serie tv appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Valeria Maria Pane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasia Smutniak si scaglia contro Giorgia Meloni: «Volgare, inadeguata, disumana»]]></title>
-        <id>https://www.hallofseries.com/?p=574790</id>
-        <link href="https://www.hallofseries.com/news/kasia-smutniak-contro-giorgia-meloni-disumana/"/>
-        <updated>2022-06-20T18:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Kasia Smutniak è un’attrice molto talentuosa la cui carriera spazia tra il piccolo schermo e il cinema. Viene ricordata soprattutto per aver recitato in una delle commedie più apprezzate degli ultimi anni, Perfetti sconosciuti. Tuttavia nel 2013 ha fatto parte anche del cast di quel gioiello dimenticato di In Treatment insieme a Sergio Castellitto e… Leggi tutto »Kasia Smutniak si scaglia contro Giorgia Meloni: «Volgare, inadeguata, disumana»
-The post Kasia Smutniak si scaglia contro Giorgia Meloni: «Volgare, inadeguata, disumana» appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Marilisa Di Maio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 scherzi di cattivissimo gusto nelle Serie Tv]]></title>
-        <id>https://www.hallofseries.com/?p=570275</id>
-        <link href="https://www.hallofseries.com/friends/friends-8-scherzi-cattivissimo-gusto-serie-tv/"/>
-        <updated>2022-06-20T18:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Gli scherzi nelle serie tv, come nella vita vera, sono una boccata di aria fresca. Ci sono prodotti, come le sitcom del calibro di Friends, che hanno fatto della risata che ne scaturisce di conseguenza il loro pane quotidiano. Altri show, meno tendenti al comico, ci hanno mostrato pranks (per usare un inglesismo) così elaborati… Leggi tutto »8 scherzi di cattivissimo gusto nelle Serie Tv
-The post 8 scherzi di cattivissimo gusto nelle Serie Tv appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Viola Bassetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stranger Things 4 e quel brano di Kate Bush di nuovo in vetta alle classifiche: un caso più unico che raro!]]></title>
-        <id>https://www.cinematographe.it/?p=904633</id>
-        <link href="https://www.cinematographe.it/focus-serie/stranger-things-4-e-quel-brano-di-kate-bush-di-nuovo-in-vetta-alle-classifiche-un-caso-piu-unico-che-raro/"/>
-        <updated>2022-06-20T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[La quarta stagione di Stranger Things, caratterizzata da colpi di scena, momenti di suspence e tinte horror, serie tv Netflix più vista di sempre, dal…
-L'articolo Stranger Things 4 e quel brano di Kate Bush di nuovo in vetta alle classifiche: un caso più unico che raro! proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Giorgia Terranova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biffy Clyro Announce Arena Tour With Architects [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/biffy_clyro_announce_arena_tour_with_architects.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/biffy_clyro_announce_arena_tour_with_architects.html"/>
-        <updated>2022-06-20T18:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Music News: The bands will be hitting the road in the UK and Ireland this November.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Gallagher di Shameless tentano di svoltare e partecipano a una nuova edizione di Squid Game]]></title>
-        <id>https://www.hallofseries.com/?p=569236</id>
-        <link href="https://www.hallofseries.com/squid-game/squid-game-gallagher-shameless-nuova-edizione/"/>
-        <updated>2022-06-20T17:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Quando si tratta di temerarietà, nessuno (o quasi) può battere la famiglia Gallagher. Undici stagioni di Shameless ce l’hanno insegnato: che si tratti di rubare un’ambulanza, entrare nel traffico di droga o semplicemente prendere una scatoletta di tonno in più al supermercato senza essere visti, i Gallagher non si fermano davanti a niente. O quasi.… Leggi tutto »I Gallagher di Shameless tentano di svoltare e partecipano a una nuova edizione di Squid Game
-The post I Gallagher di Shameless tentano di svoltare e partecipano a una nuova edizione di Squid Game appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Viola Bassetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biografilm 2022 – Non sono mai tornata indietro: recensione]]></title>
-        <id>https://www.cinematographe.it/?p=904579</id>
-        <link href="https://www.cinematographe.it/recensioni/non-sono-mai-tornata-indietro-recensione/"/>
-        <updated>2022-06-20T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Nel documentario contemporaneo la soggettività dell’autore, la sua presenza, è divenuta sempre più importante. Così che il corpo autoriale, anche quando è rappresentato solo da…
-L'articolo Biografilm 2022 – Non sono mai tornata indietro: recensione proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Luciano Attinà</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boys, Tomer Kapon: “Per colpa del mio provino, ho rischiato di essere arrestato”]]></title>
-        <id>https://www.cinematographe.it/?p=904650</id>
-        <link href="https://www.cinematographe.it/serie-tv/the-boys-tomer-kapon-provino-ho-rischiato-di-essere-arrestato/"/>
-        <updated>2022-06-20T17:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Tomer Kapon, l’attore israeliano che interpreta il personaggio di Frenchie in The Boys, ha rischiato la vita pur di sostenere il suo provino! Mentre i…
-L'articolo The Boys, Tomer Kapon: “Per colpa del mio provino, ho rischiato di essere arrestato” proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Danilo Gargano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead in the water: trama, trailer e cast del thriller di Nanea Miyata]]></title>
-        <id>https://www.cinematographe.it/?p=904651</id>
-        <link href="https://www.cinematographe.it/news/dead-in-the-water-trama-trailer-cast/"/>
-        <updated>2022-06-20T17:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Dead in the water è un thriller di Nanea Miyata uscito nel 2018. Caratterizzato da un cast quasi tutto al femminile, vede uno scenario catastrofico,…
-L'articolo Dead in the water: trama, trailer e cast del thriller di Nanea Miyata proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Manuel Magarini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flea Pitches Himself for a 'Popeye' Movie]]></title>
-        <id>https://loudwire.com/?p=514896</id>
-        <link href="https://loudwire.com/flea-pitches-himself-popeye-movie/"/>
-        <updated>2022-06-20T17:07:46.000Z</updated>
-        <summary type="html"><![CDATA[I am what I am, and what I am may be perfect for the role. Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch: Ghost Stop Headlining Show Early Due To Tobias Forge's Vocal Problems [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/watch_ghost_stop_headlining_show_early_due_to_tobias_forges_vocal_problems.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/watch_ghost_stop_headlining_show_early_due_to_tobias_forges_vocal_problems.html"/>
-        <updated>2022-06-20T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Music News: The band also debuted the track "Griftwood" live at their Hellfest gig.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Rothery announces two solo dates for July]]></title>
-        <id>Vw8vQvGhyZCAYNVgbJzkMQ</id>
-        <link href="https://www.loudersound.com/news/steve-rothery-announces-two-solo-dates-for-july"/>
-        <updated>2022-06-20T16:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Steve Rothery and band will play dates in Cambridge and Manchester this July]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nirvana's producer just won $196,089 at the World Series Of Poker]]></title>
-        <id>57J6BEAztt6bag2XCEQuqB</id>
-        <link href="https://www.loudersound.com/news/nirvanas-producer-just-won-dollar196089-at-the-world-series-of-poker"/>
-        <updated>2022-06-20T16:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Shellac frontman, Nirvana/Pixies engineer and alt. rock icon Steve Albini is a pretty, pretty, pretty good poker player]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mars Volta Reportedly Tease New Music Via Art Installation]]></title>
-        <id>https://loudwire.com/?p=514886</id>
-        <link href="https://loudwire.com/mars-volta-reportedly-tease-new-music-street-art-installation/"/>
-        <updated>2022-06-20T16:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Is a reunion on the horizon? Continue reading…]]></summary>
-        <author>
-            <name>Philip Trapp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lee Powers Through Broken Ribs, Plays 3 Songs at Second Crue Show]]></title>
-        <id>https://loudwire.com/?p=514891</id>
-        <link href="https://loudwire.com/tommy-lee-broken-ribs-plays-drums-three-motley-crue-songs-second-night/"/>
-        <updated>2022-06-20T16:30:08.000Z</updated>
-        <summary type="html"><![CDATA['My heart is broken... just like the ribs!' Continue reading…]]></summary>
-        <author>
-            <name>Todd Fooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN'R Play 'Chinese Democracy' Deep Cut for First Time in 10 Years]]></title>
-        <id>https://loudwire.com/?p=514892</id>
-        <link href="https://loudwire.com/guns-n-roses-play-chinese-democracy-deep-cut-first-time-10-years-street-of-dreams/"/>
-        <updated>2022-06-20T16:11:37.000Z</updated>
-        <summary type="html"><![CDATA[It's the first time Axl Rose played it with Slash and Duff McKagan. Continue reading…]]></summary>
-        <author>
-            <name>Lauryn Schaffner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Blur album ranked from worst to best]]></title>
-        <id>hKXnFVMiemYYgdkTAVdYed</id>
-        <link href="https://www.loudersound.com/features/every-blur-album-ranked-from-worst-to-best"/>
-        <updated>2022-06-20T15:46:50.000Z</updated>
-        <summary type="html"><![CDATA[From Leisure to The Magic Whip, we put Blur's back catalogue under the microscope]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levi Benton Says Miss May I Are Like a Family Now More Than Ever]]></title>
-        <id>https://loudwire.com/?p=514870</id>
-        <link href="https://loudwire.com/miss-may-i-levi-benton-interview-2022/"/>
-        <updated>2022-06-20T15:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Read the full interview. Continue reading…]]></summary>
-        <author>
-            <name>Loudwire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King Gizzard And The Lizard Wizard Promise 3 More Albums In 2022 [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/king_gizzard_and_the_lizard_wizard_promise_3_more_albums_in_2022.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/king_gizzard_and_the_lizard_wizard_promise_3_more_albums_in_2022.html"/>
-        <updated>2022-06-20T15:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Music News: The band already released 2 records this year.]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nine Inch Nails at the Eden Project: what happened when Trent and co played the world's biggest greenhouse]]></title>
-        <id>BaWEVJ6jRmU3nNDQt6y3KA</id>
-        <link href="https://www.loudersound.com/reviews/raves-and-rainbows-what-happened-when-nine-inch-nails-played-the-worlds-biggest-greenhouse"/>
-        <updated>2022-06-20T15:29:03.000Z</updated>
-        <summary type="html"><![CDATA[With heatwaves, thunderstorms and sunset rainbows, NIN's return to the UK was an epic of blockbuster proportions]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Maiden to Cover Paul Di'Anno's Surgery Costs]]></title>
-        <id>https://ultimateclassicrock.com/?p=521927</id>
-        <link href="https://ultimateclassicrock.com/iron-maiden-paul-dianno-knee-surgery/"/>
-        <updated>2022-06-20T15:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Former singer's fans have been fundraising for 18 months until band stepped in. Continue reading…]]></summary>
-        <author>
-            <name>Martin Kielty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alice Cooper Names Three Bands Every Young Musician Should Hear]]></title>
-        <id>https://ultimateclassicrock.com/?p=521900</id>
-        <link href="https://ultimateclassicrock.com/alice-cooper-three-bands-every-musician-should-hear/"/>
-        <updated>2022-06-20T15:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Shock-rock icon says too many hopefuls "just throw it away." Continue reading…]]></summary>
-        <author>
-            <name>Martin Kielty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner's Guide To Tremolo Vs. Hardtail Bridges [News]]]></title>
-        <id>https://www.ultimate-guitar.com/articles/features/beginners_guide_to_tremolo_vs_hardtail_bridges-133708</id>
-        <link href="https://www.ultimate-guitar.com/articles/features/beginners_guide_to_tremolo_vs_hardtail_bridges-133708"/>
-        <updated>2022-06-20T14:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Features: Which one is the best for you?]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longtime Fleetwood Mac Keyboardist Brett Tuggle Reportedly Dies]]></title>
-        <id>https://ultimateclassicrock.com/?p=521936</id>
-        <link href="https://ultimateclassicrock.com/brett-tuggle-dead/"/>
-        <updated>2022-06-20T14:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Lifelong sideman also played with Rick Springfield, David Lee Roth and many more. Continue reading…]]></summary>
-        <author>
-            <name>Bryan Rolli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is black metal without distortion just surf rock? Yes, and this guitarist proves it]]></title>
-        <id>xCi6H4U72xntVVdokBMWzG</id>
-        <link href="https://www.loudersound.com/news/is-black-metal-without-distortion-just-surf-rock-yes-and-this-guitarist-proves-it"/>
-        <updated>2022-06-20T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[YouTuber Kevin Balke has exposed the truth about black metal that was right in front of us all along]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Tommy Lee Admit, 'My Heart Is Broken, Along With the Ribs']]></title>
-        <id>https://ultimateclassicrock.com/?p=521898</id>
-        <link href="https://ultimateclassicrock.com/tommy-lee-motley-crue-broken-ribs/"/>
-        <updated>2022-06-20T13:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Motley Crue drummer tells audience he’s in serious pain as he hands over sticks to stand-in after three songs. Continue reading…]]></summary>
-        <author>
-            <name>Martin Kielty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace Frehley Cancels This Summer's European Tour [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/general_music_news/ace_frehley_cancels_this_summers_european_tour.html</id>
-        <link href="https://www.ultimate-guitar.com/news/general_music_news/ace_frehley_cancels_this_summers_european_tour.html"/>
-        <updated>2022-06-20T13:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Music News: Tour dates were canceled due to "unforeseen circumstances."]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bands That Are Older Than Most People Think [News]]]></title>
-        <id>https://www.ultimate-guitar.com/news/community_feed/bands_that_are_older_than_most_people_think.html</id>
-        <link href="https://www.ultimate-guitar.com/news/community_feed/bands_that_are_older_than_most_people_think.html"/>
-        <updated>2022-06-20T13:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Community Feed:]]></summary>
-        <author>
-            <name>News @ Ultimate-Guitar.Com</name>
         </author>
     </entry>
 </feed>
