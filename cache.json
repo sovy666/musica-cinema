@@ -313,6 +313,86 @@
       "siteUrl": "https://ultimateclassicrock.com",
       "articles": [
         {
+          "id": "https://ultimateclassicrock.com/?p=523463",
+          "author": "Martin Kielty",
+          "description": "Vivian Campbell has stopped members from \"killing each other,\" while Rick Savage is the Spinal Tap \"lukewarm water.\" Continue reading…",
+          "link": "https://ultimateclassicrock.com/def-leppard-settle-arguments/",
+          "publishedOn": "2022-07-01T23:29:43.000Z",
+          "wordCount": 5165,
+          "title": "How Def Leppard Settle Their Arguments",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/07/attachment-deflep.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=523572",
+          "author": "Corey Irwin",
+          "description": "Metal classic plays a pivotal role in the Season 4 closing episode.  Continue reading…",
+          "link": "https://ultimateclassicrock.com/metallica-master-of-puppets-stranger-things/",
+          "publishedOn": "2022-07-01T22:37:18.000Z",
+          "wordCount": 4594,
+          "title": "Metallica’s 'Master of Puppets' Rocks 'Stranger Things' Finale",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/07/attachment-Master-of-Puppets-Stranger-Things.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=523528",
+          "author": "Bryan Rolli",
+          "description": "'Charlie's Good Tonight: The Authorized Biography of Charlie Watts' will feature interviews with Mick Jagger, Keith Richards and Ronnie Wood. Continue reading…",
+          "link": "https://ultimateclassicrock.com/charlie-watts-biography/",
+          "publishedOn": "2022-07-01T16:12:59.000Z",
+          "wordCount": 4527,
+          "title": "Authorized Charlie Watts Biography Hitting Shelves This Fall",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/07/attachment-charlie_watts_biography.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=522775",
+          "author": "Allison Rapp",
+          "description": "Among the performers at the 2007 show were several of the late royal's favorite musicians, including Elton John and Duran Duran. Continue reading…",
+          "link": "https://ultimateclassicrock.com/concert-for-diana/",
+          "publishedOn": "2022-07-01T15:37:08.000Z",
+          "wordCount": 6929,
+          "title": "15 Years Ago: Star-Studded Concert for Diana Honors Her Legacy",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-concert-for-diana-.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=522345",
+          "author": "Ultimate Classic Rock Staff",
+          "description": "Everything from sweltering surf-rock to tunes best played at full volume with the windows rolled down. Continue reading…",
+          "link": "https://ultimateclassicrock.com/summer-forrock-songs/",
+          "publishedOn": "2022-07-01T14:28:15.000Z",
+          "wordCount": 17730,
+          "title": "Rock's 40 Best Summer Songs",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-SummerSongs.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=523494",
+          "author": "Allison Rapp",
+          "description": "He clarifies comments about plans to re-edit the late legend's unreleased 'Camille' album. Continue reading…",
+          "link": "https://ultimateclassicrock.com/jack-white-prince-camille-album/",
+          "publishedOn": "2022-07-01T13:57:59.000Z",
+          "wordCount": 4252,
+          "title": "Jack White Vows Not to Mess With Prince's Music",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/07/attachment-jack-white-prince.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=523462",
+          "author": "Martin Kielty",
+          "description": "Guitarist Phil Collen remembers deciding \"we're better than this\" at state fair show in 2005. Continue reading…",
+          "link": "https://ultimateclassicrock.com/def-leppard-phil-collen-save-bands-future/",
+          "publishedOn": "2022-07-01T13:15:15.000Z",
+          "wordCount": 4888,
+          "title": "The Moment Def Leppard Saved Their Future",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/07/attachment-collen.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://ultimateclassicrock.com/?p=523464",
+          "author": "Martin Kielty",
+          "description": "Motorhead and Scorpions drummer promotes all-electric Volvo line. Continue reading…",
+          "link": "https://ultimateclassicrock.com/mikkey-dee-volvo-commercial/",
+          "publishedOn": "2022-07-01T12:34:02.000Z",
+          "wordCount": 4377,
+          "title": "Watch Mikkey Dee Play Midair Drum Solo in Truck Ad",
+          "imageUrl": "https://townsquare.media/site/295/files/2022/07/attachment-dee.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
           "id": "https://ultimateclassicrock.com/?p=523444",
           "author": "Corey Irwin",
           "description": "Group had been scheduled to perform in Nashville as part of the highly anticipated trek.  Continue reading…",
@@ -411,56 +491,6 @@
           "wordCount": 4374,
           "title": "'Bad Rap' Means Bill Ward Can't Get a Record Deal",
           "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-ward.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=523202",
-          "author": "Ultimate Classic Rock Staff",
-          "description": "\"It’s better for the fans and you and for the legacy to get off the stage while you’re still great,\" bassist adds.   Continue reading…",
-          "link": "https://ultimateclassicrock.com/kiss-extending-farewell-tour/",
-          "publishedOn": "2022-06-29T20:44:48.000Z",
-          "wordCount": 4942,
-          "title": "Kiss Adding Another 100 Cities to Final Tour, Says Gene Simmons",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-attachment-simmons1.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=523158",
-          "author": "Bryan Rolli",
-          "description": "New exhibition features 50 years' worth of band's personal memorabilia. Continue reading…",
-          "link": "https://ultimateclassicrock.com/kiss-world-museum-las-vegas-photos/",
-          "publishedOn": "2022-06-29T16:21:09.000Z",
-          "wordCount": 4485,
-          "title": "Kiss World Museum Opens in Las Vegas: Photos",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-KissWorldFeatured.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=523107",
-          "author": "Bryan Rolli",
-          "description": "Drummer shared duties on previous dates due to recently breaking four ribs. Continue reading…",
-          "link": "https://ultimateclassicrock.com/tommy-lee-plays-full-motley-crue-show/",
-          "publishedOn": "2022-06-29T15:07:26.000Z",
-          "wordCount": 5505,
-          "title": "Tommy Lee Plays First Full Show of Motley Crue's Stadium Tour",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-Tommy-Lee-stadium-tour.jpeg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=523039",
-          "author": "Chuck Armstrong",
-          "description": "2014 performance includes band's takes on songs by Ozzy Osbourne and Rare Earth, too. Continue reading…",
-          "link": "https://ultimateclassicrock.com/metallica-rare-covers-ep/",
-          "publishedOn": "2022-06-29T14:05:09.000Z",
-          "wordCount": 4830,
-          "title": "Metallica Covers the Beatles, Deep Purple and More on New Live EP",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-Metallica-MusiCares-2014.jpeg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://ultimateclassicrock.com/?p=522846",
-          "author": "Jen Austin",
-          "description": "The Rush frontman - from the start of his career until now. Continue reading…",
-          "link": "https://ultimateclassicrock.com/geddy-lee-photos/",
-          "publishedOn": "2022-06-29T13:06:11.000Z",
-          "wordCount": 4885,
-          "title": "Geddy Lee Year-by-Year Photos 1974-2022",
-          "imageUrl": "https://townsquare.media/site/295/files/2022/06/attachment-GeddyLeePhotos.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
         }
       ]
     },
@@ -469,6 +499,106 @@
       "feedUrl": "https://loudwire.com/feed/",
       "siteUrl": "https://loudwire.com",
       "articles": [
+        {
+          "id": "https://loudwire.com/?p=516533",
+          "author": "Philip Trapp",
+          "description": "Savor the flavor of merch. Continue reading…",
+          "link": "https://loudwire.com/blink-182-flavortown-guy-fieri-merch-t-shirt-apron/",
+          "publishedOn": "2022-07-01T19:40:49.000Z",
+          "wordCount": 4702,
+          "title": "blink-182 Head to Flavortown With Guy Fieri Merchandise Collab",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/07/attachment-blink_182_guy_fieri.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516522",
+          "author": "Philip Trapp",
+          "description": "He's brining the storied fest back, partly as a tribute. Continue reading…",
+          "link": "https://loudwire.com/hatebreed-jamey-jasta-milwaukee-metal-fest/",
+          "publishedOn": "2022-07-01T18:08:43.000Z",
+          "wordCount": 4981,
+          "title": "Hatebreed's Jamey Jasta Obtains the Rights to Milwaukee Metalfest",
+          "imageUrl": "https://townsquare.media/site/366/files/2016/08/Hatebreed-Rise-above-5.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516418",
+          "author": "Loudwire Staff",
+          "description": "New music is a lot to keep up with, but our playlist makes it a lot easier. Continue reading…",
+          "link": "https://loudwire.com/best-rock-metal-songs-june-2022/",
+          "publishedOn": "2022-07-01T17:19:30.000Z",
+          "wordCount": 12311,
+          "title": "Best Rock + Metal Songs of June - Staff Favorites + Essentials",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-spiritbox_megadeth_ozzy_osbourne.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516510",
+          "author": "Chad Childers",
+          "description": "See who's ready to rock at sea! Continue reading…",
+          "link": "https://loudwire.com/2023-monsters-of-rock-cruise-lineup-revealed/",
+          "publishedOn": "2022-07-01T16:35:32.000Z",
+          "wordCount": 5519,
+          "title": "2023 Monsters of Rock Cruise Lineup Revealed",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/07/attachment-Tesla-Michael-Schenker-Queensryche.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516508",
+          "author": "Philip Trapp",
+          "description": "The Scorpions drummer performs 40 feet in the air. Continue reading…",
+          "link": "https://loudwire.com/mikkey-dee-highest-ever-metal-drum-solo-volvo-trucks-video-scorpions-motorhead/",
+          "publishedOn": "2022-07-01T16:25:35.000Z",
+          "wordCount": 4720,
+          "title": "Mikkey Dee Goes for Metal's Highest-Ever Drum Solo in Commercial",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/07/attachment-mikkey_dee_highest_drum_solo_in_metal_volvo_trucks_commercial_screenshots.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516427",
+          "author": "Lauryn Schaffner",
+          "description": "Least-played, not the worst! Continue reading…",
+          "link": "https://loudwire.com/least-played-slipknot-songs-spotify/",
+          "publishedOn": "2022-07-01T15:41:32.000Z",
+          "wordCount": 4589,
+          "title": "The 10 Least-Played Slipknot Songs on Spotify",
+          "imageUrl": "https://townsquare.media/site/366/files/2021/10/attachment-slipknot_live_2021_corey_taylor_3.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=429029",
+          "author": "Chad Childers",
+          "description": "See who's worth the price of postage! Continue reading…",
+          "link": "https://loudwire.com/rock-metal-postage-stamps/",
+          "publishedOn": "2022-07-01T15:39:00.000Z",
+          "wordCount": 4234,
+          "title": "24 Rock + Metal Postage Stamps",
+          "imageUrl": "https://townsquare.media/site/366/files/2020/06/Stamps.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516478",
+          "author": "Lauryn Schaffner",
+          "description": "That's how you end a show. Continue reading…",
+          "link": "https://loudwire.com/metallica-master-of-puppets-stranger-things-season-finale/",
+          "publishedOn": "2022-07-01T15:23:10.000Z",
+          "wordCount": 5013,
+          "title": "Metallica's 'Master of Puppets' Is in 'Stranger Things' Finale",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/07/attachment-metallica-james-hetfield-stranger-things-eddie-munson.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516474",
+          "author": "Philip Trapp",
+          "description": "And they're touring this summer. Continue reading…",
+          "link": "https://loudwire.com/crazy-town-leeches-new-song-ray-garrison-shifty-shellshock/",
+          "publishedOn": "2022-07-01T15:15:08.000Z",
+          "wordCount": 4826,
+          "title": "Crazy Town Return With the Aggressive Nu-Metal Anthem 'Leeches'",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/07/attachment-crazy_town_butterfly_music_video_screenshot_shifty_shellshock.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "id": "https://loudwire.com/?p=516468",
+          "author": "Todd Fooks",
+          "description": "Let the Black Veil Brides singer put you to bed with 'The Tell-Tale Heart.' Continue reading…",
+          "link": "https://loudwire.com/andy-biersack-edgar-allen-poe-audiobook-goth/",
+          "publishedOn": "2022-07-01T15:06:51.000Z",
+          "wordCount": 4846,
+          "title": "Andy Biersack Narrating Edgar Allen Poe Is Goth Bedtime Stories",
+          "imageUrl": "https://townsquare.media/site/366/files/2022/07/attachment-Untitled-design-7.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
         {
           "id": "https://loudwire.com/?p=516421",
           "author": "Alicia Selin",
@@ -568,106 +698,6 @@
           "wordCount": 5048,
           "title": "MGK Shares Bloody Photos After Smashing Glass on His Head",
           "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-machine_gun_kelly_champagne_flutes.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516275",
-          "author": "Alicia Selin",
-          "description": "Watch her tribute to her former bandmate. Continue reading…",
-          "link": "https://loudwire.com/alanis-morissette-honors-former-bandmate-taylor-hawkins-onstage/",
-          "publishedOn": "2022-06-29T23:27:22.000Z",
-          "wordCount": 4364,
-          "title": "Alanis Morissette Honors Former Bandmate Taylor Hawkins Onstage",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-Untitled-design-2022-06-29T172644.214.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516268",
-          "author": "Chad Childers",
-          "description": "Step inside, walk this way. Continue reading…",
-          "link": "https://loudwire.com/local-coffee-shop-asks-def-leppard-perform-gets-reply-back/",
-          "publishedOn": "2022-06-29T20:43:21.000Z",
-          "wordCount": 4776,
-          "title": "Local Coffee Shop Asks Def Leppard to Perform, Gets a Reply Back",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-Coffee-Def-Leppard.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=515909",
-          "author": "Jordan Blum",
-          "description": "They were fooling us this whole time?! Continue reading…",
-          "link": "https://loudwire.com/rock-metal-musicians-go-by-middle-name/",
-          "publishedOn": "2022-06-29T19:22:48.000Z",
-          "wordCount": 4318,
-          "title": "12 Rockers You Maybe Didn’t Know Go By Their Middle Name",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-Fred-Durst-Bruce-Dickinson-Paul-McCartney.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516206",
-          "author": "Chad Childers",
-          "description": "Jimmy Fallon has a story too. Continue reading…",
-          "link": "https://loudwire.com/steve-carell-time-waited-on-look-alike-alice-cooper-restaurant/",
-          "publishedOn": "2022-06-29T18:05:55.000Z",
-          "wordCount": 4648,
-          "title": "Steve Carell Shares the Time He Waited on Look-Alike Alice Cooper",
-          "imageUrl": "https://townsquare.media/site/366/files/2016/06/Alice-Cooper-Steve-Carell1.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516183",
-          "author": "Todd Fooks",
-          "description": "This imitate set features rare covers. Continue reading…",
-          "link": "https://loudwire.com/metallica-show-ozzy-beatles-covers-release/",
-          "publishedOn": "2022-06-29T17:10:13.000Z",
-          "wordCount": 5164,
-          "title": "See Metallica Take On the Beatles and Ozzy in Unique Covers Set",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-Untitled-design-3.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516025",
-          "author": "Lauryn Schaffner",
-          "description": "A 26-year-old's account of a hair metal revival show. Continue reading…",
-          "link": "https://loudwire.com/the-stadium-tour-millennial-experience-hair-metal-motley-crue-def-leppard/",
-          "publishedOn": "2022-06-29T16:11:14.000Z",
-          "wordCount": 6715,
-          "title": "The Stadium Tour: A Young Millennial's Hair Metal Experience",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-def_leppard_live_2022.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516169",
-          "author": "Jared Linnen",
-          "description": "Linkin Park mastered the craft of genre bending. Continue reading…",
-          "link": "https://loudwire.com/biggest-heavy-band-all-time-linkin-park/",
-          "publishedOn": "2022-06-29T16:11:13.000Z",
-          "wordCount": 4504,
-          "title": "The Biggest Heavy Band of All Time",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-linkin-park-chester-bennington1.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516164",
-          "author": "Chad Childers",
-          "description": "29 and counting .... Continue reading…",
-          "link": "https://loudwire.com/shinedown-tie-record-most-top-10-songs-billboard-mainstream-rock-chart/",
-          "publishedOn": "2022-06-29T15:53:10.000Z",
-          "wordCount": 5218,
-          "title": "Shinedown Tie for Most Top 10 Songs on Mainstream Rock Chart",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/01/attachment-shinedown-2022.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516163",
-          "author": "Alicia Selin",
-          "description": "Avril Lavigne has addressed the conspiracy theory that she's actually a clone. Continue reading…",
-          "link": "https://loudwire.com/11-year-old-avril-lavigne-conspiracy-trending-again/",
-          "publishedOn": "2022-06-29T15:46:19.000Z",
-          "wordCount": 4358,
-          "title": "An 11-Year Old Avril Lavigne Conspiracy Theory Is Trending Again",
-          "imageUrl": "https://townsquare.media/site/366/files/2022/06/attachment-Untitled-design-2022-06-29T103103.236.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        },
-        {
-          "id": "https://loudwire.com/?p=516118",
-          "author": "Philip Trapp",
-          "description": "The duo said they have a responsibility to their fans. Continue reading…",
-          "link": "https://loudwire.com/nova-twins-response-roe-v-wade-overturned-supreme-court/",
-          "publishedOn": "2022-06-29T15:39:40.000Z",
-          "wordCount": 4547,
-          "title": "Nova Twins Address Roe v. Wade Debate on TV News Show",
-          "imageUrl": "https://townsquare.media/site/366/files/2021/10/attachment-nova_twins_live_2019.jpg?w=1200"
         }
       ]
     },
@@ -676,6 +706,106 @@
       "feedUrl": "https://www.hallofseries.com/feed/",
       "siteUrl": "https://www.hallofseries.com",
       "articles": [
+        {
+          "id": "https://www.hallofseries.com/?p=578210",
+          "author": "Annalisa Gabriele",
+          "description": "ATTENZIONE: l’articolo contiene grossi spoiler sugli ultimi due episodi della quarta stagione di Stranger Things. Avevamo sbuffato più o meno tutti di fronte alla notizia di dover attendere un mese in più per giungere alla conclusione della quarta stagione tanto attesa di Stranger Things. Nonostante fossimo a conoscenza della durata delle puntate, non eravamo convinti… Leggi tutto »Stranger Things – La recensione del finale della quarta stagione\nThe post Stranger Things – La recensione del finale della quarta stagione appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/recensioni/stranger-things-recensione-finale-quarta-stagione/",
+          "publishedOn": "2022-07-01T20:06:56.000Z",
+          "wordCount": 6821,
+          "title": "Stranger Things – La recensione del finale della quarta stagione",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/07/Immagine-9.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=578269",
+          "author": "Vincenzo Galdieri",
+          "description": "Amazon Prime Video dà, Amazon Prime Video toglie. Bentornati con la rubrica più temuta del mese, quella dove vi raccontiamo quante e quali serie tv verranno eliminate dalla piattaforma di Amazon Prime Video da qui al 31 Luglio 2022, nella fattispecie. Come tutti ben sapete, i servizi streaming dispongono sulle proprie piattaforme di contenuti originali autoprodotti (come… Leggi tutto »Amazon Prime Video cancella parecchie Serie Tv a Luglio: fuori Mad Men e altre 8, ecco tutta la lista\nThe post Amazon Prime Video cancella parecchie Serie Tv a Luglio: fuori Mad Men e altre 8, ecco tutta la lista appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/amazon-prime-video/amazon-prime-video-cancella-serie-luglio/",
+          "publishedOn": "2022-07-01T18:19:16.000Z",
+          "wordCount": 5897,
+          "title": "Amazon Prime Video cancella parecchie Serie Tv a Luglio: fuori Mad Men e altre 8, ecco tutta la lista",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2021/08/Mad-Men-Watches.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=578254",
+          "author": "Vincenzo Galdieri",
+          "description": "Ci risiamo. E’ un lavoro duro ma qualcuno dovrà pur farlo. Siamo qui a parlare delle serie cancellate da Netflix a Luglio 2022, ma anche dei film e in generale di tutti i contenuti in scadenza su Netflix in questo caldo mese estivo. Ogni mese ci troviamo di fronte a un’altalena: ci sono molte novità… Leggi tutto »Netflix, tutti i contenuti in scadenza a Luglio: addio a Dawson’s Creek e altri film e Serie Tv\nThe post Netflix, tutti i contenuti in scadenza a Luglio: addio a Dawson’s Creek e altri film e Serie Tv appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/netflix/serie-cancellate-netflix-luglio-2022/",
+          "publishedOn": "2022-07-01T17:06:07.000Z",
+          "wordCount": 6049,
+          "title": "Netflix, tutti i contenuti in scadenza a Luglio: addio a Dawson’s Creek e altri film e Serie Tv",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/03/Dawson.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=578125",
+          "author": "Annalisa Gabriele",
+          "description": "Il mondo seriale è un oceano pieno di pesci impossibili da notare nella loro singolarità. Ognuno di questi ha un colore proprio, ma tende a confondersi nell’abisso di un fondale così vasto da far paura. Per questo motivo, spesso, rimaniamo a galla, accanto a tutto quello che già conosciamo. Sono titoli caratterizzati da una forte… Leggi tutto »7 Serie Tv da vedere che (forse) non avete mai sentito nominare\nThe post 7 Serie Tv da vedere che (forse) non avete mai sentito nominare appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/consigliseriali/serie-tv-da-vedere-7-mai-nominare/",
+          "publishedOn": "2022-07-01T16:40:01.000Z",
+          "wordCount": 7344,
+          "title": "7 Serie Tv da vedere che (forse) non avete mai sentito nominare",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/07/serie-tv-da-vedere.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=578199",
+          "author": "Lidia Maltese",
+          "description": "Disney+ ha sicuramente sconvolto il mondo dello streaming cambiando anche le scelte dei suoi competitors. In un panorama ricco di serie tv e film originali, Disney+ si fa largo tra i vari cataloghi di Netflix che ogni settimana trasmette nuovi prodotti. In questo mese di luglio, Disney+ è pronto a lanciare nuovi contenuti, sempre più interessanti. Il… Leggi tutto »Disney+: tutte le novità in arrivo a Luglio 2022!\nThe post Disney+: tutte le novità in arrivo a Luglio 2022! appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/disney-5/disney-tutte-le-novita-in-arrivo-a-luglio-2022/",
+          "publishedOn": "2022-07-01T16:34:04.000Z",
+          "wordCount": 6464,
+          "title": "Disney+: tutte le novità in arrivo a Luglio 2022!",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/07/Disney.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=439100",
+          "author": "Serena Liggeri",
+          "description": "Le serie tv sono in grado di suscitare in ogni spettatore le emozioni più varie. Emozioni forti, vere ed estremamente potenti che ci riportano ai momenti più intensi della nostra vita, che ci permettono di esprimere i nostri sogni e le nostre paure più profonde. Molto spesso questi sentimenti sono celebrati tramite il racconto di… Leggi tutto »I 10 matrimoni più emozionanti nella storia delle Serie Tv\nThe post I 10 matrimoni più emozionanti nella storia delle Serie Tv appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/serie-tv/matrimoni-serie-tv-emozionanti/",
+          "publishedOn": "2022-07-01T11:34:00.000Z",
+          "wordCount": 7554,
+          "title": "I 10 matrimoni più emozionanti nella storia delle Serie Tv",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2021/03/matrimoni-serie-tv.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=578158",
+          "author": "Lidia Maltese",
+          "description": "Netflix chiama! Il mese è giunto al termine ma Netflix è stato di grande compagnia in questo interminabile giugno. Le serie tv in uscita sono tantissime e allo stesso tempo sono tante anche quelle cancellate dalla piattaforma per far spazio alle nuove. Per il mese di luglio il menù è davvero appetitoso. Il mese si apre con una… Leggi tutto »Netflix: tutte le novità in arrivo a Luglio 2022!\nThe post Netflix: tutte le novità in arrivo a Luglio 2022! appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/netflix/netflix-tutte-le-novita-in-arrivo-a-luglio-2022/",
+          "publishedOn": "2022-07-01T10:48:02.000Z",
+          "wordCount": 6906,
+          "title": "Netflix: tutte le novità in arrivo a Luglio 2022!",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/07/Netflix.jpg"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=351039",
+          "author": "Enrico Zicari",
+          "description": "Quando si parla di The O.C. non possiamo fare a meno di citare i protagonisti e ricordare tutte le scene più importanti o che sono rimaste nella nostra memoria. È normale non mantenere una memoria fresca su ogni singolo avvenimento della serie tv. In questo arduo compito ci è venuta però incontro Italia 1, che… Leggi tutto »5 attori famosissimi che hanno recitato in The O.C. (e forse non lo sapevi)\nThe post 5 attori famosissimi che hanno recitato in The O.C. (e forse non lo sapevi) appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/the-oc/the-oc-attori-famosissimi-comparsi/",
+          "publishedOn": "2022-07-01T08:42:00.000Z",
+          "wordCount": 6411,
+          "title": "5 attori famosissimi che hanno recitato in The O.C. (e forse non lo sapevi)",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2020/05/the-oc.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=575755",
+          "author": "Concetta Moschetta",
+          "description": "I generi delle serie tv sono numerosissimi, tra contaminazioni e prodotti che ne rispettano in maniera più fedele le caratteristiche. Alcuni sono apprezzabili da un pubblico molto più vasto, altri invece possono definirsi più di nicchia e incontrano solo il piacere della visione di una cerchia ristretta di spettatori. Il fantasy in questo discorso si… Leggi tutto »5 Serie Tv fantasy che ci sono rimaste nel cuore per le forti sfumature romantiche\nThe post 5 Serie Tv fantasy che ci sono rimaste nel cuore per le forti sfumature romantiche appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/serie-tv/serie-tv-fanyasy-cuore-sfumature-romantiche/",
+          "publishedOn": "2022-07-01T08:02:16.000Z",
+          "wordCount": 7318,
+          "title": "5 Serie Tv fantasy che ci sono rimaste nel cuore per le forti sfumature romantiche",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/03/buffy-lammazzavampiri-e1648549117464.png"
+        },
+        {
+          "id": "https://www.hallofseries.com/?p=383349",
+          "author": "Palma Vasta",
+          "description": "Sons of Anarchy è andata in onda dal 2008 al 2014, ma c’è chi l’ha conosciuta qualche anno dopo, chi la sta recuperando ancor ora e – soprattutto – chi periodicamente si lascia andare al rewatch. Infatti, nonostante sappiamo già quale sia la storia che accompagna Jax Teller dall’essere vicepresidente dei Samcro fino a diventarne… Leggi tutto »La classifica delle 5 puntate più struggenti di Sons of Anarchy\nThe post La classifica delle 5 puntate più struggenti di Sons of Anarchy appeared first on Hall of Series.",
+          "link": "https://www.hallofseries.com/sons-of-anarchy/sons-of-anarchy-puntate-struggenti/",
+          "publishedOn": "2022-07-01T07:29:00.000Z",
+          "wordCount": 6320,
+          "title": "La classifica delle 5 puntate più struggenti di Sons of Anarchy",
+          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2020/09/sons-of-anarchy.jpg"
+        },
         {
           "id": "https://www.hallofseries.com/?p=577951",
           "author": "Lidia Maltese",
@@ -745,56 +875,6 @@
           "wordCount": 5938,
           "title": "Stranger Things – Ecco A CHE ORA esce domani il finale della quarta stagione su Netflix!",
           "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/06/Stranger-Things-4.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=576629",
-          "author": "Fabiana Fanelli",
-          "description": "Vi ricordate le scuole medie? Quella parentesi imbarazzante fatta di Topexan per i brufoli, profumi di Aquolina allo zucchero a velo e improbabili scelte d’abbigliamento sicuramente audaci, ma proprio di scarso buon gusto. Bene, oggi vi condurrò in un viaggio che ci riporta indietro nel tempo, proprio ai tempi delle scuole medie. Perché mai? si… Leggi tutto »Di4ri: cronaca romantica dei ragazzi della 2D\nThe post Di4ri: cronaca romantica dei ragazzi della 2D appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/di4ri/di4ri-cronaca-ragazzi-netflix/",
-          "publishedOn": "2022-06-30T11:08:07.000Z",
-          "wordCount": 6965,
-          "title": "Di4ri: cronaca romantica dei ragazzi della 2D",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/06/di4ri-2022-06-29-alle-22.53.01-e1656536369724.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=537008",
-          "author": "Clotilde Formica",
-          "description": "Le serie tv ci hanno regalato storie d’amore indimenticabili, che anche all’ennesimo rewatch non smettono di scaldarci il cuore. Ma oggi non abbiamo intenzione di parlarvi di queste storie. Oggi vogliamo dedicare questo articolo a chi, come molti di noi comuni mortali e come Tommy Shelby di Peaky Blinders, è quasi perseguitato dalla sfortuna in… Leggi tutto »10 personaggi delle Serie Tv per cui l’amore è una vera e propria maledizione\nThe post 10 personaggi delle Serie Tv per cui l’amore è una vera e propria maledizione appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/serie-tv/peaky-blinders-10-serie-personaggi-amore-maledizione/",
-          "publishedOn": "2022-06-30T10:57:32.000Z",
-          "wordCount": 6864,
-          "title": "10 personaggi delle Serie Tv per cui l’amore è una vera e propria maledizione",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/06/personaggi-amore.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=577329",
-          "author": "Roberta De Vita",
-          "description": "Che se ne parli bene o male, Ricky Gervais è sempre sulla cresta dell’onda. Il noto comico inglese, celebre anche per il suo talento come attore, sceneggiatore, regista e produttore televisivo, è emerso sempre di più negli anni per la sua pungente quanto brillante satira, grazie alla quale ha imposto il suo pensiero (mai banale)… Leggi tutto »7 volte in cui Ricky Gervais ci è andato pesante con attori di film e Serie Tv\nThe post 7 volte in cui Ricky Gervais ci è andato pesante con attori di film e Serie Tv appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/film/ricky-gervais-7-volte-insulti-attori-film-serie/",
-          "publishedOn": "2022-06-30T10:40:51.000Z",
-          "wordCount": 6600,
-          "title": "7 volte in cui Ricky Gervais ci è andato pesante con attori di film e Serie Tv",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/06/ricky-gervais.jpg"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=577581",
-          "author": "Annalisa Gabriele",
-          "description": "Una Pezza Di Lundini è stato fin da subito quello di cui avevamo bisogno ma di cui non eravamo a conoscenza. Sarcasmo e spietata ironia sono stati gli ingredienti fondamentali e principali di questo grande successo targato Rai. Valerio Lundini, nel ruolo di presentatore scalmanato e confuso, è presto diventato uno dei volti giovanili più… Leggi tutto »Una Pezza di Lundini è stato cancellato: la Rai elimina il programma\nThe post Una Pezza di Lundini è stato cancellato: la Rai elimina il programma appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/una-pezza-di-lundini-cancellato-rai/",
-          "publishedOn": "2022-06-29T17:28:00.000Z",
-          "wordCount": 5894,
-          "title": "Una Pezza di Lundini è stato cancellato: la Rai elimina il programma",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/06/Immagine-170-e1656523829485.png"
-        },
-        {
-          "id": "https://www.hallofseries.com/?p=577518",
-          "author": "Lidia Maltese",
-          "description": "La vicenda che ha tenuto la stampa e i social impegnati per due settimane sembra non avere una fine. Il processo Depp-Heard ha attirato l’attenzione del pubblico di tutto il mondo. Il processo fra Amber Heard e l’ex marito Johnny Depp si è concluso con la vittoria di quest’ultimo, ma il caso sembra prendere ogni giorno una piega… Leggi tutto »Amber Heard ha provato a incastrare Johnny Depp? Una e-mail potrebbe dimostrarlo (FOTO)\nThe post Amber Heard ha provato a incastrare Johnny Depp? Una e-mail potrebbe dimostrarlo (FOTO) appeared first on Hall of Series.",
-          "link": "https://www.hallofseries.com/news/amber-heard-incastrare-johnny-depp/",
-          "publishedOn": "2022-06-29T16:15:22.000Z",
-          "wordCount": 5934,
-          "title": "Amber Heard ha provato a incastrare Johnny Depp? Una e-mail potrebbe dimostrarlo (FOTO)",
-          "imageUrl": "https://www.hallofseries.com/wp-content/uploads/2022/05/amber-heard-contro-johnny-depp.jpg"
         }
       ]
     },
@@ -812,66 +892,6 @@
           "wordCount": 3256,
           "title": "Recensione fumetto: URLO (Nel Buio + Progenie) di G. Ciapponi e L. Conca",
           "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/06/urlo-nel-buio-progenie-fumetto-2022.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=cinema&p=286553",
-          "author": "Gioia Majuna",
-          "description": "Nel 2001, il regista giapponese firmava un'opera animata sfaccettata e profonda, capace di andare oltre le apparenze di coming-of-age fantastico per ragazzini\nL'articolo Dossier: La Città Incantata di Hayao Miyazaki, una fiaba di formazione che attacca la modernità proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/cinema/dossier-la-citta-incantata-di-hayao-miyazaki/",
-          "publishedOn": "2022-06-30T10:22:07.000Z",
-          "wordCount": 4383,
-          "title": "Dossier: La Città Incantata di Hayao Miyazaki, una fiaba di formazione che attacca la modernità",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/06/la-citta-incantata-film-2001.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=cinema&p=286673",
-          "author": "Redazione Il Cineocchio",
-          "description": "In cabina di regia del film Rated R c'è l'esordiente Goran Stolevski \nL'articolo Trailer per Non Sarai Sola: Noomi Rapace è una strega nel folk horror macedone proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/cinema/trailer-per-non-sarai-sola-noomi-rapace-e-una-strega/",
-          "publishedOn": "2022-06-29T21:42:41.000Z",
-          "wordCount": 2623,
-          "title": "Trailer per Non Sarai Sola: Noomi Rapace è una strega nel folk horror macedone",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/06/non-sarai-sola-film-2022-noomi.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=tv&p=286665",
-          "author": "Marco Tedesco",
-          "description": "C'è sempre David Simon dietro le quinte (e molti attori sono gli stessi), ma bisogna andarci piano coi paragoni e le aspettative\nL'articolo We Own This City – Potere e Corruzione: la recensione della miniserie che studia da The Wire (su Sky) proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/tv/we-own-this-city-potere-e-corruzione-la-recensione-della-miniserie/",
-          "publishedOn": "2022-06-29T20:54:25.000Z",
-          "wordCount": 4439,
-          "title": "We Own This City – Potere e Corruzione: la recensione della miniserie che studia da The Wire (su Sky)",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/06/we-own-this-city-miniserie-HBO-2022-Jon-Bernthal.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=tv&p=286660",
-          "author": "Redazione Il Cineocchio",
-          "description": "Ci sono Camryn Jones, Riley Lai Nelet, Sofia Rosinsky e Fina Strazza tra i protagonisti dell'adattamento del fumetto sci-fi\nL'articolo Teaser per Paper Girls (serie Prime): si viaggia nel tempo alla maniera di Brian K. Vaughan proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/tv/teaser-per-paper-girls-serie-prime-si-viaggia-nel-tempo/",
-          "publishedOn": "2022-06-29T15:34:06.000Z",
-          "wordCount": 2744,
-          "title": "Teaser per Paper Girls (serie Prime): si viaggia nel tempo alla maniera di Brian K. Vaughan",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/06/paper-girls-serie-2022.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=tv&p=286657",
-          "author": "Redazione Il Cineocchio",
-          "description": "Giunge al termine l'epopea di Baba Voss\nL'articolo Teaser per See, stagione 3 (serie Apple TV+): il tempo delle tenebre sta per finire per Jason Momoa proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/tv/teaser-per-see-stagione-3-serie-apple-tv-il-tempo-delle-tenebre/",
-          "publishedOn": "2022-06-29T14:58:37.000Z",
-          "wordCount": 2280,
-          "title": "Teaser per See, stagione 3 (serie Apple TV+): il tempo delle tenebre sta per finire per Jason Momoa",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/06/see-stagione-3-2022-momoa.jpg"
-        },
-        {
-          "id": "https://www.ilcineocchio.it/?post_type=cinema&p=286489",
-          "author": "Gioia Majuna",
-          "description": "Zac Efron il dedicato protagonista di un survival thriller australiano cupo e disperato,\nL'articolo Gold: la recensione del film di – e con – Anthony Hayes proviene da Il Cineocchio.",
-          "link": "https://www.ilcineocchio.it/cinema/gold-la-recensione-del-film-di-e-con-anthony-hayes/",
-          "publishedOn": "2022-06-29T13:00:07.000Z",
-          "wordCount": 3533,
-          "title": "Gold: la recensione del film di – e con – Anthony Hayes",
-          "imageUrl": "https://www.ilcineocchio.it/cine/wp-content/uploads/2022/06/gold-film-2022-zac-efron.jpg"
         }
       ]
     },
@@ -880,6 +900,156 @@
       "feedUrl": "https://www.loudersound.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=loudersound",
       "articles": [
+        {
+          "id": "WUaaijhSWUriGeo8tbbBR9",
+          "author": null,
+          "description": "From Bloodbath and Bleeding Through to Oceans Ate Alaska and Dub War, these are the week’s best new tracks. Plus: vote for your favourite!",
+          "link": "https://www.loudersound.com/features/the-10-best-new-metal-songs-bloodbath-brutus-shinedown",
+          "publishedOn": "2022-07-01T19:08:10.000Z",
+          "wordCount": 7502,
+          "title": "The 10 best new metal songs you need to hear right now",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/2NG94nPcm2LWd6hDAm7p8a.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/2NG94nPcm2LWd6hDAm7p8a.jpg"
+        },
+        {
+          "id": "cYypK9jQpQBmL4RM6zkpJK",
+          "author": null,
+          "description": "\"Mad shit happens when you do art\" say Yard Act as Elton John revamps The Overload album track 100% Endurance",
+          "link": "https://www.loudersound.com/news/listen-to-elton-john-playing-piano-for-yorkshire-post-punks-yard-act-on-100-endurance",
+          "publishedOn": "2022-07-01T17:02:18.000Z",
+          "wordCount": 7313,
+          "title": "Listen to Elton John playing piano for Yorkshire post-punks Yard Act on 100% Endurance",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/LqDim7yhpvbVFzn2rqLG5K.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/LqDim7yhpvbVFzn2rqLG5K.jpeg"
+        },
+        {
+          "id": "FuAxQHxeUu79txgStqWSQA",
+          "author": null,
+          "description": "Porcupine Tree also hit the No. 1 spot in German and Netherlands with comeback album Closure/Continuation",
+          "link": "https://www.loudersound.com/news/porcupine-tree-score-highest-ever-uk-chart-position-for-closurecontinuation",
+          "publishedOn": "2022-07-01T17:02:03.000Z",
+          "wordCount": 7008,
+          "title": "Porcupine Tree score highest ever UK chart position for Closure/Continuation",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/A7uVrk5kQNiNrqXfxgMFD9.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/A7uVrk5kQNiNrqXfxgMFD9.jpg"
+        },
+        {
+          "id": "wRE4Bv2XDQauyc3ERFoZhZ",
+          "author": null,
+          "description": "The Prodigy will release a special 25th anniversary edition of their 10 million-selling The Fat Of The Land album on November 4",
+          "link": "https://www.loudersound.com/news/listen-to-a-new-remix-of-firestarter-from-the-prodigys-25th-anniversary-edition-of-the-fat-of-the-land",
+          "publishedOn": "2022-07-01T15:45:23.000Z",
+          "wordCount": 7117,
+          "title": "Listen to a new remix of Firestarter from The Prodigy's 25th anniversary edition of The Fat Of The Land",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/LkjrSx8UXA2ACvFhG3kxGU.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/LkjrSx8UXA2ACvFhG3kxGU.jpg"
+        },
+        {
+          "id": "tSGQWQdofUykKUraJ8GTze",
+          "author": "merlin.alderslade@futurenet.com (Merlin Alderslade)",
+          "description": "Legendary rapper and Body Count frontman Ice T and Megadeth icon Dave Mustaine go back three whole decades",
+          "link": "https://www.loudersound.com/news/dave-mustaine-ice-t-bffs",
+          "publishedOn": "2022-07-01T15:30:50.000Z",
+          "wordCount": 7536,
+          "title": "\"I said, 'I gotta meet this guy'\" - why Dave Mustaine and Ice T became BFFs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/6dhwn6PfYHeQWyvub9rJhm.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6dhwn6PfYHeQWyvub9rJhm.jpg"
+        },
+        {
+          "id": "qZaCvJ8n9w5ZeVhsdrUHXA",
+          "author": null,
+          "description": "Dark Tranquillity vocalist (and all-round Gothenburg legend) Mikael Stanne picks the ten gore-dripping death metal albums that changed his life",
+          "link": "https://www.loudersound.com/features/mikael-stanne-10-records-that-changed-my-life",
+          "publishedOn": "2022-07-01T15:28:33.000Z",
+          "wordCount": 7559,
+          "title": "Mikael Stanne: 10 records that changed my life",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/MSbkLykr9rYpmp3qXiTPpN.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/MSbkLykr9rYpmp3qXiTPpN.jpg"
+        },
+        {
+          "id": "5DjnPenYjq6PKy7vBirmhe",
+          "author": null,
+          "description": "If you were wondering what song Eddie Munson is shredding in Stranger Things, well, we have the answer: \"It's an inspired choice\" actor Joseph Quinn tells us",
+          "link": "https://www.loudersound.com/news/the-mystery-of-which-song-features-that-guitar-solo-in-the-new-stranger-things-has-been-solved-and-its-metal-af",
+          "publishedOn": "2022-07-01T15:18:16.000Z",
+          "wordCount": 7279,
+          "title": "The mystery of which song features THAT guitar solo in the new Stranger Things has been solved, and it's metal AF",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/daLTYALrnRhPmYJAzLCCu.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/daLTYALrnRhPmYJAzLCCu.jpeg"
+        },
+        {
+          "id": "dHmRcsnphV32kf8LUWp3Fk",
+          "author": null,
+          "description": "Moses Mikheyev will release his debut solo album I Only Have A Hundred Years To Love You in early 2023",
+          "link": "https://www.loudersound.com/news/check-out-russian-american-progger-moses-mikheyevs-new-song-hollywood-hills",
+          "publishedOn": "2022-07-01T14:56:18.000Z",
+          "wordCount": 6970,
+          "title": "Check out Russian American progger Moses Mikheyev's new song Hollywood Hills",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/fW5rAY5DiSsCjvbZhwX4ZZ.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/fW5rAY5DiSsCjvbZhwX4ZZ.jpg"
+        },
+        {
+          "id": "wqktk2Zb753tur4nuzvUDZ",
+          "author": null,
+          "description": "Before they became one of metal's most divisive bands, Limp Bizkit's debut singled them out as one of heavy music's most exciting young names",
+          "link": "https://www.loudersound.com/features/three-dollar-bill-yall-25",
+          "publishedOn": "2022-07-01T14:40:23.000Z",
+          "wordCount": 7982,
+          "title": "Three Dollar Bill, Y'all at 25: why Limp Bizkit's riotous debut album might just be their best",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/qgFequcX3rxz87h4waorxC.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/qgFequcX3rxz87h4waorxC.jpg"
+        },
+        {
+          "id": "8hmhdhttYqAcqX8bnHUM6N",
+          "author": null,
+          "description": "Ever wondered what Beastie Boys would sound like produced by The Prodigy's Liam Howlett? Then check out Startafight by Joey Valance and Brae",
+          "link": "https://www.loudersound.com/news/startafight-by-joey-valence-and-brae-sounds-like-the-most-raucous-beastie-boys-single-since-sabotage",
+          "publishedOn": "2022-07-01T14:09:40.000Z",
+          "wordCount": 6979,
+          "title": "Startafight by Joey Valence and Brae sounds like the most raucous Beastie Boys' single since Sabotage",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/RATakaA6HrrutGFuqGtFjU.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/RATakaA6HrrutGFuqGtFjU.jpeg"
+        },
         {
           "id": "GJYvCehQZYjtBEXtytNBpG",
           "author": null,
@@ -1029,156 +1199,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/DtePbxHAoZCEWLfAS9pRcW.jpg"
-        },
-        {
-          "id": "VEKme3jb9H6Vz2xCZyodK8",
-          "author": null,
-          "description": "Bill Ward was an integral part of Black Sabbath and of heavy metal’s genesis. In conversation with Classic Rock, he reflects on his eventful life thus far and his piles of unreleased albums",
-          "link": "https://www.loudersound.com/features/bill-ward-has-made-a-masterpiece-and-no-one-wants-to-release-it",
-          "publishedOn": "2022-06-30T00:03:37.000Z",
-          "wordCount": 10006,
-          "title": "Bill Ward has made a masterpiece and no one wants to release it",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/DSBDBn4biY3kTX9fPpXShc.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/DSBDBn4biY3kTX9fPpXShc.jpg"
-        },
-        {
-          "id": "xuHGnkyhxJeqZSKVBhUSTd",
-          "author": null,
-          "description": "UK prog rockers The Might Bard will release new album Beyond The Gate in October",
-          "link": "https://www.loudersound.com/news/the-mighty-bard-stream-brand-new-single-magician",
-          "publishedOn": "2022-06-29T19:14:45.000Z",
-          "wordCount": 7780,
-          "title": "The Mighty Bard stream brand new single Magician",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/dRkEdSSecGHdR76wLebaPa.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/dRkEdSSecGHdR76wLebaPa.jpg"
-        },
-        {
-          "id": "uEdtCLqYcNsUKaCh9S33mH",
-          "author": "elizabeth.capewell@futurenet.com (Liz Scarlett)",
-          "description": "Mötley Crüe drummer Tommy Lee is finally fully back in action after breaking his ribs prior to the Stadium Tour",
-          "link": "https://www.loudersound.com/news/tommy-lee-plays-first-full-set-with-motley-crue-since-breaking-his-ribs",
-          "publishedOn": "2022-06-29T16:47:21.000Z",
-          "wordCount": 8295,
-          "title": "Tommy Lee plays first full set with Mötley Crüe since breaking his ribs",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/7eSscv64zq5joCYPMVSViC.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7eSscv64zq5joCYPMVSViC.jpg"
-        },
-        {
-          "id": "TZVRw4drUBG95oE6LochYc",
-          "author": null,
-          "description": "From mathcore digit-snappers to the Cayman Island resident working with Iggy Pop and Randy Blythe, this is the best new noise around right now",
-          "link": "https://www.loudersound.com/features/5-new-bands-you-need-to-hear-june-2022",
-          "publishedOn": "2022-06-29T16:38:55.000Z",
-          "wordCount": 9271,
-          "title": "5 new bands you need to hear this month",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/Akm2SjUVUrpqDpBC74b2xg.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Akm2SjUVUrpqDpBC74b2xg.jpg"
-        },
-        {
-          "id": "C8hrVPj5B2DABAgDcSKSRJ",
-          "author": null,
-          "description": "Simon Cowell hails Canada's Dremeka Choir for their \"fantastically creepy\" audition on America's Got Talent",
-          "link": "https://www.loudersound.com/news/watch-a-death-metal-choir-terrify-americas-got-talent-judges-with-a-demonic-take-on-britney-spears-toxic",
-          "publishedOn": "2022-06-29T16:21:06.000Z",
-          "wordCount": 7971,
-          "title": "Watch a death metal choir terrify America's Got Talent judges with a demonic take on Britney Spears' Toxic",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/qPRWQuJZKRFbVq2igF2WGZ.jpeg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/qPRWQuJZKRFbVq2igF2WGZ.jpeg"
-        },
-        {
-          "id": "5AF5j4HmyiK63qsai69dJP",
-          "author": null,
-          "description": "Poll-winning French proggers Esthesis will release their second album Watching Worlds Collide in August",
-          "link": "https://www.loudersound.com/news/esthesis-announce-second-album-watching-worlds-collide",
-          "publishedOn": "2022-06-29T15:51:21.000Z",
-          "wordCount": 7801,
-          "title": "Esthesis announce second album Watching Worlds Collide",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/tmxFE9KREiriRuf26QpiHM.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/tmxFE9KREiriRuf26QpiHM.jpg"
-        },
-        {
-          "id": "UExA7BpTXnFLCBJBJ56HSS",
-          "author": "elizabeth.capewell@futurenet.com (Liz Scarlett)",
-          "description": "Raised on disco and hiphop, Nathan Brown is finally discovering rock music and he's become a viral sensation from making hilarious reaction videos",
-          "link": "https://www.loudersound.com/news/lifelong-hip-hop-fan-listens-to-system-of-a-downs-chop-suey-for-the-very-first-time-and-his-reaction-is-brilliant",
-          "publishedOn": "2022-06-29T14:55:16.000Z",
-          "wordCount": 8187,
-          "title": "Lifelong hip hop fan listens to System Of A Down's Chop Suey for the very first time and his reaction is brilliant",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/pJYKsHYsNbaShyanKnkAk.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/pJYKsHYsNbaShyanKnkAk.png"
-        },
-        {
-          "id": "RWFH8yVxJ6KgHc4BRmxmKi",
-          "author": null,
-          "description": "Iggy Pop and Danny Elfman issue Kick Me as the lead single from Elfman's forthcoming Bigger.Messier. album",
-          "link": "https://www.loudersound.com/news/listen-to-iggy-pop-and-danny-elfmans-savage-critique-of-celebrity-and-fame-on-kick-me",
-          "publishedOn": "2022-06-29T14:19:21.000Z",
-          "wordCount": 7950,
-          "title": "Listen to Iggy Pop and Danny Elfman's savage critique of celebrity and fame on Kick Me",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/c5VvweRzw9DaqEu9FXoxfC.jpeg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/c5VvweRzw9DaqEu9FXoxfC.jpeg"
-        },
-        {
-          "id": "htj4DMJ6QTG8kLeFCRUWGW",
-          "author": null,
-          "description": "Oceans Of Slumber vocalist Cammie Gilbert talks capybaras, Black Lives Matter and run-ins with cults",
-          "link": "https://www.loudersound.com/features/oceans-of-slumbers-cammie-gilbert-my-dad-was-the-choir-director-for-a-cult",
-          "publishedOn": "2022-06-29T14:00:39.000Z",
-          "wordCount": 8259,
-          "title": "Oceans Of Slumber's Cammie Gilbert: \"My dad was the choir director for a cult\"",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/YKqvfb22Frmc6L6QrNSz2f.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/YKqvfb22Frmc6L6QrNSz2f.jpg"
-        },
-        {
-          "id": "pxhQQkc79AZmccvqEMEd5m",
-          "author": null,
-          "description": "Jellyfish will release the seven disc vinyl box set When These Memories Fade in September",
-          "link": "https://www.loudersound.com/news/jellyfish-release-video-trailer-for-new-vinyl-box-set",
-          "publishedOn": "2022-06-29T13:58:30.000Z",
-          "wordCount": 8131,
-          "title": "Jellyfish release video trailer for new vinyl box set",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/knpMed9BMdYEiHFCQmkpke.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/knpMed9BMdYEiHFCQmkpke.png"
         }
       ]
     },
@@ -1193,6 +1213,106 @@
       "feedUrl": "https://www.cinematographe.it/feed/",
       "siteUrl": "https://www.cinematographe.it",
       "articles": [
+        {
+          "id": "https://www.cinematographe.it/?p=908758",
+          "author": "Martina Volonté",
+          "description": "Nel primo Avatar Sigourney Weaver ha interpretato la dottoressa Grace Augustine, un’esobiologa e capo del Programma Avatar sul pianeta Pandora. Nonostante nel finale del primo…\nL'articolo Avatar 2: La Via dell’Acqua, svelato il personaggio di Sigourney Weaver (e vi sorprenderà) proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/avatar-2-la-via-dell-acqua-personaggio-sigourney-weaver/",
+          "publishedOn": "2022-07-01T21:05:33.000Z",
+          "wordCount": 2474,
+          "title": "Avatar 2: La Via dell’Acqua, svelato il personaggio di Sigourney Weaver (e vi sorprenderà)",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2017/10/Avatar-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908749",
+          "author": "Martina Volonté",
+          "description": "Joe Turkel, prolifico attore caratterista noto per i suoi ruoli in The Shining e Blade Runner, è morto lunedì scorso (27 giugno) al St. John’s…\nL'articolo È morto Joe Turkel, l’indimenticabile barman di The Shining proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/morto-joe-turkel-indimenticabile-barman-the-shining/",
+          "publishedOn": "2022-07-01T20:28:55.000Z",
+          "wordCount": 2434,
+          "title": "È morto Joe Turkel, l’indimenticabile barman di The Shining",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/07/MV5BNmEyZWY4MDktNDkyOS00MDUxLTg3ZWUtNmI2YmFiOTcyYjk0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908741",
+          "author": "Martina Volonté",
+          "description": "Il prossimo capitolo del Marvel Cinematic Universe è Thor: Love and Thunder, che arriverà finalmente nei cinema la prossima settimana. Il film dei Marvel Studios…\nL'articolo Thor: Love and Thunder, il nuovo trailer si concentra sul viaggio personale di Thor proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/trailer/thor-love-and-thunder-nuovo-trailer-viaggio-personale-thor/",
+          "publishedOn": "2022-07-01T19:56:22.000Z",
+          "wordCount": 2584,
+          "title": "Thor: Love and Thunder, il nuovo trailer si concentra sul viaggio personale di Thor",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/05/thor4sydney-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908731",
+          "author": "Martina Volonté",
+          "description": "Chace Crawford – che nella serie di punta di Prime Video The Boys interpreta The Deep – ha scherzosamente detto che, a causa delle azioni…\nL'articolo The Boys: Chace Crawford non può più visitare gli acquari dopo la famigerata scena dell’Herogasm! proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/serie-tv/the-boys-chace-crawford-non-puo-piu-visitare-gli-acquari-dopo-scena-herogasm/",
+          "publishedOn": "2022-07-01T19:26:54.000Z",
+          "wordCount": 2439,
+          "title": "The Boys: Chace Crawford non può più visitare gli acquari dopo la famigerata scena dell’Herogasm!",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/07/the-boys-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908624",
+          "author": "Giorgia Terranova",
+          "description": "Davide e Golia, diretto dai fratelli Wallace, è un film ispirato alla vicenda biblica di Davide e Golia, e che racconta, come antefatto, l’incontro tra…\nL'articolo Davide e Golia: la storia vera del film ispirato alle vicende bibliche proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/rubriche-cinema/focus/davide-e-golia-la-storia-vera-del-film-ispirato-alle-vicende-bibliche/",
+          "publishedOn": "2022-07-01T18:29:17.000Z",
+          "wordCount": 2696,
+          "title": "Davide e Golia: la storia vera del film ispirato alle vicende bibliche",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/07/Davide-e-Golia-film-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908711",
+          "author": "Danilo Gargano",
+          "description": "Il volume 2 della quarta stagione di Stranger Things ha debuttato su Netflix stamani. Che l’ottavo e il nono episodio – della durata rispettivamente di…\nL'articolo Stranger Things – Stagione 4, Vol. 2: al momento del rilascio, Netflix è andato in crash! proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/stranger-things-stagione-4-volume-2-netflix-crash-a-causa-dei-nuovi-episodi/",
+          "publishedOn": "2022-07-01T17:05:37.000Z",
+          "wordCount": 2316,
+          "title": "Stranger Things – Stagione 4, Vol. 2: al momento del rilascio, Netflix è andato in crash!",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/07/Perche-la-strategia-di-rilascio-diviso-della-stagione-4-di-1-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908701",
+          "author": "Manuel Magarini",
+          "description": "Presentato alla Festa del Cinema di Roma, Morto tra una settimana… o ti ridiamo i soldi è un film di Tom Edmunds uscito nel 2018.…\nL'articolo Morto tra una settimana… o ti ridiamo i soldi: trama e cast del film di Tom Edmunds proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/morto-tra-una-settimana-o-ti-ridiamo-i-soldi-trama-cast/",
+          "publishedOn": "2022-07-01T15:51:59.000Z",
+          "wordCount": 2421,
+          "title": "Morto tra una settimana… o ti ridiamo i soldi: trama e cast del film di Tom Edmunds",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/07/Morto-tra-una-settimana-o-ti-ridiamo-i-soldi-3-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908409",
+          "author": "Caterina Sabato",
+          "description": "Max Giusti torna a doppiare il cattivissimo Gru nel nuovo capitolo della saga dei Minions: Minions 2: Come Gru diventa Cattivissimo, in anteprima l’8, 9…\nL'articolo Minions 2 – Max Giusti svela perché doppiare Gru è stato difficilissimo [VIDEO] proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/rubriche-cinema/max-giusti-intervista-minions-2-voce-di-gru/",
+          "publishedOn": "2022-07-01T15:30:00.000Z",
+          "wordCount": 2515,
+          "title": "Minions 2 – Max Giusti svela perché doppiare Gru è stato difficilissimo [VIDEO]",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/max-giusti-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908656",
+          "author": "Danilo Gargano",
+          "description": "Nel corso della sua vita, Winona Ryder ha avuto diversi amori importanti: dal 1988 al 1989 è stata fidanzata con l’attore Christian Slater, dal 1993 al…\nL'articolo Winona Ryder ricorda la sua rottura con Johnny Depp: “È stato il mio momento Ragazze Interrotte nella vita reale” proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/news/winona-ryder-johnny-depp-rottura-e-stato-il-mio-momento-ragazze-interrotte-nella-vita-reale/",
+          "publishedOn": "2022-07-01T15:08:39.000Z",
+          "wordCount": 2580,
+          "title": "Winona Ryder ricorda la sua rottura con Johnny Depp: “È stato il mio momento Ragazze Interrotte nella vita reale”",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/07/winona_vidpic_062716_1280Copy2-1200x628.jpg"
+        },
+        {
+          "id": "https://www.cinematographe.it/?p=908542",
+          "author": "Luciano Attinà",
+          "description": "Il Biografilm Festival 2022 ha ospitato l’anteprima italiana dell’ultimo lavoro di Ulrich Seidl, Rimini. Per quest’opera l’autore austriaco, dopo l’interessante documentario Im Keller (2014) e…\nL'articolo Biografilm 2022 – Rimini: recensione del film di Ulrich Seidl proviene da Cinematographe.it.",
+          "link": "https://www.cinematographe.it/recensioni/rimini-recensione-film-ulrich-seidl/",
+          "publishedOn": "2022-07-01T14:00:00.000Z",
+          "wordCount": 2986,
+          "title": "Biografilm 2022 – Rimini: recensione del film di Ulrich Seidl",
+          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/07/Rimini_ITA_web-scaled-1-1200x628.jpg"
+        },
         {
           "id": "https://www.cinematographe.it/?p=908483",
           "author": "Martina Volonté",
@@ -1292,106 +1412,6 @@
           "wordCount": 2393,
           "title": "Into the Ashes – Storia criminale: trama, trailer e cast del film con Frank Grillo",
           "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/Into-the-Ashes-1-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907979",
-          "author": "Massimiliano Meucci",
-          "description": "The Boys è sicuramente una delle serie più interessanti, sboccate e alternative degli ultimi anni: il titolo di Eric Kripke (Supernatural, Il mistero della casa…\nL'articolo The Boys: Patriota risponde alle accuse di un Starlight in un geniale comunicato stampa proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/news/the-boys-patriota-risponde-accuse-starlight-post-fittizio/",
-          "publishedOn": "2022-06-29T21:52:02.000Z",
-          "wordCount": 2385,
-          "title": "The Boys: Patriota risponde alle accuse di un Starlight in un geniale comunicato stampa",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2020/10/the-boys-2-finale-homelander-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907970",
-          "author": "Massimiliano Meucci",
-          "description": "Ms. Marvel è il nuovo prodotto seriale del Marvel Cinematic Universe che introduce, all’interno dell’ampio mondo de La Casa delle Idee, una nuova supereroina, ovvero…\nL'articolo Ms. Marvel: il parere di Kevin Smith è molto positivo! proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/news/ms-marvel-parere-kevin-smith-molto-positivo/",
-          "publishedOn": "2022-06-29T21:27:25.000Z",
-          "wordCount": 2295,
-          "title": "Ms. Marvel: il parere di Kevin Smith è molto positivo!",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/03/44ED1C74-4817-48F2-9F3A-D9DBD3C051BE-e1647504589805-1200x628.jpeg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907957",
-          "author": "Massimiliano Meucci",
-          "description": "Chris Evans è un attore, regista e produttore cinematografico americano che oramai ha raggiunto una fama realmente spropositata per aver incarnato, all’interno del Marvel Cinematic…\nL'articolo Chris Evans spiega come mai il ritorno del suo Captain America è potenzialmente sconvolgente! proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/news/chris-evans-ritorno-captain-america-potenzialmente-sconvolgente/",
-          "publishedOn": "2022-06-29T20:55:06.000Z",
-          "wordCount": 2421,
-          "title": "Chris Evans spiega come mai il ritorno del suo Captain America è potenzialmente sconvolgente!",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2019/06/chris-evans-captain-america-difficolta-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907944",
-          "author": "Massimiliano Meucci",
-          "description": "Obi-Wan Kenobi è una delle serie più chiacchierate del momento: lo show, diretto da Deborah Chow (che aveva già lavorato nel mondo di Star Wars…\nL'articolo Obi-Wan Kenobi: la storyline di Reva e quel finale inizialmente oscuro proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/news/obi-wan-kenobi-storyline-reva-diversa-finale-oscuro/",
-          "publishedOn": "2022-06-29T20:25:22.000Z",
-          "wordCount": 2302,
-          "title": "Obi-Wan Kenobi: la storyline di Reva e quel finale inizialmente oscuro",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/Kenobi-Conferenza-04-1280x720-1-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907927",
-          "author": "Massimiliano Meucci",
-          "description": "Tom Hanks è uno dei volti più noti e leggendari della Hollywood contemporanea: l’uomo, classe 1956, ha alle spalle una carriera artistica sconfinata, cominciata nel…\nL'articolo Tom Hanks: Forrest Gump e l’incredibile rivelazione sulle scene della panchina proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/news/tom-hanks-forrest-gump-scena-panchina-curiosita/",
-          "publishedOn": "2022-06-29T19:50:11.000Z",
-          "wordCount": 2374,
-          "title": "Tom Hanks: Forrest Gump e l’incredibile rivelazione sulle scene della panchina",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2020/12/tom-hanks3-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907907",
-          "author": "Massimiliano Meucci",
-          "description": "Kaos è un progetto Netflix tra i più peculiari e particolari della piattaforma streaming: l’opera, che è stata ordinata ben 4 anni fa, è finita…\nL'articolo Kaos: svelato l’attore che interpreterà Zeus! proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/serie-tv/kaos-svelato-attore-zeus/",
-          "publishedOn": "2022-06-29T19:11:06.000Z",
-          "wordCount": 2229,
-          "title": "Kaos: svelato l’attore che interpreterà Zeus!",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/38836_hd-1280x720-1-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907889",
-          "author": "Giorgia Terranova",
-          "description": "Il remake sudcoreano della popolare serie tv spagnola, La casa di carta: Corea, sta già avendo molto seguito e gli utenti Netflix hanno portato lo…\nL'articolo La Casa di Carta: Corea – il significato e la storia dietro alla maschera della banda proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/focus-serie/la-casa-di-carta-corea-il-significato-e-la-storia-dietro-alla-maschera-della-banda/",
-          "publishedOn": "2022-06-29T18:25:00.000Z",
-          "wordCount": 2702,
-          "title": "La Casa di Carta: Corea – il significato e la storia dietro alla maschera della banda",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/La-casa-di-carta-corea_cinematog-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907884",
-          "author": "Danilo Gargano",
-          "description": "The Threesome è una commedia romantica che esplora le conseguenze di una decisione impulsiva e apparentemente innocua Come riporta in esclusiva Deadline, Logan Lerman e…\nL'articolo The Threesome: Logan Lerman e Phoebe Dynevor protagonisti della commedia romantica proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/news/the-threesome-logan-lerman-phoebe-dynevor-protagonisti/",
-          "publishedOn": "2022-06-29T17:18:23.000Z",
-          "wordCount": 2252,
-          "title": "The Threesome: Logan Lerman e Phoebe Dynevor protagonisti della commedia romantica",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/Logan-Lerman-Phoebe-Dynevor-1-1200x628.jpg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907693",
-          "author": "Francesco Del Grosso",
-          "description": "Nella pellicola di Martin Sofiedal, la Terra deve resistere a un’invasione di alieni-zombie. Il destino del mondo è tutto nelle mani di due campioni di laser tag. La recensione della sci-fi comedy norvegese, distribuita dal 28 giugno 2022 su Netflix.     \nL'articolo Blasted – In due contro gli alieni: recensione del film Netflix proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/recensioni/blasted-in-due-contro-gli-alieni-recensione/",
-          "publishedOn": "2022-06-29T17:10:00.000Z",
-          "wordCount": 2856,
-          "title": "Blasted – In due contro gli alieni: recensione del film Netflix",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/Blasted-2-1200x628.jpeg"
-        },
-        {
-          "id": "https://www.cinematographe.it/?p=907820",
-          "author": "Caterina Sabato",
-          "description": "Presentato in concorso alla 68esima edizione del Taormina Film Fest, Io e Spotty, opera seconda di Cosimo Gomez, vede protagonisti Filippo Scotti e Michela De…\nL'articolo Taormina 68 – Io e Spotty: recensione del film di Cosimo Gomez proviene da Cinematographe.it.",
-          "link": "https://www.cinematographe.it/recensioni/io-e-spotty-recensione-film/",
-          "publishedOn": "2022-06-29T17:00:00.000Z",
-          "wordCount": 2738,
-          "title": "Taormina 68 – Io e Spotty: recensione del film di Cosimo Gomez",
-          "imageUrl": "https://www.cinematographe.it/wp-content/uploads/2022/06/Io-e-Spotty_F.Scotti-M.De-Rossi_Photo-credit-Nicole-Manetti_DSCF8409-1-1200x628.jpg"
         }
       ]
     }
