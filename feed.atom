@@ -2,10 +2,556 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/musica-cinema/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-07T00:52:31.263Z</updated>
+    <updated>2022-07-08T00:52:30.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sovy666.github.io/musica-cinema/index.html"/>
     <link rel="self" href="https://sovy666.github.io/musica-cinema/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The story of Manny Charlton and the birth of Appetite For Destruction]]></title>
+        <id>sJsKRhth77fbs7iu77ET2c</id>
+        <link href="https://www.loudersound.com/features/the-story-of-manny-charlton-and-the-birth-of-appetite-for-destruction"/>
+        <updated>2022-07-08T00:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Late Nazareth guitarist Manny Charlton was at the desk when Guns N' Roses recorded many of their classic songs for the first time - this is the story of the Sound City Studios sessions]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cult launch Under The Midnight Sun album with Give Me Mercy video]]></title>
+        <id>8GFzz9bYKCxAntgLLamWEm</id>
+        <link href="https://www.loudersound.com/news/the-cult-launch-under-the-midnight-sun-album-with-give-me-mercy-video"/>
+        <updated>2022-07-07T23:40:40.000Z</updated>
+        <summary type="html"><![CDATA[The Cult's new album Under The Midnight Sun is inspired by "finding and uniting beauty" in "strangely natural moments" says Ian Astbury]]></summary>
+        <author>
+            <name>fraser.lewry@futurenet.com (Fraser Lewry)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steven Yeun si unisce a Robert Pattinson nel film di Bong Joon-Ho]]></title>
+        <id>https://www.cinematographe.it/?p=910512</id>
+        <link href="https://www.cinematographe.it/news/steven-yeun-cast-film-bong-joon-ho/"/>
+        <updated>2022-07-07T23:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Steven Yeun coprirà il ruolo di protagonista del nuovo film sci-fi di Bong Joon Ho (regista di film premiati all’Oscar come Parasite) ancora privo di un titolo…
+L'articolo Steven Yeun si unisce a Robert Pattinson nel film di Bong Joon-Ho proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Wars: cominciano le riprese della serie TV con Jude Law]]></title>
+        <id>https://www.cinematographe.it/?p=910509</id>
+        <link href="https://www.cinematographe.it/serie-tv/star-wars-serie-tv-jude-law-inizio-riprese/"/>
+        <updated>2022-07-07T22:52:17.000Z</updated>
+        <summary type="html"><![CDATA[La produzione ufficiale firmata LucasFilms per la serie TV Skeleton Crew è ufficialmente iniziata: secondo un report firmato da The Bespin Bullettin, lo show misterioso…
+L'articolo Star Wars: cominciano le riprese della serie TV con Jude Law proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen to Eric Clapton’s New Song 'Pompous Fool']]></title>
+        <id>https://ultimateclassicrock.com/?p=524171</id>
+        <link href="https://ultimateclassicrock.com/eric-clapton-pompous-fool/"/>
+        <updated>2022-07-07T22:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Tune was surprise-released without any explanation, though fans online believe they know what it's about.  Continue reading…]]></summary>
+        <author>
+            <name>Corey Irwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thor: Love and Thunder quando esce su Disney+?]]></title>
+        <id>https://www.cinematographe.it/?p=910504</id>
+        <link href="https://www.cinematographe.it/news/thor-love-and-thunder-data-uscita-streaming-disney-plus/"/>
+        <updated>2022-07-07T22:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Thor: Love and Thunder è appena uscito nelle sale cinematografiche ed è considerato uno dei migliori film Marvel. La regia di Taika Waititi è stata…
+L'articolo Thor: Love and Thunder quando esce su Disney+? proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch John Lydon face Judge Judy in this tense 1997 TV showdown]]></title>
+        <id>WiQyygwm8Y3VkjjXqHmdtZ</id>
+        <link href="https://www.loudersound.com/features/watch-john-lydon-face-judge-judy-in-this-tense-1997-tv-showdown"/>
+        <updated>2022-07-07T20:55:41.000Z</updated>
+        <summary type="html"><![CDATA[It's a punk rocker in a mock dock shocker]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[È stato ritrovato in mare il cadavere del creatore di Yu-Gi-Oh]]></title>
+        <id>https://www.hallofseries.com/?p=579712</id>
+        <link href="https://www.hallofseries.com/news/yu-gi-oh-ritrovato-il-cadavere-fumettista-kazuki-takahashi/"/>
+        <updated>2022-07-07T19:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Yu-Gi-Oh! è stato uno dei tanti anime giapponesi che sono stati trasmessi da Italia Uno e ci hanno accompagnato durante la nostra adolescenza. Neanche questo prodotto, tratto dal manga di Kazuki Takahashi, è stato risparmiato dall’implacabile censura della televisione italiana che ha colpito anime come Rossana, Lady Oscar, Sailor Moon e tanti altri. Dal famoso… Leggi tutto »È stato ritrovato in mare il cadavere del creatore di Yu-Gi-Oh
+The post È stato ritrovato in mare il cadavere del creatore di Yu-Gi-Oh appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Marilisa Di Maio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockers Defend Vince Neil's Teleprompter Reliance]]></title>
+        <id>https://loudwire.com/?p=517061</id>
+        <link href="https://loudwire.com/rockers-defend-vince-neil-teleprompter/"/>
+        <updated>2022-07-07T19:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Teleprompters onstage: Sin or Useful Tool? Continue reading…]]></summary>
+        <author>
+            <name>Ayron Rutan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harper Releases Debut Song, 'Falling,' Signs with Pale Chord]]></title>
+        <id>https://loudwire.com/?p=517094</id>
+        <link href="https://loudwire.com/10-year-old-harper-cover-spiritbox-releases-debut-song-falling/"/>
+        <updated>2022-07-07T19:12:56.000Z</updated>
+        <summary type="html"><![CDATA[The 10-year-old U.K. vocalist proves that she's got the metal chops of idol Spiritbox. Continue reading…]]></summary>
+        <author>
+            <name>Jordan Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remember that 10-year-old who slayed Holy Roller on America's Got Talent? She's released a single]]></title>
+        <id>FMj3sTmsG3pWu2uTtGiUcC</id>
+        <link href="https://www.loudersound.com/news/remember-that-10-year-old-who-slayed-holy-roller-on-americas-got-talent-shes-released-a-single"/>
+        <updated>2022-07-07T19:07:36.000Z</updated>
+        <summary type="html"><![CDATA[The Spiritbox-approved Somerset singer's debut song Falling is out now]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Off Bob Dylan Recording Sells for $1.7 Million]]></title>
+        <id>https://ultimateclassicrock.com/?p=524004</id>
+        <link href="https://ultimateclassicrock.com/bob-dylan-blowin-in-the-wind-auction-sale/"/>
+        <updated>2022-07-07T19:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Only one physical copy exists of 2021 re-recording of "Blowin' in the Wind" that uses new technology. Continue reading…]]></summary>
+        <author>
+            <name>Allison Rapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 attori delle Serie Tv la cui età vi sconvolgerà]]></title>
+        <id>https://www.hallofseries.com/?p=264075</id>
+        <link href="https://www.hallofseries.com/serie-tv/the-big-bang-theory-eta-sconvolgente-attori/"/>
+        <updated>2022-07-07T18:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Vecchi che sembrano giovani, giovani che sembrano vecchi e perfino adulti con la faccia da bambini. C’è veramente di tutto in questa rassegna. Difficile scegliere il più clamoroso ma sicuramente The Big Bang Theory ne ha tre davvero sorprendenti (soprattutto una guest star di cui non indovinerete mai l’età). 1) Jim Parsons – The Big… Leggi tutto »18 attori delle Serie Tv la cui età vi sconvolgerà
+The post 18 attori delle Serie Tv la cui età vi sconvolgerà appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Emanuele Di Eugenio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kirk Hammett Praises Tye Trujillo's Playing on 'Stranger Things']]></title>
+        <id>https://loudwire.com/?p=517103</id>
+        <link href="https://loudwire.com/stranger-things-master-puppets-tye-trujillo-plays-kirk-hammett-praise/"/>
+        <updated>2022-07-07T18:50:16.000Z</updated>
+        <summary type="html"><![CDATA[The son of Metallica's Robert Trujillo contributed to the version used on the show. Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tool Fan Gets Job After Wearing Band’s Shirt During Interview]]></title>
+        <id>https://loudwire.com/?p=517097</id>
+        <link href="https://loudwire.com/tool-fan-gets-job-wearing-band-shirt-during-interview/"/>
+        <updated>2022-07-07T18:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Spiral out! Continue reading…]]></summary>
+        <author>
+            <name>Lauryn Schaffner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Best 21st Century Stoner Metal Bands]]></title>
+        <id>https://loudwire.com/?p=516067</id>
+        <link href="https://loudwire.com/best-21st-century-stoner-metal-bands-telekinetic-yeti/"/>
+        <updated>2022-07-07T18:11:32.000Z</updated>
+        <summary type="html"><![CDATA[See which bands have been, uhh... lighting it up... in the stoner metal scene! Continue reading…]]></summary>
+        <author>
+            <name>Loudwire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[James Caan è morto: addio all’attore de Il Padrino]]></title>
+        <id>https://www.cinematographe.it/?p=910397</id>
+        <link href="https://www.cinematographe.it/news/james-caan-morto-attore-il-padrino/"/>
+        <updated>2022-07-07T18:05:12.000Z</updated>
+        <summary type="html"><![CDATA[James Caan, la cui indimenticabile interpretazione di Sonny Corleone ne Il Padrino gli è valsa una nomination agli Oscar, è morto mercoledì 6 luglio all’età…
+L'articolo James Caan è morto: addio all’attore de Il Padrino proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Martina Volonté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thor Love And Thunder director Taika Waititi: "Instead of going on PornHub, I'll watch old Guns N' Roses videos"]]></title>
+        <id>uEhaeRDdmRyPr2LtLdDghH</id>
+        <link href="https://www.loudersound.com/features/taika-waititi-interview"/>
+        <updated>2022-07-07T18:05:11.000Z</updated>
+        <summary type="html"><![CDATA[In an exclusive interview, Thor: Love And Thunder director Taika Waititi opens up on his lifelong love of 80s rock and metal]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stranger Things 5 ci sarà! Cosa sappiamo sulla serie TV Netflix?]]></title>
+        <id>https://www.cinematographe.it/?p=910115</id>
+        <link href="https://www.cinematographe.it/focus-serie/stranger-things-5-uscita-cosa-sappiamo-serie-tv-netflix/"/>
+        <updated>2022-07-07T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La seconda parte della quarta stagione di Stranger Things, dopo una certa attesa, è finalmente uscita su Netflix il 1º luglio 2022 con 2 episodi…
+L'articolo Stranger Things 5 ci sarà! Cosa sappiamo sulla serie TV Netflix? proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Giorgia Terranova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlie Cox e Vincent D’Onofrio di nuovo nei panni di Daredevil e Kingpin per una serie Marvel!]]></title>
+        <id>https://www.cinematographe.it/?p=910366</id>
+        <link href="https://www.cinematographe.it/serie-tv/echo-charlie-cox-vincent-donofrio-cast-serie-marvel/"/>
+        <updated>2022-07-07T17:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Era solo questione di tempo prima che la Marvel riportasse Charlie Cox e Vincent D’Onofrio sullo schermo insieme, dopo l’enorme chimica che hanno mostrato in…
+L'articolo Charlie Cox e Vincent D’Onofrio di nuovo nei panni di Daredevil e Kingpin per una serie Marvel! proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Martina Volonté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockers React to Boris Johnson's Resignation as UK Prime Minister]]></title>
+        <id>https://loudwire.com/?p=517068</id>
+        <link href="https://loudwire.com/boris-johnson-resigns-uk-prime-minister-rock-metal-musicians-reactions/"/>
+        <updated>2022-07-07T17:31:37.000Z</updated>
+        <summary type="html"><![CDATA[The Conservative Party leader has agreed to step down. Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Forgiven: trailer e data d’uscita del film con Ralph Fiennes e Jessica Chastain]]></title>
+        <id>https://www.cinematographe.it/?p=910345</id>
+        <link href="https://www.cinematographe.it/trailer/the-forgiven-trailer-data-uscita-film-ralph-fiennes-jessica-chastain/"/>
+        <updated>2022-07-07T17:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Arriva tra pochi giorni nei cinema italiani The Forgiven, avvincente film scritto e diretto da John Michael McDonagh e adattamento del romanzo di Lawrence Osborne…
+L'articolo The Forgiven: trailer e data d’uscita del film con Ralph Fiennes e Jessica Chastain proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Martina Volonté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iron Maiden Approve of 'Stranger Things' Easter Egg]]></title>
+        <id>https://loudwire.com/?p=517067</id>
+        <link href="https://loudwire.com/iron-maiden-stranger-things-piece-of-mind-cassette-easter-egg/"/>
+        <updated>2022-07-07T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Another metal reference in the show. Continue reading…]]></summary>
+        <author>
+            <name>Lauryn Schaffner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nita Strauss - Fan Threw 'Sweaty Boxers' During Alice Cooper Show]]></title>
+        <id>https://loudwire.com/?p=517027</id>
+        <link href="https://loudwire.com/nita-strauss-fan-threw-boxers-alice-cooper-show/"/>
+        <updated>2022-07-07T16:57:06.000Z</updated>
+        <summary type="html"><![CDATA["The guy's boxer briefs were brazenly laid out on the riser." Continue reading…]]></summary>
+        <author>
+            <name>Todd Fooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addio a Vieri Razzini, critico cinematografico, scrittore e fondatore di Teodora Film]]></title>
+        <id>https://www.cinematographe.it/?p=910341</id>
+        <link href="https://www.cinematographe.it/news/vieri-razzini-morto-critico-cinematografico-fondatore-teodora-film/"/>
+        <updated>2022-07-07T16:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Riportiamo la notizia della morte del collega Vieri Razzini, morto oggi a Roma all’età di 82 anni. Razzini è stato un celebre e apprezzato critico…
+L'articolo Addio a Vieri Razzini, critico cinematografico, scrittore e fondatore di Teodora Film proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Martina Volonté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Luck (film animato Apple): quando la sfiga è cieca, si va in gita nel Paese della Fortuna]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286825</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-luck-film-animato-apple-quando-la-sfiga-e-cieca-si-va-in-gita/"/>
+        <updated>2022-07-07T16:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Tra i produttori c'è John Lasseter
+L'articolo Trailer per Luck (film animato Apple): quando la sfiga è cieca, si va in gita nel Paese della Fortuna proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per The Forgiven: Fiennes e Chastain insabbiano un omicidio in Marocco]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286804</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-the-forgiven-fiennes-e-chastain-insabbiano-un-omicidio-in-marocco/"/>
+        <updated>2022-07-07T16:20:56.000Z</updated>
+        <summary type="html"><![CDATA[C'è anche Matt Smith nel thriller di John Michael McDonagh che adatta il romanzo di Lawrence Osborne
+L'articolo Trailer per The Forgiven: Fiennes e Chastain insabbiano un omicidio in Marocco proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spider-Man: No Way Home arriva in streaming e in prima tv! Ecco dove e quando vedere il film Marvel]]></title>
+        <id>https://www.cinematographe.it/?p=910314</id>
+        <link href="https://www.cinematographe.it/news/spider-man-no-way-home-streaming-netflix-sky/"/>
+        <updated>2022-07-07T16:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Dopo essere stato disponibile a noleggio e in edizione Home Video (di cui qui potete scoprire tutti i dettagli), Spider-Man: No Way Home – film…
+L'articolo Spider-Man: No Way Home arriva in streaming e in prima tv! Ecco dove e quando vedere il film Marvel proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Martina Volonté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story Behind The Song: Cradle Of Filth’s Her Ghost In The Fog]]></title>
+        <id>Q4pB4SXzjBq9jk5NEKiWXT</id>
+        <link href="https://www.loudersound.com/features/cradle-of-filth-her-ghost-fog-story-behind-song"/>
+        <updated>2022-07-07T16:12:08.000Z</updated>
+        <summary type="html"><![CDATA[How Cradle Of Filth wrote their breakthrough hit Her Ghost In The Fog with a little help some long-dead soldiers and a dose of magic mushrooms]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knives Out – Cena con delitto: lo strano caso del maglione di Chris Evans, diventato virale!]]></title>
+        <id>https://www.cinematographe.it/?p=910049</id>
+        <link href="https://www.cinematographe.it/news/knives-out-cena-con-delitto-maglione-chris-evans/"/>
+        <updated>2022-07-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Per tutta la durata del film Knives Out – Cena con delitto l’attore principale Chris Evans, che interpreta il rampollo viziato Ransom Drysdale, il cui…
+L'articolo Knives Out – Cena con delitto: lo strano caso del maglione di Chris Evans, diventato virale! proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Manuel Magarini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen to Blondie's Original Demo for 'Go Through It']]></title>
+        <id>https://ultimateclassicrock.com/?p=524069</id>
+        <link href="https://ultimateclassicrock.com/blondie-i-love-you-honey-give-me-a-beer-go-through-it/"/>
+        <updated>2022-07-07T15:52:59.000Z</updated>
+        <summary type="html"><![CDATA['Autoamerican' track started life as a song called "I Love You Honey, Give Me a Beer." Continue reading…]]></summary>
+        <author>
+            <name>Allison Rapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Megadeth album ranked from worst to best]]></title>
+        <id>VKQAT24vMZEDbKWZKs5Gsk</id>
+        <link href="https://www.loudersound.com/features/megadeth-albums-ranked-worst-best"/>
+        <updated>2022-07-07T15:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Get in the mood for Megadeth’s The Sick, The Dying… And The Dead! with this deep dive into their back catalogue]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amon Amarth unleash cinematic new video for The Great Heathen Army]]></title>
+        <id>brEPKjrrc5o9yDo6mTTVG</id>
+        <link href="https://www.loudersound.com/news/amon-amarth-unleash-cinematic-new-video-for-the-great-heathen-army"/>
+        <updated>2022-07-07T15:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Amon Amarth have shared the video for the title track of their forthcoming album, The Great Heathen Army]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Founding Member of Nazareth Manny Charlton Has Died at 80]]></title>
+        <id>https://loudwire.com/?p=517041</id>
+        <link href="https://loudwire.com/founding-member-nazareth-manny-charlton-died/"/>
+        <updated>2022-07-07T15:11:36.000Z</updated>
+        <summary type="html"><![CDATA["His contribution as a musician was immeasurable," says Nazareth bassist Pete Agnew. Continue reading…]]></summary>
+        <author>
+            <name>Alicia Selin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Draiman Shows off Disturbed's 'F--k Cancel Culture' Guitar]]></title>
+        <id>https://loudwire.com/?p=517039</id>
+        <link href="https://loudwire.com/david-draiman-shows-off-disturbed-guitarists-f-k-cancel-culture-guitar/"/>
+        <updated>2022-07-07T15:02:24.000Z</updated>
+        <summary type="html"><![CDATA[The singer 'couldn't be more proud.' Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il Mostro dei Mari: la recensione del film animato di Chris Williams (su Netflix)]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286818</id>
+        <link href="https://www.ilcineocchio.it/cinema/il-mostro-dei-mari-la-recensione-del-film-animato-di-chris-williams/"/>
+        <updated>2022-07-07T14:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Il regista premio Oscar torna dietro alla mdp per un'opera delicata che parla di famiglia e di diversità con delicatezza e brio 
+L'articolo Il Mostro dei Mari: la recensione del film animato di Chris Williams (su Netflix) proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Marco Tedesco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stranger Things 4 – I Duffer avevano pianificato di uccidere un altro personaggio]]></title>
+        <id>https://www.hallofseries.com/?p=579679</id>
+        <link href="https://www.hallofseries.com/news/stranger-things-duffer-uccidere-altro-personaggio/"/>
+        <updated>2022-07-07T14:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Attenzione! Il seguente articolo contiene spoiler su Stranger Things 4 La seconda parte della quarta stagione di Stranger Things (qui trovate la nostra recensione) è stata rilasciata da una sola settimana, ma la maggior parte dei fan della serie non ha potuto fare a meno di guardare immediatamente gli ultimi due episodi. L’affluenza alla piattaforma… Leggi tutto »Stranger Things 4 – I Duffer avevano pianificato di uccidere un altro personaggio
+The post Stranger Things 4 – I Duffer avevano pianificato di uccidere un altro personaggio appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Palma Vasta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shinedown are battling Paulo Nutini for their first UK number one album]]></title>
+        <id>nkJitSekDLZdpNJ8jkagtQ</id>
+        <link href="https://www.loudersound.com/news/shinedown-are-battling-paulo-nutini-for-their-first-uk-number-one-album"/>
+        <updated>2022-07-07T13:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Shinedown are currently sitting in the second spot in the UK official chart with their new album Planet Zero]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I 10 migliori anime shonen con una straordinaria protagonista femminile]]></title>
+        <id>https://www.hallofseries.com/?p=576556</id>
+        <link href="https://www.hallofseries.com/anime/migliori-anime-shonen-protagonista-femminile/"/>
+        <updated>2022-07-07T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Quando parliamo di migliori anime shonen i primi a venirci in mente sono i classici (qui ne trovate 7 imperdibili), che di solito seguono un protagonista rigorosamente di sesso maschile. Non che la componente femminile sia assente, anzi. Sempre più, la differenza tra “genere per ragazzi” e quello “per ragazze” che sta proprio alla base… Leggi tutto »I 10 migliori anime shonen con una straordinaria protagonista femminile
+The post I 10 migliori anime shonen con una straordinaria protagonista femminile appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Carolina Avagliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disturbed's David Draiman praises bandmate for taking on 'cancel culture' with...a custom guitar design]]></title>
+        <id>sAo3QyzzbEaUZFkoqYDFyN</id>
+        <link href="https://www.loudersound.com/news/disturbed-cancel-culture-guitar"/>
+        <updated>2022-07-07T13:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Disturbed, who have never been cancelled, tackle 'cancel culture' with a new guitar design]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 30 Most Expensive Items Sold on Discogs in May 2022]]></title>
+        <id>https://blog.discogs.com/?p=30446</id>
+        <link href="https://blog.discogs.com/en/most-expensive-items-sold-on-discogs-in-may-2022/"/>
+        <updated>2022-07-07T13:00:35.000Z</updated>
+        <summary type="html"><![CDATA[The May 2022 most expensive list has arrived and it includes some essential punk releases, psychedelic rarities, and a hard-to-find CD maxi-single. Rare punk records start with a rare blue-green vinyl pressing of 7 Seconds’ The Crew. According to the Database, the pressing size is somewhere between 250 and 300 copies. An original pressing of Crow’s […]
+The post Top 30 Most Expensive Items Sold on Discogs in May 2022 appeared first on Discogs Blog.]]></summary>
+        <author>
+            <name>Davey Ferchow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neal Schon Finds ‘Freedom’ at Last With New Journey Album]]></title>
+        <id>https://ultimateclassicrock.com/?p=523953</id>
+        <link href="https://ultimateclassicrock.com/neal-schon-freedom-interview/"/>
+        <updated>2022-07-07T12:56:26.000Z</updated>
+        <summary type="html"><![CDATA["I did a lot of playing and not much thinking" during free-flowing sessions, guitarist says. Continue reading…]]></summary>
+        <author>
+            <name>Matt Wardlaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roger Waters Kicks Off 2022 Tour: Set List, Photos and Videos]]></title>
+        <id>https://ultimateclassicrock.com/?p=523894</id>
+        <link href="https://ultimateclassicrock.com/roger-waters-2022-set-list/"/>
+        <updated>2022-07-07T12:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Pink Floyd co-founder opens new show in Pittsburgh. Continue reading…]]></summary>
+        <author>
+            <name>Jason Pettigrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’intelligente e geniale utilizzo dell’elemento fantascientifico in Fargo]]></title>
+        <id>https://www.hallofseries.com/?p=576157</id>
+        <link href="https://www.hallofseries.com/serie-tv/fargo-intelligente-geniale-elemento-fantascientifico/"/>
+        <updated>2022-07-07T12:22:40.000Z</updated>
+        <summary type="html"><![CDATA[UFO fobia, alieni, il panico dei dischi volanti: una delle manie che impazzavano negli anni ’70, quando il genio di Steven Spielberg produsse Incontri ravvicinati del terzo tipo, caposaldo del genere Sci-Fi o ancora la serie Project Ufo e UFO, prodotte entrambe tra il 1970 e il 1979. Questo è il terreno d’indagine presente in… Leggi tutto »L’intelligente e geniale utilizzo dell’elemento fantascientifico in Fargo
+The post L’intelligente e geniale utilizzo dell’elemento fantascientifico in Fargo appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Annalisa Cavazzini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Girl – Un famoso bacio della serie non era previsto inizialmente]]></title>
+        <id>https://www.hallofseries.com/?p=579312</id>
+        <link href="https://www.hallofseries.com/news/new-girl-piani-iniziali-bacio/"/>
+        <updated>2022-07-07T11:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Attenzione: l’articolo contiene spoiler sulla seconda stagione di New Girl! Una delle scene più iconiche e memorabili della serie New Girl è senza dubbio quella del primo bacio tra la dolce e bizzarra Jess Day(Zooey Deschanel) e il suo amico e coinquilino, l’immaturo cronico dal cuore d’oro Nick Miller (Jake Johnson). La chimica tra i… Leggi tutto »New Girl – Un famoso bacio della serie non era previsto inizialmente
+The post New Girl – Un famoso bacio della serie non era previsto inizialmente appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Silvia Brighi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recensione libro + Intervista: Ritorno al Futuro – I film, la scienza, le curiosità di G. Toro]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286812</id>
+        <link href="https://www.ilcineocchio.it/cinema/recensione-libro-intervista-ritorno-al-futuro-i-film-la-scienza-le-curiosita/"/>
+        <updated>2022-07-07T09:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Un volume che approfondisce in lungo e in largo tutti gli aspetti della popolare trilogia di Robert Zemeckis con Michael J. Fox e Christopher Lloyd
+L'articolo Recensione libro + Intervista: Ritorno al Futuro – I film, la scienza, le curiosità di G. Toro proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Alessandro Gamma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I 5 peggiori finali delle comedy nella storia delle Serie Tv]]></title>
+        <id>https://www.hallofseries.com/?p=365301</id>
+        <link href="https://www.hallofseries.com/serie-tv/serie-tv-comedy-5-peggiori-finali/"/>
+        <updated>2022-07-07T08:31:00.000Z</updated>
+        <summary type="html"><![CDATA[A tutti, almeno una volta nella vita (per i più fortunati almeno) sarà capitato di sentirsi amareggiati per colpa di una serie tv. Non passano inosservate alcune scelte assolutamente in disaccordo con un gran numero di fan che sono state comunque portate a compimento, incontrando poi inevitabilmente critiche e i pareri discordanti. E se ci… Leggi tutto »I 5 peggiori finali delle comedy nella storia delle Serie Tv
+The post I 5 peggiori finali delle comedy nella storia delle Serie Tv appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Concetta Moschetta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer italiano (e data di uscita) per Crimes of the future: la chirurgia è sesso per Cronenberg]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286809</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-italiano-e-data-di-uscita-per-crimes-of-the-future/"/>
+        <updated>2022-07-07T08:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Sono Viggo Mortensen, Léa Seydoux e Kristen Stewart i protagonisti del body horror Rated R con cui il regista canadese è tornato dietro alla mdp 
+L'articolo Trailer italiano (e data di uscita) per Crimes of the future: la chirurgia è sesso per Cronenberg proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boys segnerà la storia delle Serie Tv o sarà soltanto una fantastica parentesi?]]></title>
+        <id>https://www.hallofseries.com/?p=578374</id>
+        <link href="https://www.hallofseries.com/the-boys/the-boys-segnera-storia-serie-tv-parentesi/"/>
+        <updated>2022-07-07T07:39:04.000Z</updated>
+        <summary type="html"><![CDATA[ATTENZIONE: Il seguente articolo contiene SPOILER sulla Serie Tv The Boys Siamo pronti ad ammettere nell’olimpo delle Serie TV The Boys? Non è più una sorpresa ormai: il prodotto targato Amazon Prime Video sta riscuotendo un successo globale mai visto prima dalla piattaforma di streaming e sta tracciando la via a una visione dei tanto… Leggi tutto »The Boys segnerà la storia delle Serie Tv o sarà soltanto una fantastica parentesi?
+The post The Boys segnerà la storia delle Serie Tv o sarà soltanto una fantastica parentesi? appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Nicolo Ferretti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gregory House e James Wilson, dopo la fine di Dr. House]]></title>
+        <id>https://www.hallofseries.com/?p=564202</id>
+        <link href="https://www.hallofseries.com/dr-house/dr-house-wilson-dopo-la-fine-della-serie-tv/"/>
+        <updated>2022-07-07T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[“Il cancro è noioso”. Con queste parole dissacranti si concludeva l’ottava e ultima stagione emozionante di Dr. House (qui la nostra recensione Lo struggente, onirico, malinconico, bellissimo finale di Dr. House). A pronunciarle, ovviamente, il nostro amatissimo Gregory House, rivolgendosi al preoccupato Wilson al quale purtroppo mancano pochissimi mesi di vita, cinque per l’esattezza. A… Leggi tutto »Gregory House e James Wilson, dopo la fine di Dr. House
+The post Gregory House e James Wilson, dopo la fine di Dr. House appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Andrea Stano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 personaggi degli anime che hanno subito uno stravolgimento etico]]></title>
+        <id>https://www.hallofseries.com/?p=563557</id>
+        <link href="https://www.hallofseries.com/anime/vegeta-personaggi-anime-stravolgimento-etico/"/>
+        <updated>2022-07-07T06:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Attenzione, il seguente articolo contiene spoiler. Trame sorprendentemente originali, caratterizzazioni psicologiche superlative, personaggi vividi e avvincenti (Vegeta, Sasuke e molti altri ancora). Questi sono soltanto alcuni degli ingredienti principali del successo, oramai in costante crescita, degli anime. Ci lasciano col fiato sospeso, ci entusiasmano, ci divertono. Alcune di queste fantastiche opere è in grado di… Leggi tutto »6 personaggi degli anime che hanno subito uno stravolgimento etico
+The post 6 personaggi degli anime che hanno subito uno stravolgimento etico appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Andrea Stano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manny Charlton, Nazareth Guitarist, Dead at 80]]></title>
+        <id>https://ultimateclassicrock.com/?p=523964</id>
+        <link href="https://ultimateclassicrock.com/manny-charlton-dead/"/>
+        <updated>2022-07-07T00:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Co-founding guitarist also produced early Guns N' Roses demos. Continue reading…]]></summary>
+        <author>
+            <name>Michael Gallucci</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Founding Nazareth guitarist Manny Charlton dead at 80]]></title>
         <id>EWsctFxsvxyNt45gcXiQDB</id>
@@ -369,543 +915,6 @@ L'articolo Non Sarai Sola: la recensione del film horror macedone di Goran Stole
 The post 3 Trends That Prove CDs are Making a Comeback appeared first on Discogs Blog.]]></summary>
         <author>
             <name>Davey Ferchow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carlos Santana 'Doing Well' After Collapsing During Performance]]></title>
-        <id>https://ultimateclassicrock.com/?p=523883</id>
-        <link href="https://ultimateclassicrock.com/carlos-santana-passed-out-onstage/"/>
-        <updated>2022-07-06T12:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Guitarist assures fans he is now "taking it easy." Continue reading…]]></summary>
-        <author>
-            <name>Allison Rapp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 punk songs every metalhead needs to know]]></title>
-        <id>BuVR7e4zdxiXYNbr5iLkYB</id>
-        <link href="https://www.loudersound.com/features/10-punk-songs-every-metalhead-needs-to-know"/>
-        <updated>2022-07-06T12:19:01.000Z</updated>
-        <summary type="html"><![CDATA[From Rich Kids on LSD to Poison Idea and Killing Joke, these are the 10 punk songs every metalhead needs to hear]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yee-haw! This is what Bring Me The Horizon's Drown would sound like as a country song]]></title>
-        <id>p9Vcooy77YfMJQeumCLyDL</id>
-        <link href="https://www.loudersound.com/news/yee-haw-this-is-what-bring-me-the-horizons-drown-would-sound-like-as-a-country-song"/>
-        <updated>2022-07-06T12:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Bring Me Y'all Horizon, anyone?]]></summary>
-        <author>
-            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only Murders in the Building 2×03 – Una questione di prospettive]]></title>
-        <id>https://www.hallofseries.com/?p=579121</id>
-        <link href="https://www.hallofseries.com/only-murders-in-the-building/only-murders-in-the-building-2x03-recensione/"/>
-        <updated>2022-07-06T07:27:21.000Z</updated>
-        <summary type="html"><![CDATA[**Attenzione: evitate la lettura se non volete imbattervi in spoiler su Only Murders in the Building ** Only Murders in the Building è tornata su Disney+ lo scorso 28 giugno con le prime due puntate della nuova stagione, caotiche e ancora più coinvolgenti (qui trovate la recensione). La prima stagione ci aveva stregato e aveva… Leggi tutto »Only Murders in the Building 2×03 – Una questione di prospettive
-The post Only Murders in the Building 2×03 – Una questione di prospettive appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Sara Crecco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 curiosità su James Marsden, l’apprezzatissimo grande ritorno di Westworld]]></title>
-        <id>https://www.hallofseries.com/?p=578907</id>
-        <link href="https://www.hallofseries.com/westworld/james-marsden-7-curiosita/"/>
-        <updated>2022-07-06T07:17:45.000Z</updated>
-        <summary type="html"><![CDATA[James Paul Marsden classe 1973 è attore, cantante e modello Versace. Proveniente da una famiglia numerosa, ha due sorelle e due fratelli, James nasce e studia in Oklahoma. Famoso per i molti ruoli cinematografici e televisivi interpretati, comincia la sua carriera nel 1993 con la serie Tv La Tata. Nessuno può dimenticare l’incredibile Francesca Cacace… Leggi tutto »7 curiosità su James Marsden, l’apprezzatissimo grande ritorno di Westworld
-The post 7 curiosità su James Marsden, l’apprezzatissimo grande ritorno di Westworld appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Samanta Carrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 curiosità su Amaia Aberasturi, la straripante protagonista di Benvenuti a Eden]]></title>
-        <id>https://www.hallofseries.com/?p=577174</id>
-        <link href="https://www.hallofseries.com/benvenuti-a-eden/amaia-aberasturi-7-curiosita-sulla-protagonista-di-benvenuti-a-eden/"/>
-        <updated>2022-07-06T07:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Benvenuti a Eden è stata per diverso tempo nella top ten delle serie più viste su Netflix. La serie spagnola si propone come un thriller psicologico e ha fatto molto colpo soprattutto su una fetta di pubblico piuttosto giovane, magari anche grazie al cast che è composto da personaggi particolarmente influenti sui social: Ana Mena… Leggi tutto »7 curiosità su Amaia Aberasturi, la straripante protagonista di Benvenuti a Eden
-The post 7 curiosità su Amaia Aberasturi, la straripante protagonista di Benvenuti a Eden appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Valentina Castro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La classifica delle 5 migliori true crime story degli ultimi mesi]]></title>
-        <id>https://www.hallofseries.com/?p=577484</id>
-        <link href="https://www.hallofseries.com/serie-tv/the-staircase-classifica-5-true-crime-story/"/>
-        <updated>2022-07-06T07:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Il genere true crime sta prendendo sempre più spazio nelle produzioni odierne, pensiamo ad esempio alla recentissima The Staircase, la storia di un vero caso di cronaca nera che sta tenendo gli spettatori incollati agli schermi. Quello del true crime, tuttavia, è un genere apprezzato da sempre da una nicchia di persone incuriosite principalmente dalla… Leggi tutto »La classifica delle 5 migliori true crime story degli ultimi mesi
-The post La classifica delle 5 migliori true crime story degli ultimi mesi appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Maria Virginia Destefano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 rapporti tra nonni e nipoti delle Serie Tv che ci hanno inevitabilmente commossi]]></title>
-        <id>https://www.hallofseries.com/?p=558126</id>
-        <link href="https://www.hallofseries.com/serie-tv/young-sheldon-altri-rapporti-nonni-nipoti-commoventi/"/>
-        <updated>2022-07-06T06:52:02.000Z</updated>
-        <summary type="html"><![CDATA[I nonni sono un vero e proprio tesoro spesso fin troppo sottovalutato all’interno delle famiglie. Alle volte riescono a costruire un legame con i nipoti che va persino oltre quello con i genitori, grazie a quel giusto mix di ironia, sensibilità e anche – perché no – libertà di espressione di cui spesso i genitori… Leggi tutto »8 rapporti tra nonni e nipoti delle Serie Tv che ci hanno inevitabilmente commossi
-The post 8 rapporti tra nonni e nipoti delle Serie Tv che ci hanno inevitabilmente commossi appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Concetta Sorvillo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Americans: essere se stessi dentro un’altra identità, in un altro mondo]]></title>
-        <id>https://www.hallofseries.com/?p=576656</id>
-        <link href="https://www.hallofseries.com/the-americans/the-americans-se-stessi-identita-mondo/"/>
-        <updated>2022-07-06T06:41:30.000Z</updated>
-        <summary type="html"><![CDATA[The Americans è una serie la cui statura si percepisce sin dall’episodio pilota. Tutte le serie cominciano da un punto ove scelgono di posizionare lo spettatore ma poche sono quelle che danno un’importanza tale all’inizio da sottintendere un parallelo con la fine. Sono molte di più le serie che cominciano e vengono interrotte senza che… Leggi tutto »The Americans: essere se stessi dentro un’altra identità, in un altro mondo
-The post The Americans: essere se stessi dentro un’altra identità, in un altro mondo appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Valeria Cucinotta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 buoni motivi per fare un rewatch di Dr. House]]></title>
-        <id>https://www.hallofseries.com/?p=576030</id>
-        <link href="https://www.hallofseries.com/dr-house/dr-house-5-buoni-motivi-rewatch/"/>
-        <updated>2022-07-06T06:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Nell’ultimo periodo, mentre faccio colazione in stato ancora catatonico, accendendo la tv su Italia 1 trovo sempre qualche episodio di Dr. House pronto per farmi compagnia – e perché no, anche per fare squadra con il caffè e aiutarlo a svegliarmi. Dopo aver visto in tenera età episodi a caso senza avere però una reale… Leggi tutto »5 buoni motivi per fare un rewatch di Dr. House
-The post 5 buoni motivi per fare un rewatch di Dr. House appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Martina Mastellone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boys – Chace Crawford non può più avvicinarsi a un acquario]]></title>
-        <id>https://www.hallofseries.com/?p=578581</id>
-        <link href="https://www.hallofseries.com/news/the-boys-crawford-entrare-acquario/"/>
-        <updated>2022-07-06T06:26:41.000Z</updated>
-        <summary type="html"><![CDATA[La terza stagione di The Boys, serie televisiva della piattaforma streaming di Amazon Prime Video, si sta rivelando più folle del previsto – episodio dopo episodio. Quello che avrebbe sconvolto il pubblico, però, è stato l’episodio targato Herogasm (qui la nostra recensione sulla puntata più chiacchierata del momento): lo showrunner Kripke ha già affermato nei… Leggi tutto »The Boys – Chace Crawford non può più avvicinarsi a un acquario
-The post The Boys – Chace Crawford non può più avvicinarsi a un acquario appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Silvia Nunnari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dexter potrebbe non essere finita: Michael C. Hall riapre le speranze]]></title>
-        <id>https://www.hallofseries.com/?p=579239</id>
-        <link href="https://www.hallofseries.com/news/dexter-non-essere-finita-michael-c-hall/"/>
-        <updated>2022-07-06T06:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Dexter potrebbe avere ancora qualcosa da dire, dopo un’ultima stagione speciale arrivata dopo ben nove anni da quel finale che aveva sconvolto e deluso i fan (ma che, forse, non era neanche così male)? Anche il finale di New Blood, il revival di Dexter, a dire il vero, aveva deluso molto i fan: per noi… Leggi tutto »Dexter potrebbe non essere finita: Michael C. Hall riapre le speranze
-The post Dexter potrebbe non essere finita: Michael C. Hall riapre le speranze appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Giulia Vanda Zennaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boys 3 – Il finale di stagione sarà “complicato”, assicura Ackles]]></title>
-        <id>https://www.hallofseries.com/?p=579246</id>
-        <link href="https://www.hallofseries.com/news/the-boys-3-finale-stagione-complicato/"/>
-        <updated>2022-07-06T06:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Il finale di stagione di The Boys 3 uscirà su Amazon Prime Video il prossimo venerdì 8 luglio e promette di lasciare a bocca aperta i fan della serie più scorretta degli ultimi anni: anche se sarà difficile doppiare il colpo di scena con cui si è conclusa la settima puntata, che abbiamo recensito qui.… Leggi tutto »The Boys 3 – Il finale di stagione sarà “complicato”, assicura Ackles
-The post The Boys 3 – Il finale di stagione sarà “complicato”, assicura Ackles appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Giulia Vanda Zennaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carlos Santana Collapses Onstage Due to 'Medical Emergency']]></title>
-        <id>https://ultimateclassicrock.com/?p=523871</id>
-        <link href="https://ultimateclassicrock.com/carlos-santana-collapses-onstage/"/>
-        <updated>2022-07-06T02:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Guitarist passed out approximately an hour into his set.  Continue reading…]]></summary>
-        <author>
-            <name>Gary Graff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiss fans are going nuts over this rare live footage from two legendary 1975 shows]]></title>
-        <id>ALjTbmzkCYBvUd7bjHyx3a</id>
-        <link href="https://www.loudersound.com/news/kiss-fans-are-going-nuts-over-this-rare-live-footage-from-two-legendary-1975-shows"/>
-        <updated>2022-07-06T00:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Nearly two hours of rare footage of Kiss playing live in Detroit and Largo in 1975 has appeared on YouTube, alongside hours of rehearsal film]]></summary>
-        <author>
-            <name>fraser.lewry@futurenet.com (Fraser Lewry)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thor: Love and Thunder, la recensione del film di Taika Waititi]]></title>
-        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286761</id>
-        <link href="https://www.ilcineocchio.it/cinema/thor-love-and-thunder-la-recensione-del-film-di-taika-waititi/"/>
-        <updated>2022-07-05T23:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Ci sono il super cattivo Christian Bale e il premio Oscar Natalie Portman nella quarta avventura solista del dio Chris Hemsworth, un cinecomic poco ispirato e con pochissimi guizzi
-L'articolo Thor: Love and Thunder, la recensione del film di Taika Waititi proviene da Il Cineocchio.]]></summary>
-        <author>
-            <name>Gioia Majuna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Evans nel cast di Pain Hustlers, film di David Yates con Emily Blunt]]></title>
-        <id>https://www.cinematographe.it/?p=909564</id>
-        <link href="https://www.cinematographe.it/news/chris-evans-cast-film-netflix/"/>
-        <updated>2022-07-05T21:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Chris Evans nelle negoziazioni finali per entrare nel cast di Pain Hustlers, il nuovo film prodotto per Netflix. Un progetto che sarà scritto da Wells…
-L'articolo Chris Evans nel cast di Pain Hustlers, film di David Yates con Emily Blunt proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Body Double Used for 'Stranger Things' Metallica Song Scene]]></title>
-        <id>https://loudwire.com/?p=516764</id>
-        <link href="https://loudwire.com/eddie-munson-body-double-stranger-things-metallica-scene-kids-music-foundation/"/>
-        <updated>2022-07-05T21:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Somebody lends the actor a "hand." Continue reading…]]></summary>
-        <author>
-            <name>Todd Fooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone's recorded a Rage Against The Machine classic in the style of Meshuggah and the results are predictably heavy]]></title>
-        <id>XSwcxYvfngxCFdhDpNB4CN</id>
-        <link href="https://www.loudersound.com/news/someones-recorded-a-rage-against-the-machine-classic-in-the-style-of-meshuggah-and-the-results-are-predictably-heavy"/>
-        <updated>2022-07-05T21:29:16.000Z</updated>
-        <summary type="html"><![CDATA[It's the cover version you never knew you wanted]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Winchesters: svelata la data d’uscita del prequel di Supernatural]]></title>
-        <id>https://www.cinematographe.it/?p=909560</id>
-        <link href="https://www.cinematographe.it/serie-tv/the-winchesters-data-uscita-ufficiale/"/>
-        <updated>2022-07-05T21:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Supernatural, che ha visto la conclusione del suo longevo successo con un finale di stagione davvero toccante ed emozionante, non è pronto a lasciare i…
-L'articolo The Winchesters: svelata la data d’uscita del prequel di Supernatural proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tattoo Preservation Company Memorializes Deceased's Tattooed Skin]]></title>
-        <id>https://loudwire.com/?p=516758</id>
-        <link href="https://loudwire.com/tattoo-preservation-company-memorialize-deceased-tattooed-skin-save-my-ink-forever/"/>
-        <updated>2022-07-05T20:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Save My Ink Forever lets you... save someone's ink forever. Continue reading…]]></summary>
-        <author>
-            <name>Lauryn Schaffner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metallica Weighs in On ‘Stranger Things’ Use of Master of Puppets]]></title>
-        <id>https://loudwire.com/?p=516786</id>
-        <link href="https://loudwire.com/metallica-response-stranger-things-master-of-puppets/"/>
-        <updated>2022-07-05T20:41:29.000Z</updated>
-        <summary type="html"><![CDATA[“We were totally blown away...“ Continue reading…]]></summary>
-        <author>
-            <name>Matt Singer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Eddie Munson Come Back for ‘Stranger Things’ Season 5?]]></title>
-        <id>https://loudwire.com/?p=516783</id>
-        <link href="https://loudwire.com/eddie-munson-stranger-things-season-5-fan-theory-halloween-michael-myers/"/>
-        <updated>2022-07-05T20:40:53.000Z</updated>
-        <summary type="html"><![CDATA[What will happen to the fan-favorite metalhead?  Continue reading…]]></summary>
-        <author>
-            <name>Mike Nied</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MGK Thanks the Lord After Stage Prop Helicopter Almost Drops Him]]></title>
-        <id>https://loudwire.com/?p=516759</id>
-        <link href="https://loudwire.com/machine-gun-kelly-helicopter-hiccup-video/"/>
-        <updated>2022-07-05T20:28:16.000Z</updated>
-        <summary type="html"><![CDATA[It happened high above an audience in Detroit. Continue reading…]]></summary>
-        <author>
-            <name>Philip Trapp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Woman King: una prima occhiata a Viola Davis nel ruolo della guerriera Agoji]]></title>
-        <id>https://www.cinematographe.it/?p=909540</id>
-        <link href="https://www.cinematographe.it/news/the-woman-king-una-prima-occhiata-a-viola-davis-nel-ruolo-della-guerriera-agoji/"/>
-        <updated>2022-07-05T20:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Dopo all’adattamento firmato Netflix di The Old Guard con Charlize Theron e KiKi Layne alla guida del cast stellare, Gina Prince-Bythewood dirigerà i premi Oscar Viola Davis e Lupita…
-L'articolo The Woman King: una prima occhiata a Viola Davis nel ruolo della guerriera Agoji proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Stranger Things' Pushes Hit Metallica Song Into Spotify's Top 50]]></title>
-        <id>https://loudwire.com/?p=516739</id>
-        <link href="https://loudwire.com/stranger-things-metallica-spotify-top-50-global/"/>
-        <updated>2022-07-05T18:56:30.000Z</updated>
-        <summary type="html"><![CDATA[And Metallica praise the 'Master of Puppets' shred too! Continue reading…]]></summary>
-        <author>
-            <name>Todd Fooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[See Photos of Rammstein's Unrivaled Stadium Tour in Europe]]></title>
-        <id>https://loudwire.com/?p=516654</id>
-        <link href="https://loudwire.com/rammstein-europe-stadium-tour-2022-photos/"/>
-        <updated>2022-07-05T18:38:18.000Z</updated>
-        <summary type="html"><![CDATA[This is finally coming to North America soon! Continue reading…]]></summary>
-        <author>
-            <name>Joe DiVita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trailer per Paper Girls (serie Prime): Brian K. Vaughan ci porta a spasso nel tempo]]></title>
-        <id>https://www.ilcineocchio.it/?post_type=tv&amp;p=286779</id>
-        <link href="https://www.ilcineocchio.it/tv/trailer-per-paper-girls-serie-prime-brian-k-vaughan-ci-porta/"/>
-        <updated>2022-07-05T18:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Sono Camryn Jones, Riley Lai Nelet, Sofia Rosinsky e Fina Strazza le protagonisti dell'adattamento dell'omonimo fumetto sci-fi
-L'articolo Trailer per Paper Girls (serie Prime): Brian K. Vaughan ci porta a spasso nel tempo proviene da Il Cineocchio.]]></summary>
-        <author>
-            <name>Redazione Il Cineocchio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giuseppe Tornatore: il ricordo di Ennio Morricone e quella domanda a cui non sa rispondere [VIDEO]]]></title>
-        <id>https://www.cinematographe.it/?p=909076</id>
-        <link href="https://www.cinematographe.it/rubriche-cinema/giuseppe-tornatore-ricordo-ennio-morricone-taormina-2022/"/>
-        <updated>2022-07-05T18:20:00.000Z</updated>
-        <summary type="html"><![CDATA[“Questo forse è stato il film più difficile di tutti perché Ennio non era solo il compositore che doveva cercare di interpretare il film, di…
-L'articolo Giuseppe Tornatore: il ricordo di Ennio Morricone e quella domanda a cui non sa rispondere [VIDEO] proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Caterina Sabato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buon compleanno bikini! I 10 momenti cinematografici più hot con protagonista il sexy costume a due pezzi]]></title>
-        <id>https://www.cinematographe.it/?p=909405</id>
-        <link href="https://www.cinematographe.it/rubriche-cinema/focus/storia-bikini-film-momenti-piu-hot-angelina-jolie-ursula-andress/"/>
-        <updated>2022-07-05T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Se oggi il bikini è il costume da bagno femminile più popolare al mondo, il suo viaggio sulle spiagge è iniziato in Francia e il…
-L'articolo Buon compleanno bikini! I 10 momenti cinematografici più hot con protagonista il sexy costume a due pezzi proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Giorgia Terranova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stranger Things: secondo David Harbour, la stagione finale arriverà su Netflix nel 2024]]></title>
-        <id>https://www.hallofseries.com/?p=579115</id>
-        <link href="https://www.hallofseries.com/news/stranger-things-secondo-david-harbour-la-stagione-finale-arrivera-su-netflix-nel-2024/"/>
-        <updated>2022-07-05T17:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Stranger Things 4 è giunta al termine: le ultime due puntate della nuova stagione sono arrivate sulla piattaforma di streaming Netflix. Dopo l’arrivo dei tanto attesi nuovi episodi, la serie tv dei fratelli Duffer ha scalato la classifica dei prodotti più visti sulla piattaforma raggiungendo in poche ore il primo posto. D’altra parte l’arrivo della… Leggi tutto »Stranger Things: secondo David Harbour, la stagione finale arriverà su Netflix nel 2024
-The post Stranger Things: secondo David Harbour, la stagione finale arriverà su Netflix nel 2024 appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Marilisa Di Maio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boys, streaming da record per la serie tv Prime Video]]></title>
-        <id>https://www.cinematographe.it/?p=909501</id>
-        <link href="https://www.cinematographe.it/serie-tv/the-boys-numeri-record-serie-prime-video/"/>
-        <updated>2022-07-05T17:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Che The Boys fosse un successo e fosse amata dalla critica e dal pubblico non è certo una novità. Quando però a una sensazione ‘a…
-L'articolo The Boys, streaming da record per la serie tv Prime Video proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Giacomo Ferri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaser per Polaris: nel 2144 la vita nell’Artico è brutale]]></title>
-        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=286643</id>
-        <link href="https://www.ilcineocchio.it/cinema/teaser-per-polaris-nel-2144-la-vita-nellartico-e-brutale/"/>
-        <updated>2022-07-05T17:21:10.000Z</updated>
-        <summary type="html"><![CDATA[C'è Kirsten Carthew  in cabina di regia del fanta-revenge canadese
-L'articolo Teaser per Polaris: nel 2144 la vita nell’Artico è brutale proviene da Il Cineocchio.]]></summary>
-        <author>
-            <name>Redazione Il Cineocchio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Of Roxy Music to be released on vinyl for first time]]></title>
-        <id>R9FgoLQjEj4Q8ACso4qQPT</id>
-        <link href="https://www.loudersound.com/news/roxy-music-best-of-to-be-reissued-on-vinyl-for-first-time"/>
-        <updated>2022-07-05T17:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Roxy Music are reuniting for their first tour in 11 years]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Stranger Things' Actor Prepped for Vecna Role With Black Metal]]></title>
-        <id>https://loudwire.com/?p=516675</id>
-        <link href="https://loudwire.com/stranger-things-jamie-campbell-bower-black-metal-vecna/"/>
-        <updated>2022-07-05T16:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Here are the bands Jamie Campbell Bower listed to get into his role as Vecna. Continue reading…]]></summary>
-        <author>
-            <name>Alicia Selin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Attori delle Serie Tv che sono spariti dalle scene dopo aver interpretato un ruolo iconico]]></title>
-        <id>https://www.hallofseries.com/?p=578947</id>
-        <link href="https://www.hallofseries.com/serie-tv/10-attori-serie-tv-spariti-dopo-aver-ruolo-iconico/"/>
-        <updated>2022-07-05T16:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Il mondo delle Serie Tv ha dato vita ad alcuni dei personaggi più iconici e magistrali mai scritti. Personalità enormi, piene di sfumature che si sono rivelate essere in grado di contribuire nel successo non solo del singolo personaggio, ma anche dell’intera serie. In questo senso spicca immediatamente anche l’attore che ha prestato il volto… Leggi tutto »10 Attori delle Serie Tv che sono spariti dalle scene dopo aver interpretato un ruolo iconico
-The post 10 Attori delle Serie Tv che sono spariti dalle scene dopo aver interpretato un ruolo iconico appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Annalisa Gabriele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kid Rock Insults LGBT Service Members With Crass 4th of July Meme]]></title>
-        <id>https://loudwire.com/?p=516663</id>
-        <link href="https://loudwire.com/kid-rock-gun-meme-lgbt-kermit-frog-independence-day-truth-social-trump/"/>
-        <updated>2022-07-05T16:49:50.000Z</updated>
-        <summary type="html"><![CDATA[See what he posted. Continue reading…]]></summary>
-        <author>
-            <name>Philip Trapp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stranger Things, chi si occuperà degli spin-off?]]></title>
-        <id>https://www.cinematographe.it/?p=909489</id>
-        <link href="https://www.cinematographe.it/serie-tv/stranger-things-spinoff/"/>
-        <updated>2022-07-05T16:44:52.000Z</updated>
-        <summary type="html"><![CDATA[È finita la quarta stagione da pochi giorni, un po’ di meritato riposo, poi di nuovo sotto con la quinta e ultima stagione. Questo è…
-L'articolo Stranger Things, chi si occuperà degli spin-off? proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Giacomo Ferri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Mott the Hoople's 'All the Young Dudes' Defined Glam-Rock]]></title>
-        <id>https://ultimateclassicrock.com/?p=523632</id>
-        <link href="https://ultimateclassicrock.com/mott-the-hoople-all-the-young-dudes-album/"/>
-        <updated>2022-07-05T16:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Random act of kindness from David Bowie jump-started classic 1972 album. Continue reading…]]></summary>
-        <author>
-            <name>Tyler Sage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love and Gelato dove è stato girato? Itinerario tra le location del film Netflix]]></title>
-        <id>https://www.cinematographe.it/?p=908994</id>
-        <link href="https://www.cinematographe.it/rubriche-cinema/cinematografood/love-and-gelato-location-film-dove-e-stato-girato/"/>
-        <updated>2022-07-05T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ci sono molti scorci di Roma in Love & Gelato, il film Netflix tratto dal romanzo di Jenna Evans Welch e diretto da Brandon Camp. Intrappolata…
-L'articolo Love and Gelato dove è stato girato? Itinerario tra le location del film Netflix proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Teresa Monaco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metallica release statement on Stranger Things' Master Of Puppets scene: "it's an incredible honour"]]></title>
-        <id>DR52RvLZtTCjSzJgFvY7U7</id>
-        <link href="https://www.loudersound.com/news/metallica-stranger-things-statement"/>
-        <updated>2022-07-05T16:18:40.000Z</updated>
-        <summary type="html"><![CDATA[It's the Stranger Things scene everyone keeps talking about - and now Metallica themselves have commented on it]]></summary>
-        <author>
-            <name>merlin.alderslade@futurenet.com (Merlin Alderslade)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic Mercyful Fate Guitarist Betrayed by Reunion]]></title>
-        <id>https://loudwire.com/?p=516667</id>
-        <link href="https://loudwire.com/mercyful-fate-michael-denner-betrayed-by-reunion/"/>
-        <updated>2022-07-05T16:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Michael Denner shares his thoughts on being left out of the band's reunion. Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La città incantata: il significato del film d’animazione di Hayao Miyazaki]]></title>
-        <id>https://www.cinematographe.it/?p=909003</id>
-        <link href="https://www.cinematographe.it/rubriche-cinema/focus/la-citta-incantata-significato/"/>
-        <updated>2022-07-05T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Per scoprire e riscoprire il maestro Hayao Miyazaki, dal 1° luglio al 17 agosto 2022 rifanno capolino al cinema alcuni suoi capolavori d’animazione quali La…
-L'articolo La città incantata: il significato del film d’animazione di Hayao Miyazaki proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Manuel Magarini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avatar 2: La Via dell’Acqua, James Cameron non vuole sentire i fan “frignare” per la lunghezza del film]]></title>
-        <id>https://www.cinematographe.it/?p=909457</id>
-        <link href="https://www.cinematographe.it/news/avatar-2-james-cameron-lunghezza-film/"/>
-        <updated>2022-07-05T15:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Era l’ormai lontano 2009 quando James Cameron strabiliava il pubblico di tutto il mondo con il suo Avatar. 13 anni dopo è pronto a rifarlo,…
-L'articolo Avatar 2: La Via dell’Acqua, James Cameron non vuole sentire i fan “frignare” per la lunghezza del film proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Giacomo Ferri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside 'Prince: The Immersive Experience']]></title>
-        <id>https://ultimateclassicrock.com/?p=523708</id>
-        <link href="https://ultimateclassicrock.com/prince-the-immersive-exhibit/"/>
-        <updated>2022-07-05T15:10:12.000Z</updated>
-        <summary type="html"><![CDATA[New exhibit in Chicago focuses on late legend's life and career and includes hands-on activities. Continue reading…]]></summary>
-        <author>
-            <name>Debra Filcman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the 3 greatest Chester Bennington songs, according to his
-former bandmate]]></title>
-        <id>ZTnBAkXrDeoZQAKKtQoWBH</id>
-        <link href="https://www.loudersound.com/features/these-are-the-3-greatest-chester-bennington-songs-according-to-his-former-bandmate"/>
-        <updated>2022-07-05T14:51:45.000Z</updated>
-        <summary type="html"><![CDATA[The greatest Chester Bennington performances, as picked by someone who knew him better than most]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stranger Things Vecna actor Jamie Campbell Bower listened to Darkthrone and Mayhem to get into character]]></title>
-        <id>xPmJ5QZdGS2zgCz9JqTxo7</id>
-        <link href="https://www.loudersound.com/news/stranger-things-vecna-metal"/>
-        <updated>2022-07-05T13:36:19.000Z</updated>
-        <summary type="html"><![CDATA[Jamie Campbell Bower listened to some extreme metal royalty to help bring Vecna to life in Stranger Things]]></summary>
-        <author>
-            <name>merlin.alderslade@futurenet.com (Merlin Alderslade)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kate Bush's 'Running Up That Hill' Reportedly Earning Millions]]></title>
-        <id>https://ultimateclassicrock.com/?p=523749</id>
-        <link href="https://ultimateclassicrock.com/kate-bush-running-up-that-hill-streaming-2022/"/>
-        <updated>2022-07-05T13:20:23.000Z</updated>
-        <summary type="html"><![CDATA[The 1985 single is back on the top of the charts thanks to 'Stranger Things.' Continue reading…]]></summary>
-        <author>
-            <name>Allison Rapp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thor Love And Thunder review: an uproariously funny, satisfying hero's journey]]></title>
-        <id>kMGtjyMRVSQkkHS3YqNHnU</id>
-        <link href="https://www.loudersound.com/reviews/thor-love-and-thunder-review"/>
-        <updated>2022-07-05T13:00:48.000Z</updated>
-        <summary type="html"><![CDATA[In Thor: Love And Thunder, director Taika Waititi attempts a tricky balancing act - and pulls it off with aplomb]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Double-Sleeve Your Record Collection]]></title>
-        <id>https://blog.discogs.com/?p=30488</id>
-        <link href="https://blog.discogs.com/en/why-you-should-use-inner-and-outer-record-sleeves/"/>
-        <updated>2022-07-05T13:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Accumulating, organizing, and maintaining a record collection can be quite the investment, but if you’re in it for the long haul, double-sleeving your records is the only way to go. Double-sleeving is the use of both protective inner and outer record sleeves. Inner sleeves house your vinyl and easily slide inside your record covers. Outer […]
-The post Why You Should Double-Sleeve Your Record Collection appeared first on Discogs Blog.]]></summary>
-        <author>
-            <name>Davey Ferchow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aerosmith's Joe Perry says rock isn't dead, credits fans for keeping it alive]]></title>
-        <id>FRQA73UhECNtCmwto8QiKZ</id>
-        <link href="https://www.loudersound.com/news/aerosmiths-joe-perry-says-rock-isnt-dead-credits-fans-for-keeping-it-alive"/>
-        <updated>2022-07-05T12:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Aerosmith guitarist Joe Perry disagrees with Gene Simmons' notorious "rock is dead" claim]]></summary>
-        <author>
-            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
         </author>
     </entry>
     <entry>
