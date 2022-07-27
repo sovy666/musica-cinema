@@ -2,10 +2,565 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/musica-cinema/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-26T00:54:19.814Z</updated>
+    <updated>2022-07-27T00:52:22.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sovy666.github.io/musica-cinema/index.html"/>
     <link rel="self" href="https://sovy666.github.io/musica-cinema/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Knack's My Sharona: an everyday tale of obsession, rejection and real estate]]></title>
+        <id>v3wpdXZwayRB6cVt6Kx4Wk</id>
+        <link href="https://www.loudersound.com/features/the-knacks-my-sharona-an-everyday-tale-of-obsession-rejection-and-real-estate"/>
+        <updated>2022-07-27T00:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Sharona Alperin used to dance at Knack shows before she was banned from them: This is the story of her song]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Echoes (serie Netflix): Michelle Monaghan ha una gemella e un grosso segreto]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=tv&amp;p=287134</id>
+        <link href="https://www.ilcineocchio.it/tv/trailer-per-echoes-serie-netflix-michelle-monaghan-ha-una-gemella/"/>
+        <updated>2022-07-26T23:11:11.000Z</updated>
+        <summary type="html"><![CDATA[C'è anche  Matt Bomer nel nuovo mistery thriller dei creatori di Tredici
+L'articolo Trailer per Echoes (serie Netflix): Michelle Monaghan ha una gemella e un grosso segreto proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaser per Let the Right One (serie Showtime): Demián Bichir ha una figlia che necessita sangue umano]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=tv&amp;p=287283</id>
+        <link href="https://www.ilcineocchio.it/tv/teaser-per-let-the-right-one-serie-showtime-demian-bichir-ha-una-figlia/"/>
+        <updated>2022-07-26T22:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Il romanzo Lsciami Entrare di John Ajvide Lindqvist arriva sul piccolo schermo
+L'articolo Teaser per Let the Right One (serie Showtime): Demián Bichir ha una figlia che necessita sangue umano proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Medieval: Ben Foster in mezzo a lotte di potere, tiranni e violenza bruta]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=287271</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-medieval-ben-foster-in-mezzo-a-lotte-di-potere-tiranni-e-violenza-bruta/"/>
+        <updated>2022-07-26T22:34:04.000Z</updated>
+        <summary type="html"><![CDATA[C'è anche Michael Cane nel dramma storico diretto dal ceco Petr Jákl
+L'articolo Trailer per Medieval: Ben Foster in mezzo a lotte di potere, tiranni e violenza bruta proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smith/Kotzen launch new live/studio EP  Better Days ...And Nights]]></title>
+        <id>fmLBcTEQmnkvPHqatyAKK8</id>
+        <link href="https://www.loudersound.com/news/smithkotzen-launch-new-livestudio-ep-better-days-and-nights"/>
+        <updated>2022-07-26T22:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Iron Maiden man Adrian Smith and fellow guitar wiz Richie Kotzen are to release a new EP in September]]></summary>
+        <author>
+            <name>fraser.lewry@futurenet.com (Fraser Lewry)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barack Obama Has a Couple Rock Songs on His Summer 2022 Playlist]]></title>
+        <id>https://loudwire.com/?p=519495</id>
+        <link href="https://loudwire.com/barack-obama-rock-songs-summer-2022-playlist/"/>
+        <updated>2022-07-26T21:14:38.000Z</updated>
+        <summary type="html"><![CDATA[See what he chose. Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Times Musicians Were an Emergency Fill-In]]></title>
+        <id>https://loudwire.com/?p=512755</id>
+        <link href="https://loudwire.com/musicians-emergency-fill-in-live-shows/"/>
+        <updated>2022-07-26T21:10:30.000Z</updated>
+        <summary type="html"><![CDATA[From medical emergencies to last-minute personal matters. Continue reading…]]></summary>
+        <author>
+            <name>Jacklyn Krol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Fraser irriconoscibile nelle nuove immagini del film The Whale]]></title>
+        <id>https://www.cinematographe.it/?p=917858</id>
+        <link href="https://www.cinematographe.it/news/brendan-fraser-irriconoscibile-nelle-nuove-immagini-del-film-the-whale/"/>
+        <updated>2022-07-26T20:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Fraser sarà il protagonista di The Whale: l’ultima pellicola diretta dal regista Darren Aronofsky.  Il film verrà presentato a Venezia 2022: diffusa la prima foto ufficiale che…
+L'articolo Brendan Fraser irriconoscibile nelle nuove immagini del film The Whale proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosa vedere su Disney+ ad agosto 2022? Tutti i film e le serie TV in uscita]]></title>
+        <id>https://www.cinematographe.it/?p=917583</id>
+        <link href="https://www.cinematographe.it/streaming/film-serie-tv-disneyplus-agosto-2022/"/>
+        <updated>2022-07-26T20:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Su Disney+ nel mese di agosto 2022 continuano le nuove uscite Marvel Studios con 2 imperdibili serie tv. La prima, che sarà disponibile dal 17…
+L'articolo Cosa vedere su Disney+ ad agosto 2022? Tutti i film e le serie TV in uscita proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Giorgia Terranova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanditon – Stagione 2: recensione della serie tv Sky]]></title>
+        <id>https://www.cinematographe.it/?p=917609</id>
+        <link href="https://www.cinematographe.it/recensioni-serie/sanditon-2-stagione-recensione/"/>
+        <updated>2022-07-26T20:40:00.000Z</updated>
+        <summary type="html"><![CDATA[È tempo di carrozze e cavalli, di godere dell’irresistibile fascino dei soldati, ma soprattutto di farsi coinvolgere negli intrighi amorosi e nei nuovi sogni romantici…
+L'articolo Sanditon – Stagione 2: recensione della serie tv Sky proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Valeria Gennaro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avengers: The Kang Dynasty, il regista di Shang-Chi dirigerà il film]]></title>
+        <id>https://www.cinematographe.it/?p=917855</id>
+        <link href="https://www.cinematographe.it/news/avengers-the-kang-dynasty-il-regista-di-shang-chi-dirigera-il-film/"/>
+        <updated>2022-07-26T20:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Avengers: The Kang Dynasty sarà uno dei prossimi film programmati dalla Marveled ha ufficialmente il suo regista. Dopo l’annuncio dei fratelli Russo, che non ritorneranno a…
+L'articolo Avengers: The Kang Dynasty, il regista di Shang-Chi dirigerà il film proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFDP's Moody 'Didn't Agree' With 'Living the Dream' Commentary]]></title>
+        <id>https://loudwire.com/?p=519471</id>
+        <link href="https://loudwire.com/five-finger-death-punch-ivan-moody-didnt-agree-living-the-dream-video-commentary/"/>
+        <updated>2022-07-26T19:46:47.000Z</updated>
+        <summary type="html"><![CDATA[It 'went down like a fart in a church,' says the singer. Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boys: capire la serie attraverso la colonna sonora]]></title>
+        <id>https://www.cinematographe.it/?p=917668</id>
+        <link href="https://www.cinematographe.it/rubriche-cinema/colonne-sonore/the-boys-canzoni-colonna-sonora/"/>
+        <updated>2022-07-26T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Nell’ultimo mese si è parlato molto della colonna sonora di Stranger Things, soprattutto per l’incredibile successo di Running Up That Hill, il brano di Kate…
+L'articolo The Boys: capire la serie attraverso la colonna sonora proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Redazione</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sid Wilson's Old Slipknot Mask Is Animatronic, Sings Along at Gig]]></title>
+        <id>https://loudwire.com/?p=519469</id>
+        <link href="https://loudwire.com/slipknot-mask-sid-wilson-animatronic-singalong-video/"/>
+        <updated>2022-07-26T18:24:44.000Z</updated>
+        <summary type="html"><![CDATA[See the uncanny stage display. Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCI Cinemas lancia il family price e altre iniziative contro il carovita]]></title>
+        <id>https://www.cinematographe.it/?p=917824</id>
+        <link href="https://www.cinematographe.it/news/uci-cinemas-family-price-sconti-iniziative-estive/"/>
+        <updated>2022-07-26T17:51:47.000Z</updated>
+        <summary type="html"><![CDATA[In questi ultimi mesi caratterizzati da grandi incertezze dal punto di vista geopolitico e non solo, molti dei prodotti e dei beni che vengono consumati…
+L'articolo UCI Cinemas lancia il family price e altre iniziative contro il carovita proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Giacomo Ferri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halford Pissed When Learning Priest Got ‘Musical Excellence' Nod]]></title>
+        <id>https://loudwire.com/?p=519456</id>
+        <link href="https://loudwire.com/rob-halford-pissed-judas-priest-musical-excellence-award-rock-hall/"/>
+        <updated>2022-07-26T17:38:56.000Z</updated>
+        <summary type="html"><![CDATA[He has mixed feelings overall, but is relieved to get in at all. Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney+ criticata dai genitori per aver aggiunto Deadpool e Logan al catalogo]]></title>
+        <id>https://www.cinematographe.it/?p=917815</id>
+        <link href="https://www.cinematographe.it/news/disney-critica-genitori-film-vietati-ai-minori/"/>
+        <updated>2022-07-26T17:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Guai seri in vista per la Disney negli Stati Uniti. La Parents Television and Media Council ha fortemente criticato la decisione di Disney+ di aggiungere…
+L'articolo Disney+ criticata dai genitori per aver aggiunto Deadpool e Logan al catalogo proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Giacomo Ferri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime, a settembre aumenteranno i costi dell’abbonamento]]></title>
+        <id>https://www.cinematographe.it/?p=917805</id>
+        <link href="https://www.cinematographe.it/streaming/amazon-prime-rialzo-costo-abbonamento/"/>
+        <updated>2022-07-26T16:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Dopo essere toccato agli Stati Uniti a febbraio, il rincaro al costo dell’abbonamento di Amazon Prime arriva anche in Europa. E non si tratterà di…
+L'articolo Amazon Prime, a settembre aumenteranno i costi dell’abbonamento proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Giacomo Ferri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Years Ago: When 'Austin Powers in Goldmember' Was King]]></title>
+        <id>https://ultimateclassicrock.com/?p=525803</id>
+        <link href="https://ultimateclassicrock.com/austin-powers-in-goldmember/"/>
+        <updated>2022-07-26T16:39:29.000Z</updated>
+        <summary type="html"><![CDATA[The 2002 time-traveling movie starred Mike Myers, Michael Caine and Beyonce. Continue reading…]]></summary>
+        <author>
+            <name>Marah Eakin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joseph Quinn Says it's 'Like Being a Rock Star' Playing Metallica]]></title>
+        <id>https://loudwire.com/?p=519392</id>
+        <link href="https://loudwire.com/joseph-quinn-metallica-eddie-munson-stranger-things-tonight-show/"/>
+        <updated>2022-07-26T16:34:10.000Z</updated>
+        <summary type="html"><![CDATA[The Netflix 'It-Dude' says it was 'like a rock concert.' Continue reading…]]></summary>
+        <author>
+            <name>Todd Fooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Call Saul 6×10 – Jimmy, Saul e Gene]]></title>
+        <id>https://www.hallofseries.com/?p=584932</id>
+        <link href="https://www.hallofseries.com/recensioni/better-call-saul-6x10-gene/"/>
+        <updated>2022-07-26T16:21:02.000Z</updated>
+        <summary type="html"><![CDATA[C’è una domanda dopo questa 6×10 di Better Call Saul che continua a battere come una goccia ostinata e implacabile nei pensieri. È un tarlo assillante, un corvo nero che gracchia e fa perdere ogni certezza, che costringe a fare i conti con un abisso eccitante e spaventoso. Tutto il tempo questa domanda mi ha… Leggi tutto »Better Call Saul 6×10 – Jimmy, Saul e Gene
+The post Better Call Saul 6×10 – Jimmy, Saul e Gene appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Emanuele Di Eugenio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taipei Houston (ft. Lars Ulrich's Sons) Debut Noisy Alt-Rock Song]]></title>
+        <id>https://loudwire.com/?p=519378</id>
+        <link href="https://loudwire.com/taipei-houston-lars-ulrich-sons-band-debut-single-metallica/"/>
+        <updated>2022-07-26T16:18:11.000Z</updated>
+        <summary type="html"><![CDATA[The Metallica progeny have released their first official single. Continue reading…]]></summary>
+        <author>
+            <name>Philip Trapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the man who can make guitars out of literally anything, from shovels to bottles of Mountain Dew]]></title>
+        <id>agr4RoaNZNC6m3pkFyPwB3</id>
+        <link href="https://www.loudersound.com/news/meet-the-man-who-can-make-guitars-out-of-literally-anything-from-shovels-to-bottles-of-mountain-dew"/>
+        <updated>2022-07-26T16:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Calling all guitar tech nerds! There's no object too strange for Shane Speal when it comes to building DIY guitars]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venezia 79, in concorso anche Amanda, il film con Benedetta Porcaroli]]></title>
+        <id>https://www.cinematographe.it/?p=917756</id>
+        <link href="https://www.cinematographe.it/news/venezia-79-amanda-concorso-benedetta-porcaroli/"/>
+        <updated>2022-07-26T16:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Alla 79esima Mostra Internazionale d’Arte Cinematografica di Venezia, in concorso nella sezione Orizzonte Extra, sarà presentato anche il film Amanda, esordio della regista e sceneggiatrice…
+L'articolo Venezia 79, in concorso anche Amanda, il film con Benedetta Porcaroli proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Giacomo Ferri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avete visto il marito di Valentina Pace? Al matrimonio era raggiante, anche per lo splendido abito da sposa dell’attrice [FOTO]]]></title>
+        <id>https://www.cinematographe.it/?p=917542</id>
+        <link href="https://www.cinematographe.it/news/valentina-pace-marito-stefano-moruzzi-abito-sposa/"/>
+        <updated>2022-07-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Immersa nel verde dei Castelli Romani, l’attrice Valentina Pace, volto noto soprattutto per il ruolo nella longeva soap opera Un posto al sole, ha coronato…
+L'articolo Avete visto il marito di Valentina Pace? Al matrimonio era raggiante, anche per lo splendido abito da sposa dell’attrice [FOTO] proviene da Cinematographe.it.]]></summary>
+        <author>
+            <name>Manuel Magarini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Elitist 2006 Hot Topic Employee’ Reacts to 2022 Version of Store]]></title>
+        <id>https://loudwire.com/?p=519414</id>
+        <link href="https://loudwire.com/elitist-2006-hot-topic-employee-reacts-2022-version-tiktok/"/>
+        <updated>2022-07-26T15:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Let’s just say Funko Pops aren’t exactly on brand for mid-2000s Hot Topic. Continue reading…]]></summary>
+        <author>
+            <name>Mike Nied</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robert Plant Announces Concerts With Saving Grace]]></title>
+        <id>https://ultimateclassicrock.com/?p=526432</id>
+        <link href="https://ultimateclassicrock.com/robert-plant-saving-grace-uk-tour-2022/"/>
+        <updated>2022-07-26T15:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Shows will take place in intimate venues across the U.K.  Continue reading…]]></summary>
+        <author>
+            <name>Allison Rapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes, Wendy’s Officially Unveiled an Emo Version of Their Logo]]></title>
+        <id>https://loudwire.com/?p=519351</id>
+        <link href="https://loudwire.com/wendys-emo-version-logo/"/>
+        <updated>2022-07-26T15:49:53.000Z</updated>
+        <summary type="html"><![CDATA[Wendy, are you okay? Continue reading…]]></summary>
+        <author>
+            <name>Chad Childers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Pop-Punk Covers of '80s Songs]]></title>
+        <id>https://loudwire.com/?p=482819</id>
+        <link href="https://loudwire.com/pop-punk-covers-80s-songs-2/"/>
+        <updated>2022-07-26T15:47:43.000Z</updated>
+        <summary type="html"><![CDATA[It's '80s flavor, with a pop-punk stamp of approval. Continue reading…]]></summary>
+        <author>
+            <name>Alicia Selin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rob Halford Was 'Pissed' About Rock Hall Musical Excellence Award]]></title>
+        <id>https://ultimateclassicrock.com/?p=526424</id>
+        <link href="https://ultimateclassicrock.com/rob-halford-pissed-judas-priest-musical-excellence-award/"/>
+        <updated>2022-07-26T15:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Judas Priest singer called his band "the Rodney Dangerfield of heavy metal." Continue reading…]]></summary>
+        <author>
+            <name>Bryan Rolli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every AFI album ranked from worst to best]]></title>
+        <id>DxphePeCEMqbLnSQuRgQng</id>
+        <link href="https://www.loudersound.com/features/every-afi-album-ranked-from-worst-to-best"/>
+        <updated>2022-07-26T14:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Three decades, 11 albums. We rank the discography of the Californian goth-punk greats]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taipei Houston, aka the band featuring Lars Ulrich's sons, release debut single As The Sun Sets]]></title>
+        <id>fD8N5ZeKDCgbWiWALQYKJe</id>
+        <link href="https://www.loudersound.com/news/taipei-houston-aka-the-band-featuring-lars-ulrichs-sons-release-debut-single-as-the-sun-sets"/>
+        <updated>2022-07-26T14:27:12.000Z</updated>
+        <summary type="html"><![CDATA[The sons of Metallica's Lars Ulrich, Myles and Layne Ulrich, have just released their first debut single as part of their band Taipei Houston]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Misfits: la recensione del film di rapina di Renny Harlin]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=287157</id>
+        <link href="https://www.ilcineocchio.it/cinema/the-misfits-la-recensione-del-film-di-rapina-di-renny-harlin/"/>
+        <updated>2022-07-26T14:14:12.000Z</updated>
+        <summary type="html"><![CDATA[Pierce Brosnan è lo sprecato protagonista di un dimenticabile heist movie che si crede brillante senza esserlo e fallisce sia nella costruzione dei personaggi che, soprattutto, di quel colpo che avrebbe dovuto essere il punto focale di un prodotto di questo tipo
+L'articolo The Misfits: la recensione del film di rapina di Renny Harlin proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Francesco Chello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stranger Things’ Joseph Quinn remixing Eddie Munson’s big speech in a bunch of different accents is absolutely hilarious]]></title>
+        <id>WmfoUQdEn6BcHFF2EGumyP</id>
+        <link href="https://www.loudersound.com/news/stranger-things-joseph-quinn-remixing-eddie-munsons-big-speech-in-a-bunch-of-different-accents-is-absolutely-hilarious"/>
+        <updated>2022-07-26T14:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen to Joseph Quinn doing Eddie Munson’s monologue in Scottish, New York and Australian accents. Plus actor says playing Metallica him “feel like a rock star”]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Bluetooth speakers under £100/$100 in 2022: Top budget choices from Amazon, Anker, JBL and more]]></title>
+        <id>j9GKh3qojet9qKLksmbv6j</id>
+        <link href="https://www.loudersound.com/features/best-bluetooth-speakers-under-100"/>
+        <updated>2022-07-26T14:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Our pick of the best budget boom boxes you can buy right now]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35 Years Ago: Billy Joel Makes History With Soviet Union Shows]]></title>
+        <id>https://ultimateclassicrock.com/?p=525788</id>
+        <link href="https://ultimateclassicrock.com/billy-joel-soviet-union-shows/"/>
+        <updated>2022-07-26T14:09:58.000Z</updated>
+        <summary type="html"><![CDATA["You never could have told me I'd be playing rock 'n' roll in Russia," the Piano Man marveled. Continue reading…]]></summary>
+        <author>
+            <name>Gary Graff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stevie Nicks announces second leg of US tour]]></title>
+        <id>Jpb7FhRpS4EFFu6ZwAKzTj</id>
+        <link href="https://www.loudersound.com/news/stevie-nicks-announces-second-leg-of-us-tour"/>
+        <updated>2022-07-26T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Stevie Nicks has added a number of new dates to her autumn trek across the US]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivan Moody hated Five Finger Death Punch’s controversial ‘anti-mask‘ video for Living The Dream]]></title>
+        <id>ooC7ZtAZKtdab9GJe4SY75</id>
+        <link href="https://www.loudersound.com/news/ivan-moody-hated-five-finger-death-punchs-controversial-anti-mask-living-the-dream-video"/>
+        <updated>2022-07-26T13:49:03.000Z</updated>
+        <summary type="html"><![CDATA[“It won’t ever be done with my name on it again,” says FFDP’s Ivan Moody of the band’s notorious 2020 video for Living The Dream]]></summary>
+        <author>
+            <name>Louder Sound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer per Pearl: alla origini della villain di Mia Goth nel prequel di X – A sexy horror story]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=287250</id>
+        <link href="https://www.ilcineocchio.it/cinema/trailer-per-pearl-alla-origini-della-villain-di-mia-goth-nel-prequel/"/>
+        <updated>2022-07-26T13:24:22.000Z</updated>
+        <summary type="html"><![CDATA[L'attrice è anche co-sceneggiatrice del film, ancora una volta diretto da Ti West 
+L'articolo Trailer per Pearl: alla origini della villain di Mia Goth nel prequel di X – A sexy horror story proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sammy Hagar Covers 'This Planet's on Fire' on New Megadeth Album]]></title>
+        <id>https://ultimateclassicrock.com/?p=526398</id>
+        <link href="https://ultimateclassicrock.com/sammy-hagar-megadeth-this-planets-on-fire/"/>
+        <updated>2022-07-26T13:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Red Rocker's 1979 track gets new life on metal band's upcoming LP. Continue reading…]]></summary>
+        <author>
+            <name>Allison Rapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 'Women Who Rock' Documentary Became a Celebration]]></title>
+        <id>https://ultimateclassicrock.com/?p=525312</id>
+        <link href="https://ultimateclassicrock.com/women-who-rock-jessica-hopper-interview/"/>
+        <updated>2022-07-26T12:33:55.000Z</updated>
+        <summary type="html"><![CDATA[New four-part Epix series delves into the often-overlooked figures who helped shaped rock from the ground up. Continue reading…]]></summary>
+        <author>
+            <name>Allison Rapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nova Twins nominated for Mercury Prize for Supernova album]]></title>
+        <id>YPNVfs46SpmxqC5ayBgryP</id>
+        <link href="https://www.loudersound.com/news/nova-twins-nominated-for-mercury-prize-with-their-second-album-supernova"/>
+        <updated>2022-07-26T11:13:05.000Z</updated>
+        <summary type="html"><![CDATA[London rock duo Nova Twins have been shortlisted for a Mercury Prize in the Albums Of The Year category]]></summary>
+        <author>
+            <name>elizabeth.capewell@futurenet.com (Liz Scarlett)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Serie Tv che non sono state all’altezza del loro protagonista]]></title>
+        <id>https://www.hallofseries.com/?p=209638</id>
+        <link href="https://www.hallofseries.com/serie-tv/the-following-serie-tv-protagonista-altezza/"/>
+        <updated>2022-07-26T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Sono state molte le occasioni in cui proprio grazie alle serie tv abbiamo conosciuto attori che si sono rivelati essere molto più validi di quanto pensassimo. Basti pensare, per esempio, a Jessica Lange (American Horror Story) e Bryan Cranston (Breaking Bad). Potremmo dire lo stesso, ad esempio, di The Following? Le serie tv ci hanno… Leggi tutto »5 Serie Tv che non sono state all’altezza del loro protagonista
+The post 5 Serie Tv che non sono state all’altezza del loro protagonista appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Palma Vasta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Serie Tv che se non fosse per Italia 1 sarebbero sprofondate nel dimenticatoio]]></title>
+        <id>https://www.hallofseries.com/?p=234319</id>
+        <link href="https://www.hallofseries.com/serie-tv/serie-tv-su-italia-uno-dimenticatoio/"/>
+        <updated>2022-07-26T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Ci sono alcune opere che abbiamo avuto modo di conoscere soltanto grazie alle piattaforme streaming. Come ben sappiamo, però, sin da quando eravamo piccoli le serie tv su Italia 1 sono sempre state una garanzia per il nostro intrattenimento. Quante volte ci siamo piazzati davanti alla televisione e abbiamo fatto zapping fino ad arrivare su… Leggi tutto »5 Serie Tv che se non fosse per Italia 1 sarebbero sprofondate nel dimenticatoio
+The post 5 Serie Tv che se non fosse per Italia 1 sarebbero sprofondate nel dimenticatoio appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Palma Vasta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime Video aumenta i prezzi annuali e mensili degli abbonamenti: tutti i dettagli!]]></title>
+        <id>https://www.hallofseries.com/?p=584849</id>
+        <link href="https://www.hallofseries.com/news/amazon-prime-aumenta-prezzi-abbonamenti/"/>
+        <updated>2022-07-26T09:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Prime Video, quest’oggi, non è propriamente portatrice di buone notizie. Normalmente siamo sempre entusiasti di annunciare le novità della piattaforma streaming, sia quelle settimanali (e qui potete trovare quelle di questa settimana) che quelle mensili (potete trovare qui tutto ciò che è arrivato in catalogo nel mese di luglio). Tuttavia la notizia di oggi… Leggi tutto »Amazon Prime Video aumenta i prezzi annuali e mensili degli abbonamenti: tutti i dettagli!
+The post Amazon Prime Video aumenta i prezzi annuali e mensili degli abbonamenti: tutti i dettagli! appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Elena Di Stasio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 saghe cinematografiche non proprio mainstream che dovreste assolutamente vedere]]></title>
+        <id>https://www.hallofseries.com/?p=582491</id>
+        <link href="https://www.hallofseries.com/film/saghe-cinematografiche-vedere-sconosciute/"/>
+        <updated>2022-07-26T09:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Siamo sempre più abituati a vedere una storia sviscerata, analizzata in tutte le sue possibili evoluzioni, approfondita, a volte anche portata inutilmente troppo per le lunghe. Siamo un mondo che predilige sempre di più le serie ai film, sempre più quelle storie che si snodano per anni, ma anche si ampliano sempre più, crescendo insieme… Leggi tutto »5 saghe cinematografiche non proprio mainstream che dovreste assolutamente vedere
+The post 5 saghe cinematografiche non proprio mainstream che dovreste assolutamente vedere appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Carolina Avagliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Terminal List è la solita storia che alla fine intriga sempre]]></title>
+        <id>https://www.hallofseries.com/?p=584015</id>
+        <link href="https://www.hallofseries.com/the-terminal-list/the-terminal-list-intriga-sempre/"/>
+        <updated>2022-07-26T08:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Attenzione: l’articolo contiene spoiler sul finale di The Terminal List! The Terminal List è una piccola perla adrenalinica di Amazon Prime Video, rilasciata lo scorso primo luglio, trasposizione televisiva dell’omonimo romanzo di Jack Carr (qui potete leggere la nostra recensione della Serie Tv). Il protagonista assoluto è il Comandante James Reece, interpretato da Chris Pratt,… Leggi tutto »The Terminal List è la solita storia che alla fine intriga sempre
+The post The Terminal List è la solita storia che alla fine intriga sempre appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Clotilde Formica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teen Wolf – Jeff Davis affronta una questione spinosa sugli Stydia]]></title>
+        <id>https://www.hallofseries.com/?p=584605</id>
+        <link href="https://www.hallofseries.com/news/teen-wolf-davis-questione-stydia/"/>
+        <updated>2022-07-26T08:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Attenzione: l’articolo contiene spoiler su Teen Wolf! Il film sequel di Teen Wolf è ormai alle porte. L’uscita di Teen Wolf: The Movie è infatti prevista su Paramount+ per la fine del 2022 e, qualche giorno fa, al Comic-Con di San Diego è stato presentato il primo trailer ufficiale del film. In questo sequel compariranno… Leggi tutto »Teen Wolf – Jeff Davis affronta una questione spinosa sugli Stydia
+The post Teen Wolf – Jeff Davis affronta una questione spinosa sugli Stydia appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Silvia Brighi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boys è politicamente scorretta nel modo più corretto possibile]]></title>
+        <id>https://www.hallofseries.com/?p=583542</id>
+        <link href="https://www.hallofseries.com/the-boys/the-boys-serie-politicamente-scorretta-giusto-modo/"/>
+        <updated>2022-07-26T07:44:10.000Z</updated>
+        <summary type="html"><![CDATA["Da grandi poteri derivano grandi responsabilità", questo però non vale affatto per The Boys, una delle serie più scorrette di sempre
+The post The Boys è politicamente scorretta nel modo più corretto possibile appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Benedetta Vanotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All or Nothing: Juventus è un esperimento riuscito?]]></title>
+        <id>https://www.hallofseries.com/?p=583930</id>
+        <link href="https://www.hallofseries.com/all-or-nothing-juventus/juventus-all-or-nothing-esperimento-riuscito/"/>
+        <updated>2022-07-26T07:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Nel novembre del 2021. Amazon Prime Video ci ha portato all’interno del mondo Juventus. Lo ha fatto in un momento delicato, visto che i bianconeri venivano da una stagione deludente e ne stavano vivendo una ancora peggiore. La smania di capire cosa è andato storto dopo nove anni di dominio era enorme e l’uscita del… Leggi tutto »All or Nothing: Juventus è un esperimento riuscito?
+The post All or Nothing: Juventus è un esperimento riuscito? appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Danilo Budite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Serie Tv targate Netflix che non hanno avuto la giusta risonanza mediatica]]></title>
+        <id>https://www.hallofseries.com/?p=581375</id>
+        <link href="https://www.hallofseries.com/netflix/netflix-serie-non-avuto-giusta-risonanza-mediatica/"/>
+        <updated>2022-07-26T07:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Bisognerebbe munirsi di un po’ di pazienza per andare a scovare quei titoli Netflix che finiscono immeritatamente ai margini del dibattito sulle serie tv, solo perché non rientrano nel grande circuito mediatico che, nel bene e nel male, capitalizza l’attenzione solo su una piccola parte della gigantesca offerta di prodotti seriali. Se di una serie… Leggi tutto »7 Serie Tv targate Netflix che non hanno avuto la giusta risonanza mediatica
+The post 7 Serie Tv targate Netflix che non hanno avuto la giusta risonanza mediatica appeared first on Hall of Series.]]></summary>
+        <author>
+            <name>Serena Verrecchia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eddie Vedder Returns to Performing After Damaging Vocal Cords]]></title>
+        <id>https://ultimateclassicrock.com/?p=526380</id>
+        <link href="https://ultimateclassicrock.com/eddie-vedder-pearl-jam-returns/"/>
+        <updated>2022-07-26T02:02:47.000Z</updated>
+        <summary type="html"><![CDATA[Pearl Jam had been forced to cancel shows while the frontman recovered.  Continue reading…]]></summary>
+        <author>
+            <name>Corey Irwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Elton John and Britney Spears Releasing New 'Tiny Dancer']]></title>
+        <id>https://ultimateclassicrock.com/?p=526370</id>
+        <link href="https://ultimateclassicrock.com/elton-john-britney-spears-tiny-dancer/"/>
+        <updated>2022-07-26T01:12:10.000Z</updated>
+        <summary type="html"><![CDATA[“This was Elton’s idea, and Britney is a huge fan.” Continue reading…]]></summary>
+        <author>
+            <name>Corey Irwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: What's the Best Iron Maiden Album? - Vote Now]]></title>
         <id>https://loudwire.com/?p=519265</id>
@@ -35,6 +590,17 @@
 L'articolo Wakanda Forever: Letitia Wright è il nuovo Black Panther? La risposta dell’attrice proviene da Cinematographe.it.]]></summary>
         <author>
             <name>Sveva Di Palma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muoiono a 80 anni David Warner (Il presagio) e 83 anni Paul Sorvino (Quei bravi ragazzi)]]></title>
+        <id>https://www.ilcineocchio.it/?post_type=news&amp;p=287253</id>
+        <link href="https://www.ilcineocchio.it/news/muoiono-a-80-anni-david-warner-il-presagio-e-83-anni-paul-sorvino/"/>
+        <updated>2022-07-25T20:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Entrambi gli attori condividono trascorsi nel cinema di genere
+L'articolo Muoiono a 80 anni David Warner (Il presagio) e 83 anni Paul Sorvino (Quei bravi ragazzi) proviene da Il Cineocchio.]]></summary>
+        <author>
+            <name>Redazione Il Cineocchio</name>
         </author>
     </entry>
     <entry>
@@ -423,394 +989,6 @@ The post Un ricordo di Bryan Cranston in Malcolm In The Middle appeared first on
 The post 7 coppie di attori delle Serie Tv che sono grandi amici nonostante non abbiano mai recitato insieme appeared first on Hall of Series.]]></summary>
         <author>
             <name>Clotilde Formica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Bird sarà la nuova Mindhunter?]]></title>
-        <id>https://www.hallofseries.com/?p=583365</id>
-        <link href="https://www.hallofseries.com/black-bird/black-bird-nuova-mindhunter/"/>
-        <updated>2022-07-25T12:49:13.000Z</updated>
-        <summary type="html"><![CDATA[È sufficiente la perfetta analisi della psicologia di un serial killer a rendere Black Bird la nuova Mindhunter? Sicuramente no, ma sarebbe altrettanto sbagliato non considerare le affinità esistenti tra le due serie crime. Disponibile a partire dall’8 luglio sulla piattaforma Apple Tv+, Black Bird è la serie true crime che mostra le vicende del… Leggi tutto »Black Bird sarà la nuova Mindhunter?
-The post Black Bird sarà la nuova Mindhunter? appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Roberta De Vita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ticketmaster Defends $4,500 Bruce Springsteen Pricing]]></title>
-        <id>https://ultimateclassicrock.com/?p=526232</id>
-        <link href="https://ultimateclassicrock.com/bruce-springsteen-ticket-price/"/>
-        <updated>2022-07-25T12:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Seller says only 11% of sales are connected to "dynamic pricing" policy. Continue reading…]]></summary>
-        <author>
-            <name>Martin Kielty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perché dovreste vedere Bleach]]></title>
-        <id>https://www.hallofseries.com/?p=583590</id>
-        <link href="https://www.hallofseries.com/anime/bleach-perche-dovreste-vederlo/"/>
-        <updated>2022-07-25T12:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Vedete, ci sono alcuni titoli in grado di trascendere lo spazio ed il tempo; titoli in grado di coinvolgere persone di qualsiasi età, estrazione sociale o collocazione geografica. Ci sono opere che semplicemente segnano un genere, sfondando quel muro culturale che troppo spesso separa il mondo Occidentale dal Paese del Sol Levante. Bleach, riprendendo il… Leggi tutto »Perché dovreste vedere Bleach
-The post Perché dovreste vedere Bleach appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Paolo Ruta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La corsa contro il tempo di Thomas Shelby]]></title>
-        <id>https://www.hallofseries.com/?p=578306</id>
-        <link href="https://www.hallofseries.com/peaky-blinders/thomas-shelby-corsa-contro-tempo/"/>
-        <updated>2022-07-25T12:06:12.000Z</updated>
-        <summary type="html"><![CDATA[ATTENZIONE: Il seguente articolo contiene SPOILER sulla serie Peaky Blinders! Avevamo lasciato Thomas Shelby stremato, sconfitto e per la prima volta nella serie pronto a compiere un gesto estremo pur di abbandonarsi al riposo eterno. Eppure, una volta premuto il grilletto, il colpo non parte.I proiettili sono stati tolti preventivamente dall’arma, la morte sembra tardare… Leggi tutto »La corsa contro il tempo di Thomas Shelby
-The post La corsa contro il tempo di Thomas Shelby appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Nicolo Ferretti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 coppie delle Serie Tv che purtroppo non sono mai diventate delle vere coppie]]></title>
-        <id>https://www.hallofseries.com/?p=580642</id>
-        <link href="https://www.hallofseries.com/serie-tv/stranger-things-coppie-che-non-sono-mai-nate/"/>
-        <updated>2022-07-25T11:48:41.000Z</updated>
-        <summary type="html"><![CDATA[In un contesto in cui le serie tv propongono una miriade di scenari, personaggi e intrecci, è inevitabile affezionarsi a uno qualsiasi dei protagonisti e finire per fare il tifo per una qualche vicenda. Sono tantissimi gli show per la televisione che incitano gli spettatori a sperare sempre di più che qualcosa accada. Ci sono… Leggi tutto »15 coppie delle Serie Tv che purtroppo non sono mai diventate delle vere coppie
-The post 15 coppie delle Serie Tv che purtroppo non sono mai diventate delle vere coppie appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Giulia Violini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is what Kate Bush’s Running Up The Hill would sound like as a Metallica song… with Matt Heafy on guitar]]></title>
-        <id>q6cTc5iDMRtQAnwxyMmMQB</id>
-        <link href="https://www.loudersound.com/news/this-is-what-kate-bushs-running-up-the-hill-would-sound-like-as-a-metallica-song-with-matt-heafy-on-guitar"/>
-        <updated>2022-07-25T11:28:09.000Z</updated>
-        <summary type="html"><![CDATA[YouTuber Anthony Vincent and Trivium’s Matt Heafy team up to deliver the last the word on Stranger Things with the ultimate Kate Bush/Metallica mash-up]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rob Halford says Judas Priest “were dancing with death” in the early 80s]]></title>
-        <id>mKrzTkAB9uBA4d2WJF99Td</id>
-        <link href="https://www.loudersound.com/news/rob-halford-judas-priest-dancing-with-death-1980s"/>
-        <updated>2022-07-25T10:35:30.000Z</updated>
-        <summary type="html"><![CDATA[“How we got through, I don’t know,” says Rob Halford of the near-fatal sessions for 1982’s Screaming For Vengeance album]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dossier: Nausicaa della Valle del Vento di Hayao Miyazaki, o convivenza con la Natura o morte]]></title>
-        <id>https://www.ilcineocchio.it/?post_type=cinema&amp;p=287227</id>
-        <link href="https://www.ilcineocchio.it/cinema/dossier-nausicaa-della-valle-del-vento-di-hayao-miyazaki-o-convivenza/"/>
-        <updated>2022-07-25T10:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Nel 1984 il filmmaker giapponese portava nei cinema il suo secondo lungometraggio, un crudo monito all'umanità intriso di bellezza
-L'articolo Dossier: Nausicaa della Valle del Vento di Hayao Miyazaki, o convivenza con la Natura o morte proviene da Il Cineocchio.]]></summary>
-        <author>
-            <name>William Maga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Tom Morello get accidentally taken out by a security guard at a Rage Against The Machine gig]]></title>
-        <id>wZUZPQA8s9DU49xNr8xNAS</id>
-        <link href="https://www.loudersound.com/news/watch-tom-morello-get-accidentally-taken-out-by-a-security-guard-at-a-rage-against-the-machine-gig"/>
-        <updated>2022-07-25T09:33:12.000Z</updated>
-        <summary type="html"><![CDATA[“What just happened?” says RATM guitarist Tom Morello after being knocked into the pit mid-show by a security guard chasing a stage invader]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZZ Top: Life after Dusty Hill - only in the new issue of Classic Rock, out now]]></title>
-        <id>9ddifxdq7DWPBxLugoYV2J</id>
-        <link href="https://www.loudersound.com/news/zz-top-life-after-dusty-hill-only-in-the-new-issue-of-classic-rock-out-now"/>
-        <updated>2022-07-25T09:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Also in this issue: Kate Bush, Dave Mustaine, Prince, Guns N' Roses, The Gaslight Anthem, Marshall Tucker Band, Chuck Leavell, H.e.a.t, Siouxsie & The Banshees, Fantastic Negrito and more]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colin Harkness, frontman with NWOBHM stalwarts Spider, dead at 62]]></title>
-        <id>UmLGXBBPshw7Gn3Rv3sM4V</id>
-        <link href="https://www.loudersound.com/news/colin-harkness-frontman-with-nwobhm-stalwarts-spider-dead-at-61"/>
-        <updated>2022-07-25T07:36:44.000Z</updated>
-        <summary type="html"><![CDATA[The death of Spider frontman Colin Harkness has been confirmed by his bandmates]]></summary>
-        <author>
-            <name>fraser.lewry@futurenet.com (Fraser Lewry)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nazareth: Malice In Wonderland - Album Of The Week Club review]]></title>
-        <id>wv6GHiQDr4X7gWD9RBiTYK</id>
-        <link href="https://www.loudersound.com/reviews/nazareth-malice-in-wonderland-album-of-the-week-club"/>
-        <updated>2022-07-25T05:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Malice In Wonderland was perhaps Nazareth's most commercial album, but it was also a commercial disaster]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seinfeld non ha mai avuto bisogno dell’amore per strappare una risata]]></title>
-        <id>https://www.hallofseries.com/?p=584484</id>
-        <link href="https://www.hallofseries.com/seinfeld/seinfeld-per-far-ridere-amore-utilizzato/"/>
-        <updated>2022-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Seinfeld non gliene è mai fregato niente di tutto il resto delle storie che già erano state raccontate o che sicuramente lo sarebbero state. Guardandosi intorno – seppur validi – tutti i prodotti seriali erano uguali tra di loro, e in questo la trama c’entra ben poco. Non erano gli eventi o le storie… Leggi tutto »Seinfeld non ha mai avuto bisogno dell’amore per strappare una risata
-The post Seinfeld non ha mai avuto bisogno dell’amore per strappare una risata appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Annalisa Gabriele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[School uniforms! Iced water! Chaos! What happened when Robert Fripp and Toyah played AC/DC]]></title>
-        <id>6cjJdLPRPtVbjRYRPqSckZ</id>
-        <link href="https://www.loudersound.com/news/school-uniforms-iced-water-chaos-what-happened-when-robert-fripp-and-toyah-played-acdc"/>
-        <updated>2022-07-24T23:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Prog king Robert Fripp and post-post princess Toyah Willcox grapple with AC/DC's Back In Black and emerge colder but victorious]]></summary>
-        <author>
-            <name>fraser.lewry@futurenet.com (Fraser Lewry)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix, tutte le novità in arrivo questa settimana (25-31 luglio)]]></title>
-        <id>https://www.hallofseries.com/?p=584547</id>
-        <link href="https://www.hallofseries.com/netflix/netflix-tutte-novita-settimana/"/>
-        <updated>2022-07-24T23:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Netflix chiama! Ogni settimana è davvero facile perdersi tra le numerosissime uscite di Netflix ma in questi sette giorni sicuramente non mancheranno gli appuntamenti su Netflix. Better Call Saul 6 è in chiusura e questa settimana si prepara a presentare sul piccolo schermo il nono episodio. Ci stiamo avvicinando alla fine della serie e al momento in cui compariranno anche Walter… Leggi tutto »Netflix, tutte le novità in arrivo questa settimana (25-31 luglio)
-The post Netflix, tutte le novità in arrivo questa settimana (25-31 luglio) appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Lidia Maltese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harry Styles tornerà nel ruolo di Eros nell’MCU? La risposta di Kevin Feige]]></title>
-        <id>https://www.cinematographe.it/?p=917119</id>
-        <link href="https://www.cinematographe.it/news/harry-styles-tornera-nel-ruolo-di-eros-nellmcu-la-risposta-di-kevin-feige/"/>
-        <updated>2022-07-24T21:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Harry Styles è stato presentato ai fan Marvel nel ruolo di Starfox alias Eros, fratello di Thanos, nelle scene post credits di uno dei film…
-L'articolo Harry Styles tornerà nel ruolo di Eros nell’MCU? La risposta di Kevin Feige proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bob Rafelson è morto: addio al candidato Premio Oscar per Cinque Pezzi Facili]]></title>
-        <id>https://www.cinematographe.it/?p=917110</id>
-        <link href="https://www.cinematographe.it/news/bob-rafelson-e-morto-addio-al-candidato-premio-oscar-per-cinque-pezzi-facili/"/>
-        <updated>2022-07-24T20:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Produttore e regista di grande spessore, nominato all’Oscar per diverse opere, Bob Rafelson è morto all’età di 89 anni nella giornata dal 24 luglio 2022.…
-L'articolo Bob Rafelson è morto: addio al candidato Premio Oscar per Cinque Pezzi Facili proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armor Wars si farà? La serie TV è sparita dai programmi Marvel, ma ecco la risposta dello showrunner]]></title>
-        <id>https://www.cinematographe.it/?p=917106</id>
-        <link href="https://www.cinematographe.it/serie-tv/armor-wars-si-fara-la-serie-tv-e-sparita-dai-programmi-marvel-ma-ecco-la-risposta-dello-showrunner/"/>
-        <updated>2022-07-24T20:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Il San Diego Comic-Con ha dato moltissime notizie ai fan riguardo ciò che attende il futuro della Marvel: tra serie TV, trailer, nuove piccole clip…
-L'articolo Armor Wars si farà? La serie TV è sparita dai programmi Marvel, ma ecco la risposta dello showrunner proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arch Enemy’s Deceivers: melodeath monarchs deliver the goods on 11th album]]></title>
-        <id>utNnkFCebvFg7n9FGYdfqf</id>
-        <link href="https://www.loudersound.com/reviews/arch-enemy-deceivers-album-review"/>
-        <updated>2022-07-24T20:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Album review: anger, anthems and a few surprises on Arch Enemy’s new album Deceivers]]></summary>
-        <author>
-            <name>Louder Sound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sandman: il nuovo trailer dell’attesa serie Netflix!]]></title>
-        <id>https://www.cinematographe.it/?p=917096</id>
-        <link href="https://www.cinematographe.it/trailer-serie-tv/the-sandman-il-nuovo-trailer-dellattesa-serie-netflix/"/>
-        <updated>2022-07-24T19:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Dopo una prima occhiata esclusiva e molto affascinante durante la Geeked Week di Netflix, con trailer e prime immagini, The Sandman ha finalmente un nuovo…
-L'articolo The Sandman: il nuovo trailer dell’attesa serie Netflix! proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intervista col Vampiro: svelato il trailer ufficiale della serie TV AMC!]]></title>
-        <id>https://www.cinematographe.it/?p=917090</id>
-        <link href="https://www.cinematographe.it/serie-tv/intervista-col-vampiro-svelato-il-trailer-ufficiale-al-san-diego-comic-con-2022/"/>
-        <updated>2022-07-24T19:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Il vampiro Lestat, interpretato con carisma da Tom Cruise in uno dei suoi ruoli senza dubbio più riusciti, torna sullo schermo in una serie TV.…
-L'articolo Intervista col Vampiro: svelato il trailer ufficiale della serie TV AMC! proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridgerton 3: Simone Ashley torna sul set!]]></title>
-        <id>https://www.cinematographe.it/?p=917082</id>
-        <link href="https://www.cinematographe.it/serie-tv/bridgerton-stagione-3-simone-ashley-torna-sul-set/"/>
-        <updated>2022-07-24T19:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Simone Ashley, l’attrice ventisettenne che ha dato il volto alla protagonista della stagione 2 di Bridgerton, Kate Sharma, è tornata sul set in vista di…
-L'articolo Bridgerton 3: Simone Ashley torna sul set! proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Sveva Di Palma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 cliché onnipresenti in film e serie di fantascienza che non sopportiamo proprio più]]></title>
-        <id>https://www.hallofseries.com/?p=584400</id>
-        <link href="https://www.hallofseries.com/serie-tv/serie-di-fantascienza-film-cliche-insopportabili/"/>
-        <updated>2022-07-24T18:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Un alieno verde con la testa appuntita non fa più fantascienza così come il prossimo “reset button” ci farà addormentare dalla noia con il telecomando in mano. Dopo aver passato in rassegna 20 cliché delle Serie Tv che non sopportiamo proprio più e 15 Situazioni cliché che si verificano in tutte le Serie Tv Teen… Leggi tutto »15 cliché onnipresenti in film e serie di fantascienza che non sopportiamo proprio più
-The post 15 cliché onnipresenti in film e serie di fantascienza che non sopportiamo proprio più appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Sara Crecco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shiv Roy: subdola, affascinante, regina]]></title>
-        <id>https://www.hallofseries.com/?p=583515</id>
-        <link href="https://www.hallofseries.com/succession/succession-shiv-roy-subdola-affascinante-regina/"/>
-        <updated>2022-07-24T18:31:30.000Z</updated>
-        <summary type="html"><![CDATA[*Attenzione, seguono SPOILER su Succession, la black comedy-drama satirica di HBO* Succession è stata paragonata spesso a una Game of Thrones incentrata sulla famiglia Roy, cioè un versione potenziata dei Lannister. Nella dramedy satirica – che si è appena aggiudicata 25 nomination agli Emmy Awards 2022 – non c’è posto per gli Stark né per… Leggi tutto »Shiv Roy: subdola, affascinante, regina
-The post Shiv Roy: subdola, affascinante, regina appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Sara Crecco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Prevail Fan Fulfills Wish to Provide Sign Language for Band]]></title>
-        <id>https://loudwire.com/?p=519083</id>
-        <link href="https://loudwire.com/i-prevail-fan-fulfills-wish-sign-language-inkcarceration-2022/"/>
-        <updated>2022-07-24T17:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Watch the touching moment. Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slash Doesn't Think He's Ever Owned 'Appetite for Destruction']]></title>
-        <id>https://loudwire.com/?p=519086</id>
-        <link href="https://loudwire.com/guns-n-roses-slash-dont-think-ever-owned-appetite-for-destruction-record/"/>
-        <updated>2022-07-24T17:28:46.000Z</updated>
-        <summary type="html"><![CDATA[The famed guitarist feels little need to have the group's landmark 1987 debut LP. Continue reading…]]></summary>
-        <author>
-            <name>Jordan Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WATCH: Tom Morello Accidentally Tackled Off Stage by Security]]></title>
-        <id>https://loudwire.com/?p=519079</id>
-        <link href="https://loudwire.com/rage-against-the-machine-tom-morello-tackled-off-stage-toronto/"/>
-        <updated>2022-07-24T16:41:26.000Z</updated>
-        <summary type="html"><![CDATA[The guitarist was knocked over as security tried to subdue a fan who'd run across the stage. Continue reading…]]></summary>
-        <author>
-            <name>Jordan Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avete visto la casa di Alba Parietti? La sua villa con piscina è da sogno e un dettaglio ne esprime la personalità decisa]]></title>
-        <id>https://www.cinematographe.it/?p=917071</id>
-        <link href="https://www.cinematographe.it/news/casa-alba-parietti/"/>
-        <updated>2022-07-24T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Reduce dalle vacanze a Ibiza, Alba Parietti è rientrata in quel di Milano e per l’occasione ha subito deciso di organizzare una cena con il…
-L'articolo Avete visto la casa di Alba Parietti? La sua villa con piscina è da sogno e un dettaglio ne esprime la personalità decisa proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Manuel Magarini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un attore ha interpretato ben 5 personaggi diversi in Game of Thrones]]></title>
-        <id>https://www.hallofseries.com/?p=490398</id>
-        <link href="https://www.hallofseries.com/news/game-of-thrones-attore-personaggi-diversi-interpretati/"/>
-        <updated>2022-07-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Game of Thrones ci ha salutati ormai tre anni fa, ma la serie continua a far parlare di se nei modi più disparati. Non potrebbe essere altrimenti per quella che è una delle serie più famose di tutti i tempi, nonchè fenomeno mediatico probabilmente irripetibile o quasi capace di tenere incollati allo schermo decine e… Leggi tutto »Un attore ha interpretato ben 5 personaggi diversi in Game of Thrones
-The post Un attore ha interpretato ben 5 personaggi diversi in Game of Thrones appeared first on Hall of Series.]]></summary>
-        <author>
-            <name>Vincenzo Galdieri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pantera's 'Cowboys From Hell': 9 Facts Only Superfans Would Know]]></title>
-        <id>https://loudwire.com/?p=431306</id>
-        <link href="https://loudwire.com/pantera-cowboys-from-hell-facts/"/>
-        <updated>2022-07-24T15:48:07.000Z</updated>
-        <summary type="html"><![CDATA[The album that really started it all for them. Continue reading…]]></summary>
-        <author>
-            <name>Lauryn Schaffner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Ohana 'Encore Weekend' Event Canceled]]></title>
-        <id>https://loudwire.com/?p=514079</id>
-        <link href="https://loudwire.com/2022-ohana-encore-weekend-lineup-revealed-eddie-vedder-black-keys/"/>
-        <updated>2022-07-24T15:35:58.000Z</updated>
-        <summary type="html"><![CDATA[But the initial music weekend will go on as planned. Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hot Chili Peppers Reveal Release Plans for Second 2022 Album]]></title>
-        <id>https://loudwire.com/?p=519056</id>
-        <link href="https://loudwire.com/red-hot-chili-peppers-second-2022-album-return-of-the-dream-canteen/"/>
-        <updated>2022-07-24T15:25:47.000Z</updated>
-        <summary type="html"><![CDATA[The funk/alt rockers are ready for album 13. Are you? Continue reading…]]></summary>
-        <author>
-            <name>Jordan Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russell Crowe prova a recitare Il Gladiatore in italiano e Luca Ward scatena “l’inferno”!]]></title>
-        <id>https://www.cinematographe.it/?p=916850</id>
-        <link href="https://www.cinematographe.it/news/russell-crowe-recita-il-gladiatore-in-italiano-la-risposta-di-luca-ward/"/>
-        <updated>2022-07-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Come vi abbiamo documentato qualche giorno fa, tra i tanti vip arrivati nel nostro Paese per godersi qualche giorno di vacanza c’è anche Russell Crowe.…
-L'articolo Russell Crowe prova a recitare Il Gladiatore in italiano e Luca Ward scatena “l’inferno”! proviene da Cinematographe.it.]]></summary>
-        <author>
-            <name>Danilo Gargano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rob Zombie Rocks 'Thunder Kiss '65' With Brother Spider One]]></title>
-        <id>https://loudwire.com/?p=519057</id>
-        <link href="https://loudwire.com/rob-zombie-thunder-kiss-65-spider-one-powerman-5000-static-x/"/>
-        <updated>2022-07-24T14:58:09.000Z</updated>
-        <summary type="html"><![CDATA[The collaboration came about after some production issues affected the package tour. Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hot Chili Peppers Detail New LP ‘Return of the Dream Canteen']]></title>
-        <id>https://ultimateclassicrock.com/?p=526208</id>
-        <link href="https://ultimateclassicrock.com/red-hot-chili-peppers-return-of-the-dream-canteen/"/>
-        <updated>2022-07-24T13:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Rick Rubin-produced album will be band's second studio release in six months.  Continue reading…]]></summary>
-        <author>
-            <name>Allison Rapp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 Years Ago: Avenged Sevenfold's 'Sounding the Seventh Trumpet']]></title>
-        <id>https://loudwire.com/?p=248291</id>
-        <link href="https://loudwire.com/avenged-sevenfold-sounding-the-seventh-trumpet-album-anniversary/"/>
-        <updated>2022-07-24T13:24:06.000Z</updated>
-        <summary type="html"><![CDATA[On July 24, 2001, Avenged Sevenfold released their debut disc, 'Sounding the Seventh Trumpet' Continue reading…]]></summary>
-        <author>
-            <name>Chad Childers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32 Years Ago: Pantera Find Their Voice With 'Cowboys From Hell']]></title>
-        <id>https://loudwire.com/?p=248234</id>
-        <link href="https://loudwire.com/pantera-cowboys-from-hell-album-anniversary/"/>
-        <updated>2022-07-24T13:08:26.000Z</updated>
-        <summary type="html"><![CDATA[On July 24, 1990, Pantera took a major step forward in their music career with the 'Cowboys From Hell' album. Continue reading…]]></summary>
-        <author>
-            <name>Jon Wiederhorn</name>
         </author>
     </entry>
     <entry>
